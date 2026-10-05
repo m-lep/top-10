@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f5f3ec;
+  --paper-2: #ece9df;
+  --ink: #15140f;
+  --ink-2: #3b3a33;
+  --muted: #7a776c;
+  --line: #d9d4c5;
+  --line-2: #c7c1ae;
+  --accent: #c8401c;
+  --accent-ink: #9f3015;
+  --ok: #1f6b3a;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-line-2: var(--line-2);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-ok: var(--ok);
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", Menlo, monospace;
+  --font-serif: var(--font-instrument), "Iowan Old Style", Georgia, serif;
+}
+
+html {
+  background: var(--paper);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+}
+
+.serif {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+.num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+/* Hidden answer placeholder */
+.slot {
+  background-image: repeating-linear-gradient(
+    to right,
+    var(--line-2) 0 6px,
+    transparent 6px 11px
+  );
+  background-size: 100% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+}
+
+@keyframes shake {
+  10%, 90% { transform: translateX(-1px); }
+  20%, 80% { transform: translateX(2px); }
+  30%, 50%, 70% { transform: translateX(-4px); }
+  40%, 60% { transform: translateX(4px); }
+}
+.shake { animation: shake 0.45s cubic-bezier(0.36, 0.07, 0.19, 0.97) both; }
+
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: none; }
+}
+.reveal { animation: reveal 0.35s ease-out both; }
+
+@keyframes flash {
+  0% { background-color: color-mix(in srgb, var(--accent) 14%, transparent); }
+  100% { background-color: transparent; }
+}
+.flash { animation: flash 1.2s ease-out both; }
+
+input::placeholder { color: var(--muted); }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .shake, .reveal, .flash { animation: none; }
+}
