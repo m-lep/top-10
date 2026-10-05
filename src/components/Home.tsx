@@ -2,21 +2,17 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import type { ListSummary } from "@/data";
 import { CATEGORIES, CATEGORY_LABEL, type Category } from "@/data/types";
-import { loadResults, type Result } from "@/lib/storage";
+import { useResults } from "@/lib/storage";
 
 type Filter = "all" | Category;
 
 export function Home({ lists }: { lists: ListSummary[] }) {
   const router = useRouter();
   const [filter, setFilter] = useState<Filter>("all");
-  const [results, setResults] = useState<Record<string, Result>>({});
-
-  useEffect(() => {
-    setResults(loadResults());
-  }, []);
+  const results = useResults();
 
   const visible = useMemo(
     () => (filter === "all" ? lists : lists.filter((l) => l.category === filter)),
@@ -129,8 +125,8 @@ export function Home({ lists }: { lists: ListSummary[] }) {
       </ul>
 
       <footer className="mt-16 text-[13px] text-muted leading-relaxed max-w-xl">
-        Chaque classement indique sa source et l'année des données. Les valeurs
-        sont celles publiées par l'organisme cité ; les classements « instantanés »
+        Chaque classement indique sa source et l&apos;année des données. Les valeurs
+        sont celles publiées par l&apos;organisme cité ; les classements « instantanés »
         (fortunes, streams, capitalisations) datent du jour indiqué.
       </footer>
     </main>

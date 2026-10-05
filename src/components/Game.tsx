@@ -13,7 +13,7 @@ type Feedback = { kind: "wrong" | "dup" | "ok"; text: string; key: number } | nu
 
 export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) {
   const router = useRouter();
-  const [found, setFound] = useState<Set<string>>(() => new Set());
+  const [found, setFound] = useState<Map<string, string>>(() => new Map());
   const [hints, setHints] = useState<Set<string>>(() => new Set());
   const [gaveUp, setGaveUp] = useState(false);
   const [wrong, setWrong] = useState(0);
@@ -45,15 +45,15 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
     if (!guess || done) return;
     const hit = findMatch(guess, remaining);
     if (hit) {
-      setFound((prev) => new Set(prev).add(hit.name));
-      setLastFound(hit.name);
+      setFound((prev) => new Map(prev).set(hit.item.name, hit.as));
+      setLastFound(hit.item.name);
       setFeedback(null);
       setValue("");
       return;
     }
     const already = findMatch(guess, list.items.filter((it) => found.has(it.name)));
     if (already) {
-      setFeedback({ kind: "dup", text: `${already.name} est déjà trouvé`, key: Date.now() });
+      setFeedback({ kind: "dup", text: `${already.as} est déjà trouvé`, key: Date.now() });
     } else {
       setWrong((w) => w + 1);
       setFeedback({ kind: "wrong", text: "Non, pas dans le classement", key: Date.now() });
@@ -69,7 +69,7 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
   }
 
   function replay() {
-    setFound(new Set());
+    setFound(new Map());
     setHints(new Set());
     setGaveUp(false);
     setWrong(0);
@@ -130,9 +130,19 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
                       isFound ? "text-ink font-medium" : "text-muted"
                     }`}
                   >
-                    {it.name}
+                    {found.get(it.name) ?? it.name}
                   </span>
-                  {it.note && <span className="block text-[12px] text-muted">{it.note}</span>}
+                  {(it.note || it.ties?.length) && (
+                    <span className="block truncate text-[12px] text-muted">
+                      {it.note}
+                      {it.note && it.ties?.length ? " · " : ""}
+                      {it.ties?.length
+                        ? `ex æquo : ${[it.name, ...it.ties]
+                            .filter((n) => n !== (found.get(it.name) ?? it.name))
+                            .join(", ")}`
+                        : ""}
+                    </span>
+                  )}
                 </div>
               ) : (
                 <button
@@ -182,7 +192,11 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
           {" · "}
           données {list.year}.
         </p>
-        {list.notes && <p className="mt-1">{list.notes}</p>}
+        {done ? (
+          list.notes && <p className="mt-1">{list.notes}</p>
+        ) : (
+          <p className="mt-1">Les précisions sur les données apparaissent en fin de partie.</p>
+        )}
       </section>
 
       {/* Barre de saisie / résultat */}

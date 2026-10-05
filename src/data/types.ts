@@ -27,6 +27,8 @@ export interface TopItem {
   value: number;
   aliases?: string[];
   note?: string;
+  /** Autres noms à égalité (même valeur) non listés : acceptés comme bonnes réponses. */
+  ties?: string[];
 }
 
 export interface TopList {

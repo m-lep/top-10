@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "pays-les-plus-visites",
+    "title": "Les pays les plus visités au monde",
+    "measure": "Arrivées de touristes internationaux",
+    "category": "monde",
+    "unit": "M de visiteurs",
+    "precision": 1,
+    "year": "2024",
+    "source": {
+      "name": "ONU Tourisme, Baromètre du tourisme mondial, annexe statistique nov. 2025 (tableau A-7)",
+      "url": "https://www.e-unwto.org/doi/pdf/10.18111/wtobarometereng.2025.23.1.4"
+    },
+    "confidence": "high",
+    "notes": "Dernière année complète publiée par ONU Tourisme (le classement 2025 reste incomplet : France, Royaume-Uni, Allemagne, Japon non encore publiés en octobre 2026 ; Espagne 96,8 M, États-Unis 68,3 M en baisse, Italie 61,5 M, Turquie 62 M). Classement provisoire : la Chine (4e en 2019 avec 65,7 M) n'a pas transmis ses données 2024 à ONU Tourisme et n'est donc pas classée ; les sources chinoises donnent 64,9 M. Hong Kong (21,9 M) et Macao (16,0 M) sont comptés à part. Séries différentes selon les pays : la Turquie inclut ses ressortissants résidant à l'étranger ; le Royaume-Uni et le Japon comptent les visiteurs (y c. excursionnistes) ; l'Allemagne compte les arrivées en hébergement.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "France",
+        "value": 102,
+        "aliases": [
+          "République française"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Espagne",
+        "value": 93.8,
+        "aliases": [
+          "Spain",
+          "España"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "États-Unis",
+        "value": 72.4,
+        "aliases": [
+          "USA",
+          "US",
+          "Etats-Unis d'Amérique",
+          "United States",
+          "Amérique",
+          "États-Unis d'Amérique"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Turquie",
+        "value": 60.6,
+        "aliases": [
+          "Türkiye",
+          "Turkey"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Italie",
+        "value": 57.7,
+        "aliases": [
+          "Italy",
+          "Italia"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Mexique",
+        "value": 45,
+        "aliases": [
+          "Mexico",
+          "México"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Royaume-Uni",
+        "value": 41.8,
+        "aliases": [
+          "UK",
+          "Grande-Bretagne",
+          "Angleterre",
+          "United Kingdom",
+          "Great Britain",
+          "GB"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Allemagne",
+        "value": 37.5,
+        "aliases": [
+          "Germany",
+          "Deutschland",
+          "RFA"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Japon",
+        "value": 36.9,
+        "aliases": [
+          "Japan",
+          "Nippon"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Grèce",
+        "value": 36,
+        "aliases": [
+          "Greece",
+          "Hellas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agglomerations-les-plus-peuplees",
+    "title": "Les villes les plus peuplées du monde",
+    "measure": "Population de l'agglomération urbaine",
+    "category": "monde",
+    "unit": "M d'habitants",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "ONU DESA, World Urbanization Prospects 2025 – The World's Cities in 2025 (Data Booklet)",
+      "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2025_data-booklet_world_cities_in_2025.pdf"
+    },
+    "confidence": "high",
+    "notes": "Nouvelle méthodologie harmonisée de l'ONU (nov. 2025, « degré d'urbanisation ») : agglomération = zone bâtie continue de plus de 1 500 hab./km², indépendamment des limites administratives. Jakarta devance désormais Tokyo. Kolkata et Séoul sont à égalité (22,5 M). Suivent Karachi (21,4 M) et Mumbai (20,2 M).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Jakarta",
+        "value": 41.9,
+        "aliases": [
+          "Djakarta",
+          "Jabodetabek"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Dacca",
+        "value": 36.6,
+        "aliases": [
+          "Dhaka"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Tokyo",
+        "value": 33.4,
+        "aliases": [
+          "Tōkyō",
+          "Tokio"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "New Delhi",
+        "value": 30.2,
+        "aliases": [
+          "Delhi",
+          "Nouvelle-Delhi"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Shanghai",
+        "value": 29.6,
+        "aliases": [
+          "Shanghaï",
+          "Changhai"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Canton",
+        "value": 27.6,
+        "aliases": [
+          "Guangzhou",
+          "Kanton"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Le Caire",
+        "value": 25.6,
+        "aliases": [
+          "Caire",
+          "Cairo",
+          "Al-Qahirah"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Manille",
+        "value": 24.7,
+        "aliases": [
+          "Manila",
+          "Metro Manila"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Calcutta",
+        "value": 22.5,
+        "aliases": [
+          "Kolkata"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Séoul",
+        "value": 22.5,
+        "aliases": [
+          "Seoul"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "langues-les-plus-parlees",
+    "title": "Les langues les plus parlées au monde",
+    "measure": "Locuteurs totaux (langue maternelle + seconde langue)",
+    "category": "monde",
+    "unit": "M de locuteurs",
+    "precision": 0,
+    "year": "2026",
+    "source": {
+      "name": "Ethnologue, 29e édition (2026), « Ethnologue 200 »",
+      "url": "https://www.ethnologue.com/insights/ethnologue200/"
+    },
+    "confidence": "medium",
+    "notes": "Chiffres Ethnologue 2026 relevés via la table reprise par Wikipédia et Visual Capitalist (le site Ethnologue est payant et bloque l'accès automatique). L'arabe standard moderne (335 M) n'a pas de locuteurs natifs : Ethnologue sépare les variétés d'arabe (l'arabe égyptien compte 118 M). Le mandarin est 1er si l'on ne compte que les locuteurs natifs (988 M contre 372 M pour l'anglais).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Anglais",
+        "value": 1493,
+        "aliases": [
+          "English"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Mandarin",
+        "value": 1183,
+        "aliases": [
+          "Chinois",
+          "Chinois mandarin",
+          "Mandarin Chinese",
+          "Chinese",
+          "Putonghua"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Hindi",
+        "value": 611,
+        "aliases": [
+          "Hindî"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Espagnol",
+        "value": 561,
+        "aliases": [
+          "Castillan",
+          "Spanish",
+          "Español"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Arabe standard",
+        "value": 335,
+        "aliases": [
+          "Arabe",
+          "Arabe standard moderne",
+          "Arabe littéraire",
+          "Arabic",
+          "Modern Standard Arabic"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Français",
+        "value": 334,
+        "aliases": [
+          "French"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Bengali",
+        "value": 274,
+        "aliases": [
+          "Bangla",
+          "Bengalî"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Portugais",
+        "value": 269,
+        "aliases": [
+          "Portuguese",
+          "Português"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Indonésien",
+        "value": 255,
+        "aliases": [
+          "Bahasa Indonesia",
+          "Indonesian",
+          "Bahasa"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Ourdou",
+        "value": 246,
+        "aliases": [
+          "Urdu",
+          "Ourdu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-par-pib-nominal",
+    "title": "Les plus grandes économies du monde",
+    "measure": "PIB nominal (prix courants, en dollars)",
+    "category": "monde",
+    "unit": "Md $",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "FMI, World Economic Outlook, avril 2026 (série NGDPD)",
+      "url": "https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD"
+    },
+    "confidence": "high",
+    "notes": "Estimations du FMI pour 2025 (édition d'avril 2026 ; l'édition d'octobre 2026 paraît le 13 octobre 2026). Projections 2026 du même WEO : États-Unis 32 384, Chine 20 852, Allemagne 5 453, Japon 4 379, Royaume-Uni 4 265, Inde 4 153, France 3 596, Italie 2 738, Russie 2 656, Brésil 2 636 (le Brésil passerait devant le Canada). Suivent en 2025 : Brésil 2 280, Espagne 1 904, Corée du Sud 1 872.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 30767.075,
+        "aliases": [
+          "USA",
+          "US",
+          "Etats-Unis d'Amérique",
+          "United States",
+          "Amérique",
+          "États-Unis d'Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Chine",
+        "value": 19626.247,
+        "aliases": [
+          "China",
+          "République populaire de Chine",
+          "RPC"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Allemagne",
+        "value": 5048.059,
+        "aliases": [
+          "Germany",
+          "Deutschland",
+          "RFA"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Japon",
+        "value": 4435.163,
+        "aliases": [
+          "Japan",
+          "Nippon"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Royaume-Uni",
+        "value": 4003.022,
+        "aliases": [
+          "UK",
+          "Grande-Bretagne",
+          "Angleterre",
+          "United Kingdom",
+          "Great Britain",
+          "GB"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Inde",
+        "value": 3916.312,
+        "aliases": [
+          "India",
+          "Bharat"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "France",
+        "value": 3368.925,
+        "aliases": [
+          "République française"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Russie",
+        "value": 2587.938,
+        "aliases": [
+          "Russia",
+          "Fédération de Russie",
+          "Russian Federation"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Italie",
+        "value": 2550.111,
+        "aliases": [
+          "Italy",
+          "Italia"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Canada",
+        "value": 2319.9,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "pays-sites-unesco",
+    "title": "Les pays comptant le plus de sites au patrimoine mondial de l'UNESCO",
+    "measure": "Biens inscrits sur la Liste du patrimoine mondial",
+    "category": "monde",
+    "unit": "sites",
+    "precision": 0,
+    "year": "2026",
+    "source": {
+      "name": "UNESCO, Liste du patrimoine mondial après la 48e session du Comité (Busan, juillet 2026)",
+      "url": "https://whc.unesco.org/fr/list/stat"
+    },
+    "confidence": "medium",
+    "notes": "Après la 48e session du Comité (Busan, juillet 2026, 25 nouveaux biens, 1 273 biens au total dans 173 pays). Décompte selon la convention UNESCO : un bien transfrontalier (ex. l'œuvre de Le Corbusier, 7 pays) est compté pour chacun des pays concernés. Compteurs vérifiés via des sources secondaires concordantes (Visual Capitalist, Business Today, sept. 2026) et les listes Wikipédia par pays, la page statistique de l'UNESCO n'étant pas accessible automatiquement. Le Japon et les États-Unis sont à égalité (27) ; suivent le Brésil (26), le Canada et la Turquie (22).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Italie",
+        "value": 62,
+        "aliases": [
+          "Italy",
+          "Italia"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Chine",
+        "value": 61,
+        "aliases": [
+          "China",
+          "République populaire de Chine",
+          "RPC"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "France",
+        "value": 56,
+        "aliases": [
+          "République française"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Allemagne",
+        "value": 55,
+        "aliases": [
+          "Germany",
+          "Deutschland",
+          "RFA"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Espagne",
+        "value": 50,
+        "aliases": [
+          "Spain",
+          "España"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Inde",
+        "value": 45,
+        "aliases": [
+          "India",
+          "Bharat"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Mexique",
+        "value": 36,
+        "aliases": [
+          "Mexico",
+          "México"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Royaume-Uni",
+        "value": 35,
+        "aliases": [
+          "UK",
+          "Grande-Bretagne",
+          "Angleterre",
+          "United Kingdom",
+          "Great Britain",
+          "GB"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Russie",
+        "value": 33,
+        "aliases": [
+          "Russia",
+          "Fédération de Russie",
+          "Russian Federation"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Iran",
+        "value": 30,
+        "aliases": [
+          "Perse",
+          "République islamique d'Iran"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-emetteurs-co2",
+    "title": "Les pays les plus gros émetteurs de CO₂",
+    "measure": "Émissions territoriales de CO₂ fossile (combustibles fossiles et industrie)",
+    "category": "monde",
+    "unit": "Mt de CO₂",
+    "precision": 0,
+    "year": "2024",
+    "source": {
+      "name": "Global Carbon Project, Global Carbon Budget 2025 (via Our World in Data)",
+      "url": "https://ourworldindata.org/grapher/annual-co2-emissions-per-country"
+    },
+    "confidence": "high",
+    "notes": "Émissions territoriales (production), hors changement d'usage des sols ; transport aérien et maritime international non attribués aux pays. 2024 est la dernière année consolidée du Global Carbon Budget 2025 (nov. 2025) ; pour 2025 le GCB ne donne que des projections (Chine +0,4 %, États-Unis +2,5 %, Inde +1,1 %). L'Union européenne à 27 (2 426 Mt) se placerait 4e si elle était comptée comme une entité. Suivent le Canada (533 Mt), la Turquie (513 Mt), le Brésil (483 Mt).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Chine",
+        "value": 12289,
+        "aliases": [
+          "China",
+          "République populaire de Chine",
+          "RPC"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "États-Unis",
+        "value": 4904.1,
+        "aliases": [
+          "USA",
+          "US",
+          "Etats-Unis d'Amérique",
+          "United States",
+          "Amérique",
+          "États-Unis d'Amérique"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Inde",
+        "value": 3193.5,
+        "aliases": [
+          "India",
+          "Bharat"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Russie",
+        "value": 1780.5,
+        "aliases": [
+          "Russia",
+          "Fédération de Russie",
+          "Russian Federation"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Japon",
+        "value": 961.9,
+        "aliases": [
+          "Japan",
+          "Nippon"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Indonésie",
+        "value": 812.2,
+        "aliases": [
+          "Indonesia"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Iran",
+        "value": 792.6,
+        "aliases": [
+          "Perse",
+          "République islamique d'Iran"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Arabie saoudite",
+        "value": 692.1,
+        "aliases": [
+          "Arabie Saoudite",
+          "Saudi Arabia",
+          "KSA",
+          "Arabie"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Corée du Sud",
+        "value": 583.7,
+        "aliases": [
+          "Corée",
+          "South Korea",
+          "République de Corée",
+          "Korea"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Allemagne",
+        "value": 572.3,
+        "aliases": [
+          "Germany",
+          "Deutschland",
+          "RFA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aeroports-les-plus-frequentes",
+    "title": "Les aéroports les plus fréquentés du monde",
+    "measure": "Passagers totaux (embarqués, débarqués et en transit direct)",
+    "category": "monde",
+    "unit": "M de passagers",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "ACI World, classement définitif 2025 des aéroports les plus fréquentés (15 juillet 2026)",
+      "url": "https://aci.aero/2026/07/15/worlds-busiest-airports-atlanta-holds-asia-climbs-strong-demand-while-asia-pacific-growth-reshape-the-rankings/"
+    },
+    "confidence": "high",
+    "notes": "Chiffres définitifs ACI World pour 2025 (9,8 milliards de passagers dans le monde, +3,6 %). Shanghai-Pudong passe de la 10e à la 5e place ; les places 4 à 10 se tiennent en moins de 3,3 millions de passagers.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Atlanta (Hartsfield-Jackson)",
+        "value": 106.302208,
+        "aliases": [
+          "Atlanta",
+          "Hartsfield-Jackson",
+          "ATL",
+          "Hartsfield"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Dubaï (International)",
+        "value": 95.19216,
+        "aliases": [
+          "Dubaï",
+          "Dubai",
+          "DXB",
+          "Dubai International"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Tokyo (Haneda)",
+        "value": 91.679814,
+        "aliases": [
+          "Tokyo",
+          "Haneda",
+          "HND",
+          "Tokyo-Haneda"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Dallas-Fort Worth",
+        "value": 85.660127,
+        "aliases": [
+          "Dallas",
+          "Dallas Fort Worth",
+          "DFW",
+          "Fort Worth"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Shanghai (Pudong)",
+        "value": 84.994548,
+        "aliases": [
+          "Shanghai",
+          "Shanghaï",
+          "Pudong",
+          "PVG",
+          "Shanghai-Pudong"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Chicago (O'Hare)",
+        "value": 84.856018,
+        "aliases": [
+          "Chicago",
+          "O'Hare",
+          "ORD",
+          "Chicago O'Hare"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Londres (Heathrow)",
+        "value": 84.482126,
+        "aliases": [
+          "Londres",
+          "London",
+          "Heathrow",
+          "LHR",
+          "London Heathrow"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Istanbul",
+        "value": 84.43771,
+        "aliases": [
+          "Istanbul Airport",
+          "IST",
+          "Istamboul"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Canton (Baiyun)",
+        "value": 83.582952,
+        "aliases": [
+          "Canton",
+          "Guangzhou",
+          "Baiyun",
+          "CAN",
+          "Guangzhou Baiyun"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Denver",
+        "value": 82.427962,
+        "aliases": [
+          "DEN",
+          "Denver International"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-depenses-militaires",
+    "title": "Les pays aux dépenses militaires les plus élevées",
+    "measure": "Dépenses militaires (dollars courants)",
+    "category": "monde",
+    "unit": "Md $",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "SIPRI, Fact Sheet « Trends in World Military Expenditure, 2025 » (avril 2026)",
+      "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf"
+    },
+    "confidence": "high",
+    "notes": "Dépenses mondiales : 2 887 Md $ en 2025 (+2,9 % en termes réels). Les chiffres de la Chine, de la Russie, de l'Ukraine et de l'Arabie saoudite sont des estimations du SIPRI. Les États-Unis sont en baisse (−7,5 %) mais pèsent encore 33 % du total ; l'Allemagne (+24 %) passe de la 5e à la 4e place. Suivent Israël (48,3), l'Italie (48,1), la Corée du Sud (47,8), la Pologne (46,8), l'Espagne (40,2).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 954,
+        "aliases": [
+          "USA",
+          "US",
+          "Etats-Unis d'Amérique",
+          "United States",
+          "Amérique",
+          "États-Unis d'Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Chine",
+        "value": 336,
+        "aliases": [
+          "China",
+          "République populaire de Chine",
+          "RPC"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Russie",
+        "value": 190,
+        "aliases": [
+          "Russia",
+          "Fédération de Russie",
+          "Russian Federation"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Allemagne",
+        "value": 114,
+        "aliases": [
+          "Germany",
+          "Deutschland",
+          "RFA"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Inde",
+        "value": 92.1,
+        "aliases": [
+          "India",
+          "Bharat"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Royaume-Uni",
+        "value": 89,
+        "aliases": [
+          "UK",
+          "Grande-Bretagne",
+          "Angleterre",
+          "United Kingdom",
+          "Great Britain",
+          "GB"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Ukraine",
+        "value": 84.1,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Arabie saoudite",
+        "value": 83.2,
+        "aliases": [
+          "Arabie Saoudite",
+          "Saudi Arabia",
+          "KSA",
+          "Arabie"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "France",
+        "value": 68,
+        "aliases": [
+          "République française"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Japon",
+        "value": 62.2,
+        "aliases": [
+          "Japan",
+          "Nippon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-les-plus-heureux",
+    "title": "Les pays les plus heureux du monde",
+    "measure": "Score d'évaluation de la vie (échelle de Cantril, 0 à 10)",
+    "category": "monde",
+    "unit": "/10",
+    "precision": 3,
+    "year": "2026",
+    "source": {
+      "name": "World Happiness Report 2026 (Wellbeing Research Centre, Oxford / Gallup), classement des pays",
+      "url": "https://data.worldhappiness.report/table"
+    },
+    "confidence": "medium",
+    "notes": "Rapport publié le 18 mars 2026 ; score = moyenne 2023-2025 des évaluations de vie du Gallup World Poll. La Finlande est 1re pour la 9e année consécutive ; le Costa Rica est le premier pays non européen (4e). Scores relevés via Wikipédia et la presse (Smithsonian, Forbes), le tableau interactif officiel n'étant pas lisible automatiquement. Suivent la Nouvelle-Zélande (6,995), le Mexique (6,972), l'Irlande (6,928).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Finlande",
+        "value": 7.764,
+        "aliases": [
+          "Finland",
+          "Suomi"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Islande",
+        "value": 7.54,
+        "aliases": [
+          "Iceland",
+          "Ísland"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Danemark",
+        "value": 7.539,
+        "aliases": [
+          "Denmark",
+          "Danmark"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Costa Rica",
+        "value": 7.439,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Suède",
+        "value": 7.255,
+        "aliases": [
+          "Sweden",
+          "Sverige"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Norvège",
+        "value": 7.242,
+        "aliases": [
+          "Norway",
+          "Norge"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Pays-Bas",
+        "value": 7.223,
+        "aliases": [
+          "Hollande",
+          "Netherlands",
+          "Nederland",
+          "Holland"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Israël",
+        "value": 7.187,
+        "aliases": [
+          "Israel"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Luxembourg",
+        "value": 7.063,
+        "aliases": [
+          "Lëtzebuerg"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Suisse",
+        "value": 7.018,
+        "aliases": [
+          "Switzerland",
+          "Schweiz",
+          "Svizzera",
+          "Confédération helvétique",
+          "Helvétie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-esperance-de-vie",
+    "title": "Les pays à l'espérance de vie la plus élevée",
+    "measure": "Espérance de vie à la naissance, deux sexes",
+    "category": "monde",
+    "unit": "ans",
+    "precision": 1,
+    "year": "2023",
+    "source": {
+      "name": "ONU DESA, World Population Prospects 2024 (estimations 2023, via Our World in Data)",
+      "url": "https://ourworldindata.org/grapher/life-expectancy"
+    },
+    "confidence": "high",
+    "notes": "2023 est la dernière année d'estimation (et non de projection) du WPP 2024. Liste basée sur les « pays et zones » de l'ONU : micro-États (Monaco, Saint-Marin, Andorre) et régions administratives spéciales (Hong Kong) inclus ; les territoires dépendants (Saint-Barthélemy 84,3, Polynésie française 84,1, Gibraltar, Réunion, Guernesey) exclus. Macao (83,1) n'entre pas dans le top 10. Singapour (83,74) devance l'Italie (83,72) au centième ; suivent l'Espagne (83,7) et le Liechtenstein (83,6). Le Japon reste le premier grand pays.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Monaco",
+        "value": 86.4,
+        "aliases": [
+          "Principauté de Monaco"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Saint-Marin",
+        "value": 85.7,
+        "aliases": [
+          "San Marino"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Hong Kong",
+        "value": 85.5,
+        "aliases": [
+          "Hongkong",
+          "Hong-Kong"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Japon",
+        "value": 84.7,
+        "aliases": [
+          "Japan",
+          "Nippon"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Corée du Sud",
+        "value": 84.3,
+        "aliases": [
+          "Corée",
+          "South Korea",
+          "République de Corée",
+          "Korea"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Andorre",
+        "value": 84,
+        "aliases": [
+          "Andorra"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Suisse",
+        "value": 84,
+        "aliases": [
+          "Switzerland",
+          "Schweiz",
+          "Svizzera",
+          "Confédération helvétique",
+          "Helvétie"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Australie",
+        "value": 83.9,
+        "aliases": [
+          "Australia"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Singapour",
+        "value": 83.7,
+        "aliases": [
+          "Singapore"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Italie",
+        "value": 83.7,
+        "aliases": [
+          "Italy",
+          "Italia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-producteurs-petrole",
+    "title": "Les plus grands producteurs de pétrole",
+    "measure": "Production totale de pétrole et autres liquides (brut, condensats, LGN, autres liquides)",
+    "category": "monde",
+    "unit": "M de barils/jour",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "EIA (U.S. Energy Information Administration), International Energy Statistics – production annuelle 2025",
+      "url": "https://www.eia.gov/international/data/world/petroleum-and-other-liquids/annual-petroleum-and-other-liquids-production"
+    },
+    "confidence": "medium",
+    "notes": "Données EIA 2025 (production mondiale 104,0 M b/j), relevées via l'API internationale de l'EIA ; le pétrole brut seul donnerait un écart plus faible entre États-Unis (13,6), Russie (9,9) et Arabie saoudite (9,6). L'Energy Institute (Statistical Review 2026) publie des chiffres un peu différents mais le même ordre pour le podium : États-Unis 21,1, Arabie saoudite 11,4, Russie 10,7. Suivent le Kazakhstan (2,1), la Norvège (2,0), le Qatar (1,9), le Mexique (1,9).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 22.76,
+        "aliases": [
+          "USA",
+          "US",
+          "Etats-Unis d'Amérique",
+          "United States",
+          "Amérique",
+          "États-Unis d'Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Arabie saoudite",
+        "value": 11.19,
+        "aliases": [
+          "Arabie Saoudite",
+          "Saudi Arabia",
+          "KSA",
+          "Arabie"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Russie",
+        "value": 10.51,
+        "aliases": [
+          "Russia",
+          "Fédération de Russie",
+          "Russian Federation"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Canada",
+        "value": 6.19,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Chine",
+        "value": 5.16,
+        "aliases": [
+          "China",
+          "République populaire de Chine",
+          "RPC"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Iran",
+        "value": 4.76,
+        "aliases": [
+          "Perse",
+          "République islamique d'Iran"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Brésil",
+        "value": 4.59,
+        "aliases": [
+          "Brazil",
+          "Brasil"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Irak",
+        "value": 4.51,
+        "aliases": [
+          "Iraq"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Émirats arabes unis",
+        "value": 4.32,
+        "aliases": [
+          "EAU",
+          "Émirats",
+          "Emirats",
+          "UAE",
+          "United Arab Emirates",
+          "Émirats Arabes Unis"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Koweït",
+        "value": 2.81,
+        "aliases": [
+          "Kuwait",
+          "Koweit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-reacteurs-nucleaires",
+    "title": "Les pays comptant le plus de réacteurs nucléaires en service",
+    "measure": "Réacteurs nucléaires de puissance en exploitation",
+    "category": "monde",
+    "unit": "réacteurs",
+    "precision": 0,
+    "year": "31 déc. 2025",
+    "source": {
+      "name": "AIEA, PRIS – Nuclear Power Reactors in the World, Reference Data Series n° 2, édition 2026 (tableau 1)",
+      "url": "https://www-pub.iaea.org/MTCD/publications/PDF/RDS-2_46web.pdf"
+    },
+    "confidence": "high",
+    "notes": "Décompte officiel AIEA (PRIS) au 31 décembre 2025 : 413 réacteurs en exploitation dans 31 pays (417 en octobre 2026 selon le tableau de bord PRIS). La catégorie « en exploitation » exclut les réacteurs en « arrêt prolongé » : le Japon en a 19 supplémentaires (33 au total), l'Inde 4. Depuis, la Chine a raccordé de nouvelles unités (64 en service fin sept. 2026 selon la World Nuclear Association) et compte 36 réacteurs en construction. La France est 1re en capacité par habitant et en part du nucléaire (68 %). Suivent l'Espagne (7), la Suède, la République tchèque et le Pakistan (6).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 94,
+        "aliases": [
+          "USA",
+          "US",
+          "Etats-Unis d'Amérique",
+          "United States",
+          "Amérique",
+          "États-Unis d'Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Chine",
+        "value": 58,
+        "aliases": [
+          "China",
+          "République populaire de Chine",
+          "RPC"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "France",
+        "value": 57,
+        "aliases": [
+          "République française"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Russie",
+        "value": 34,
+        "aliases": [
+          "Russia",
+          "Fédération de Russie",
+          "Russian Federation"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Corée du Sud",
+        "value": 26,
+        "aliases": [
+          "Corée",
+          "South Korea",
+          "République de Corée",
+          "Korea"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Inde",
+        "value": 21,
+        "aliases": [
+          "India",
+          "Bharat"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Canada",
+        "value": 17,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Ukraine",
+        "value": 15,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Japon",
+        "value": 14,
+        "aliases": [
+          "Japan",
+          "Nippon"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Royaume-Uni",
+        "value": 9,
+        "aliases": [
+          "UK",
+          "Grande-Bretagne",
+          "Angleterre",
+          "United Kingdom",
+          "Great Britain",
+          "GB"
+        ]
+      }
+    ]
+  }
+]

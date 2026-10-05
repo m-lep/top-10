@@ -3,8 +3,6 @@ import { notFound } from "next/navigation";
 import { LISTS, getList } from "@/data";
 import { Game } from "@/components/Game";
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return LISTS.map((l) => ({ id: l.id }));
 }

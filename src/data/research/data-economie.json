@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "entreprises-plus-valorisees-monde",
+    "title": "Les entreprises les plus valorisées au monde",
+    "measure": "Capitalisation boursière",
+    "category": "economie",
+    "unit": "Md $",
+    "precision": 0,
+    "year": "5 oct. 2026",
+    "source": {
+      "name": "companiesmarketcap.com (instantané du 5 octobre 2026)",
+      "url": "https://companiesmarketcap.com/"
+    },
+    "confidence": "high",
+    "notes": "Instantané pris le 5 octobre 2026 ; les valeurs bougent chaque jour de bourse. companiesmarketcap inclut SpaceX dans son classement (valorisation telle qu'affichée par le site). Suivent : Tesla (1 463 Md $) et Samsung (1 349 Md $).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Nvidia",
+        "value": 5649,
+        "aliases": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Apple",
+        "value": 4869,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Alphabet",
+        "value": 4162,
+        "aliases": [
+          "Google"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Microsoft",
+        "value": 3842,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Amazon",
+        "value": 2712,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "TSMC",
+        "value": 2452,
+        "aliases": [
+          "Taiwan Semiconductor",
+          "Taiwan Semiconductor Manufacturing Company"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "SpaceX",
+        "value": 2094,
+        "aliases": [
+          "Space X"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Meta",
+        "value": 1854,
+        "aliases": [
+          "Facebook",
+          "Meta Platforms"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Broadcom",
+        "value": 1695,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Saudi Aramco",
+        "value": 1639,
+        "aliases": [
+          "Aramco"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plus-grandes-entreprises-monde-chiffre-affaires",
+    "title": "Les plus grandes entreprises du monde par chiffre d'affaires",
+    "measure": "Chiffre d'affaires",
+    "category": "economie",
+    "unit": "Md $",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "Fortune Global 500 2026",
+      "url": "https://fortune.com/ranking/global500/"
+    },
+    "confidence": "high",
+    "notes": "Édition 2026 publiée le 28 juillet 2026, exercices fiscaux clos au plus tard le 31 mars 2026 (données 2025). Amazon détrône Walmart, n°1 depuis douze ans. Chiffres en millions convertis en milliards de dollars.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Amazon",
+        "value": 716.92,
+        "aliases": [
+          "Amazon.com"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Walmart",
+        "value": 713.16,
+        "aliases": [
+          "Wal-Mart"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "State Grid",
+        "value": 555.37,
+        "aliases": [
+          "State Grid Corporation of China",
+          "State Grid of China"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "UnitedHealth Group",
+        "value": 447.57,
+        "aliases": [
+          "UnitedHealth",
+          "United Health"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Saudi Aramco",
+        "value": 445.53,
+        "aliases": [
+          "Aramco"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Apple",
+        "value": 416.16,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "McKesson",
+        "value": 403.43,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Alphabet",
+        "value": 402.84,
+        "aliases": [
+          "Google"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "CVS Health",
+        "value": 402.07,
+        "aliases": [
+          "CVS"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "China National Petroleum",
+        "value": 401.93,
+        "aliases": [
+          "CNPC",
+          "PetroChina"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entreprises-francaises-chiffre-affaires",
+    "title": "Les entreprises françaises au plus gros chiffre d'affaires",
+    "measure": "Chiffre d'affaires",
+    "category": "economie",
+    "unit": "Md $",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "Fortune Global 500 2026 (fiches entreprises fortune.com)",
+      "url": "https://fortune.com/ranking/global500/"
+    },
+    "confidence": "medium",
+    "notes": "Définition Fortune du chiffre d'affaires : banques et assureurs inclus (produits bancaires et primes comptés comme revenus). Christian Dior est la holding qui consolide LVMH (Fortune classe Dior, pas LVMH). Chiffres de l'édition 2026 (exercice 2025) relevés sur les fiches entreprises de fortune.com (mise à jour 16/09/2026) et recoupés avec Wikipédia FR ; le tableau complet de Fortune est payant. Suivent : Groupe BPCE (78,94), Renault (65,33).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "TotalEnergies",
+        "value": 182.34,
+        "aliases": [
+          "Total"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "BNP Paribas",
+        "value": 141.64,
+        "aliases": [
+          "BNP"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "EDF",
+        "value": 127.75,
+        "aliases": [
+          "Électricité de France"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Axa",
+        "value": 107.71,
+        "aliases": [
+          "AXA"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Société Générale",
+        "value": 102.42,
+        "aliases": [
+          "SocGen",
+          "SG"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Carrefour",
+        "value": 98.38,
+        "aliases": [
+          "Groupe Carrefour"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Christian Dior",
+        "value": 91.14,
+        "aliases": [
+          "LVMH",
+          "Dior",
+          "Louis Vuitton",
+          "Moët Hennessy Louis Vuitton"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Vinci",
+        "value": 85.39,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Crédit Agricole",
+        "value": 84.37,
+        "aliases": [
+          "Crédit Agricole SA",
+          "CASA"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Engie",
+        "value": 81.15,
+        "aliases": [
+          "GDF Suez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plus-grandes-fortunes-monde",
+    "title": "Les plus grandes fortunes du monde",
+    "measure": "Fortune estimée",
+    "category": "economie",
+    "unit": "Md $",
+    "precision": 0,
+    "year": "mars 2026",
+    "source": {
+      "name": "Forbes World's Billionaires 2026",
+      "url": "https://www.forbes.com/billionaires/"
+    },
+    "confidence": "high",
+    "notes": "Liste annuelle Forbes publiée début avril 2026, fortunes arrêtées au 10 mars 2026 (3 428 milliardaires, record). Forbes présente Bernard Arnault « & family ». Les classements temps réel de Forbes diffèrent (ex. au 1er avril 2026 : Musk 817, Page 237, Bezos 223).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Elon Musk",
+        "value": 839,
+        "aliases": [
+          "Musk"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Larry Page",
+        "value": 257,
+        "aliases": [
+          "Page"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Sergey Brin",
+        "value": 237,
+        "aliases": [
+          "Brin"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Jeff Bezos",
+        "value": 224,
+        "aliases": [
+          "Bezos"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Mark Zuckerberg",
+        "value": 222,
+        "aliases": [
+          "Zuckerberg"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Larry Ellison",
+        "value": 190,
+        "aliases": [
+          "Ellison"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Bernard Arnault",
+        "value": 171,
+        "aliases": [
+          "Arnault",
+          "famille Arnault"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Jensen Huang",
+        "value": 154,
+        "aliases": [
+          "Huang"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Warren Buffett",
+        "value": 149,
+        "aliases": [
+          "Buffett"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Amancio Ortega",
+        "value": 148,
+        "aliases": [
+          "Ortega"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plus-grandes-fortunes-france",
+    "title": "Les plus grandes fortunes de France",
+    "measure": "Fortune professionnelle estimée",
+    "category": "economie",
+    "unit": "Md €",
+    "precision": 1,
+    "year": "juil. 2026",
+    "source": {
+      "name": "Challenges – Les 500 plus grandes fortunes de France 2026",
+      "url": "https://www.challenges.fr/classements/fortune/"
+    },
+    "confidence": "medium",
+    "notes": "Classement Challenges publié le 8 juillet 2026 (fortunes professionnelles, hors patrimoine privé). Valeurs relevées via la presse (Les News Éco, FashionNetwork), challenges.fr n'étant pas accessible directement. Challenges écrit « Bernard Arnault et sa famille », « les héritiers Hermès », « Alain et Gérard Wertheimer », « la famille Dassault », « Gérard Mulliez et sa famille », etc.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Bernard Arnault",
+        "value": 121.2,
+        "aliases": [
+          "Arnault",
+          "famille Arnault",
+          "Bernard Arnault et sa famille"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Famille Hermès",
+        "value": 114,
+        "aliases": [
+          "Hermès",
+          "héritiers Hermès",
+          "Dumas",
+          "Puech",
+          "Guerrand"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Alain et Gérard Wertheimer",
+        "value": 95,
+        "aliases": [
+          "Wertheimer",
+          "famille Wertheimer",
+          "frères Wertheimer",
+          "Chanel"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Françoise Bettencourt Meyers",
+        "value": 69.7,
+        "aliases": [
+          "Bettencourt Meyers",
+          "Bettencourt",
+          "famille Bettencourt Meyers"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Rodolphe Saadé",
+        "value": 31.5,
+        "aliases": [
+          "Saadé",
+          "famille Saadé"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Xavier Niel",
+        "value": 30.1,
+        "aliases": [
+          "Niel"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Famille Dassault",
+        "value": 27.7,
+        "aliases": [
+          "Dassault",
+          "Laurent Dassault",
+          "Marie-Hélène Habert-Dassault"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Gérard Mulliez",
+        "value": 27,
+        "aliases": [
+          "Mulliez",
+          "famille Mulliez"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "François Pinault",
+        "value": 19.2,
+        "aliases": [
+          "Pinault",
+          "famille Pinault"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Emmanuel Besnier",
+        "value": 14.2,
+        "aliases": [
+          "Besnier",
+          "famille Besnier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marques-plus-valorisees-monde",
+    "title": "Les marques les plus valorisées au monde",
+    "measure": "Valeur de marque",
+    "category": "economie",
+    "unit": "Md $",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "Interbrand Best Global Brands 2025",
+      "url": "https://interbrand.com/best-global-brands/global/"
+    },
+    "confidence": "high",
+    "notes": "Édition 2025 (octobre 2025) ; l'édition 2026 d'Interbrand n'était pas publiée au 5 octobre 2026. Interbrand classe la marque Google (et non Alphabet) et Instagram séparément de Facebook. Le classement Kantar BrandZ 2026 (juin 2026) diffère fortement : Google n°1 (1 485 Md $), Apple, Microsoft, Amazon, Nvidia.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Apple",
+        "value": 470.9,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Microsoft",
+        "value": 388.5,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Amazon",
+        "value": 319.9,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Google",
+        "value": 317.1,
+        "aliases": [
+          "Alphabet"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Samsung",
+        "value": 90.5,
+        "aliases": [
+          "Samsung Electronics"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Toyota",
+        "value": 74.2,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Coca-Cola",
+        "value": 60.1,
+        "aliases": [
+          "Coca Cola",
+          "Coke"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Instagram",
+        "value": 57.3,
+        "aliases": [
+          "Insta"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "McDonald's",
+        "value": 53,
+        "aliases": [
+          "McDonalds",
+          "McDo"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Mercedes-Benz",
+        "value": 50.1,
+        "aliases": [
+          "Mercedes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "constructeurs-automobiles-ventes-monde",
+    "title": "Les constructeurs automobiles qui vendent le plus de véhicules dans le monde",
+    "measure": "Ventes mondiales de véhicules (groupes)",
+    "category": "economie",
+    "unit": "M de véhicules",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "Résultats annuels 2025 des constructeurs (compilation paultan.org, fév. 2026)",
+      "url": "https://paultan.org/2026/02/27/toyota-remains-the-worlds-top-selling-automaker-in-2025/"
+    },
+    "confidence": "medium",
+    "notes": "Ventes par groupe, toutes marques incluses (Toyota = Toyota + Lexus + Daihatsu + Hino ; Volkswagen = VW, Audi, Porsche, Skoda, Seat/Cupra… ; Hyundai-Kia = Hyundai + Kia + Genesis). Les compilations divergent selon le périmètre (joint-ventures chinoises, utilitaires) : CarExpert donne par ex. Toyota 11,21 M et VW 8,68 M et omet SAIC. Nissan suit avec 3,21 M.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Toyota",
+        "value": 11.32,
+        "aliases": [
+          "Groupe Toyota",
+          "Toyota Motor",
+          "Toyota Motor Corporation"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Volkswagen",
+        "value": 8.98,
+        "aliases": [
+          "Groupe Volkswagen",
+          "VW",
+          "Volkswagen Group"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Hyundai-Kia",
+        "value": 7.27,
+        "aliases": [
+          "Hyundai",
+          "Kia",
+          "Hyundai Motor Group",
+          "Hyundai Kia"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "General Motors",
+        "value": 6.18,
+        "aliases": [
+          "GM"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Stellantis",
+        "value": 5.48,
+        "aliases": [
+          "PSA",
+          "Peugeot",
+          "Fiat Chrysler",
+          "FCA"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "BYD",
+        "value": 4.6,
+        "aliases": [
+          "Build Your Dreams"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "SAIC",
+        "value": 4.51,
+        "aliases": [
+          "SAIC Motor",
+          "MG"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Ford",
+        "value": 4.4,
+        "aliases": [
+          "Ford Motor",
+          "Ford Motor Company"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Geely",
+        "value": 4.12,
+        "aliases": [
+          "Groupe Geely",
+          "Geely Holding",
+          "Volvo"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Honda",
+        "value": 3.52,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "marques-automobiles-plus-vendues-france",
+    "title": "Les marques automobiles les plus vendues en France",
+    "measure": "Immatriculations de voitures particulières neuves",
+    "category": "economie",
+    "unit": "immatriculations",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "PFA / AAA Data – Le marché automobile français, décembre 2025 (bilan annuel)",
+      "url": "https://pfa-auto.fr/wp-content/uploads/2026/01/Dossier-de-presse-PFA.pdf"
+    },
+    "confidence": "medium",
+    "notes": "Voitures particulières neuves (VP), année civile 2025, marché total 1 632 154 (-5,0 %). Les rangs 1 à 6 sont lus directement dans le dossier de presse PFA ; les rangs 7 à 10 (BMW, Škoda, Audi, Hyundai) proviennent de reprises de presse des mêmes données PFA/AAA Data, le dossier PFA ne détaillant que les marques Stellantis, Renault et Toyota. Volkswagen devance Toyota de 889 unités seulement.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Renault",
+        "value": 285531,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Peugeot",
+        "value": 221001,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Dacia",
+        "value": 139305,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Citroën",
+        "value": 115576,
+        "aliases": [
+          "Citroen"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Volkswagen",
+        "value": 110960,
+        "aliases": [
+          "VW"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Toyota",
+        "value": 110071,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "BMW",
+        "value": 60904,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Škoda",
+        "value": 50660,
+        "aliases": [
+          "Skoda"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Audi",
+        "value": 48756,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Hyundai",
+        "value": 45621,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "modeles-voitures-plus-vendus-france",
+    "title": "Les modèles de voitures les plus vendus en France",
+    "measure": "Immatriculations de voitures particulières neuves",
+    "category": "economie",
+    "unit": "immatriculations",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "PFA / AAA Data – Top 100 VP France, janvier à décembre 2025",
+      "url": "https://pfa-auto.fr/wp-content/uploads/2026/01/Dossier-de-presse-PFA.pdf"
+    },
+    "confidence": "high",
+    "notes": "Lu directement dans le Top 100 du dossier de presse PFA/AAA Data (01/01/2026). La PFA compte la Citroën ë-C3 électrique à part (16 223 unités, 21e) ; cumulée avec la C3 thermique, la C3 passerait 4e devant la 2008 (L'argus/NGC-Data donne ainsi 56 982 pour la C3). Les chiffres de L'argus (source NGC-Data) diffèrent légèrement (Clio 101 664). Suivent : Toyota Yaris Cross (32 106), Renault Symbioz (30 286), Peugeot 308 (29 021).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Renault Clio",
+        "value": 100101,
+        "aliases": [
+          "Clio"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Peugeot 208",
+        "value": 73092,
+        "aliases": [
+          "208"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Dacia Sandero",
+        "value": 64399,
+        "aliases": [
+          "Sandero"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Peugeot 2008",
+        "value": 54634,
+        "aliases": [
+          "2008"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Citroën C3",
+        "value": 41127,
+        "aliases": [
+          "C3",
+          "Citroen C3"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Peugeot 3008",
+        "value": 38603,
+        "aliases": [
+          "3008"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Renault 5 E-Tech",
+        "value": 37997,
+        "aliases": [
+          "Renault 5",
+          "R5",
+          "R5 E-Tech"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Renault Captur",
+        "value": 36912,
+        "aliases": [
+          "Captur"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Dacia Duster",
+        "value": 36687,
+        "aliases": [
+          "Duster"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Toyota Yaris",
+        "value": 33437,
+        "aliases": [
+          "Yaris"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meilleures-universites-monde",
+    "title": "Les meilleures universités du monde",
+    "measure": "Score total du classement de Shanghai",
+    "category": "economie",
+    "unit": "pts",
+    "precision": 1,
+    "year": "2026",
+    "source": {
+      "name": "ShanghaiRanking – Academic Ranking of World Universities 2026",
+      "url": "https://www.shanghairanking.com/rankings/arwu/2026"
+    },
+    "confidence": "high",
+    "notes": "Classement de Shanghai (ARWU) publié en août 2026, score total sur 100 (Harvard = 100). Première université française : Paris-Saclay, 13e (50,8). Suivent : Yale (55,1), Cornell (51,8).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Université Harvard",
+        "value": 100,
+        "aliases": [
+          "Harvard"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Université Stanford",
+        "value": 80.2,
+        "aliases": [
+          "Stanford"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Massachusetts Institute of Technology",
+        "value": 74.1,
+        "aliases": [
+          "MIT"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Université de Cambridge",
+        "value": 70.5,
+        "aliases": [
+          "Cambridge"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Université de Californie à Berkeley",
+        "value": 64.5,
+        "aliases": [
+          "Berkeley",
+          "UC Berkeley"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Université de Princeton",
+        "value": 63.1,
+        "aliases": [
+          "Princeton"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Université d'Oxford",
+        "value": 62.1,
+        "aliases": [
+          "Oxford"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Université Columbia",
+        "value": 58,
+        "aliases": [
+          "Columbia"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Université de Chicago",
+        "value": 57.2,
+        "aliases": [
+          "Chicago",
+          "UChicago"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "California Institute of Technology",
+        "value": 56.8,
+        "aliases": [
+          "Caltech"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sportifs-mieux-payes-monde",
+    "title": "Les sportifs les mieux payés du monde",
+    "measure": "Revenus annuels estimés (salaires, primes et sponsors)",
+    "category": "economie",
+    "unit": "M $",
+    "precision": 1,
+    "year": "2026",
+    "source": {
+      "name": "Forbes – The World's Highest-Paid Athletes 2026",
+      "url": "https://www.forbes.com/athletes/"
+    },
+    "confidence": "high",
+    "notes": "Liste Forbes publiée en mai 2026, revenus estimés sur les douze mois précédents (terrain + hors terrain, avant impôts et commissions). Ronaldo (300 M $, dont ~235 M $ d'Al-Nassr) est n°1 pour la quatrième année consécutive. Égalité Benzema / Durant à 104 M $. Chiffres relevés via la presse (Caproasia, Bleacher Report, Robb Report).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Cristiano Ronaldo",
+        "value": 300,
+        "aliases": [
+          "Ronaldo",
+          "CR7"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Canelo Álvarez",
+        "value": 170,
+        "aliases": [
+          "Canelo",
+          "Álvarez",
+          "Saul Alvarez",
+          "Saúl Álvarez"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Lionel Messi",
+        "value": 140,
+        "aliases": [
+          "Messi"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "LeBron James",
+        "value": 138,
+        "aliases": [
+          "LeBron",
+          "James"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Shohei Ohtani",
+        "value": 128,
+        "aliases": [
+          "Ohtani"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Stephen Curry",
+        "value": 125,
+        "aliases": [
+          "Curry",
+          "Steph Curry"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Jon Rahm",
+        "value": 107,
+        "aliases": [
+          "Rahm"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Karim Benzema",
+        "value": 104,
+        "aliases": [
+          "Benzema"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Kevin Durant",
+        "value": 104,
+        "aliases": [
+          "Durant",
+          "KD"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Lewis Hamilton",
+        "value": 100,
+        "aliases": [
+          "Hamilton"
+        ]
+      }
+    ]
+  }
+]

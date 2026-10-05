@@ -74,14 +74,41 @@ export function matches(guess: string, item: TopItem): boolean {
   return false;
 }
 
+export interface Match {
+  item: TopItem;
+  /** Name to display: the item's own name, or the tied name that was guessed. */
+  as: string;
+}
+
+function tieMatch(guess: string, item: TopItem, exactOnly: boolean): string | undefined {
+  const g = normalize(guess);
+  for (const t of item.ties ?? []) {
+    const c = normalize(t);
+    if (g === c) return t;
+    if (!exactOnly) {
+      const tol = Math.min(tolerance(g.length), tolerance(c.length));
+      if (tol > 0 && levenshtein(g, c) <= tol) return t;
+    }
+  }
+  return undefined;
+}
+
 /** Among `items`, find the best (highest-ranked) match for a guess. */
-export function findMatch(guess: string, items: TopItem[]): TopItem | undefined {
+export function findMatch(guess: string, items: TopItem[]): Match | undefined {
   const g = normalize(guess);
   if (!g) return undefined;
   // Exact matches win over fuzzy ones.
-  const exact = items.find((it) => candidates(it).includes(g));
-  if (exact) return exact;
-  return items.find((it) => matches(guess, it));
+  for (const it of items) {
+    if (candidates(it).includes(g)) return { item: it, as: it.name };
+    const t = tieMatch(guess, it, true);
+    if (t) return { item: it, as: t };
+  }
+  for (const it of items) {
+    if (matches(guess, it)) return { item: it, as: it.name };
+    const t = tieMatch(guess, it, false);
+    if (t) return { item: it, as: t };
+  }
+  return undefined;
 }
 
 /** Word shape with the first letter revealed: "France" -> "F _ _ _ _ _" */

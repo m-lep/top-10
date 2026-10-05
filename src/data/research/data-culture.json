@@ -1,0 +1,1401 @@
+[
+  {
+    "id": "box-office-mondial",
+    "title": "Les films les plus rentables au box-office mondial",
+    "measure": "Recettes mondiales cumulées en salles (non ajustées de l'inflation)",
+    "category": "culture",
+    "unit": "Md $",
+    "precision": 2,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/"
+    },
+    "confidence": "high",
+    "notes": "Snapshot Box Office Mojo du 4 octobre 2026 (recettes brutes, ressorties incluses, non ajustées de l'inflation). Avatar : De feu et de cendres (2025) plafonne à 1,49 Md $ et reste hors du top 10. Ne Zha 2 et Titanic sont quasiment à égalité (2,27 vs 2,26 Md $) ; Wikipédia les classe dans l'ordre inverse selon une source différente.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Avengers : Endgame",
+        "value": 2.93,
+        "aliases": [
+          "Avengers: Endgame",
+          "Endgame",
+          "Avengers 4"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Avatar",
+        "value": 2.92,
+        "aliases": [
+          "Avatar 1"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Spider-Man : Brand New Day",
+        "value": 2.51,
+        "aliases": [
+          "Spider-Man: Brand New Day",
+          "Brand New Day",
+          "Spider-Man 4"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Avatar : La Voie de l'eau",
+        "value": 2.33,
+        "aliases": [
+          "Avatar: The Way of Water",
+          "Avatar 2",
+          "La Voie de l'eau"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Ne Zha 2",
+        "value": 2.27,
+        "aliases": [
+          "Nezha 2",
+          "Ne Zha II",
+          "Nezha"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Titanic",
+        "value": 2.26,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Star Wars, épisode VII : Le Réveil de la Force",
+        "value": 2.07,
+        "aliases": [
+          "Star Wars: The Force Awakens",
+          "Le Réveil de la Force",
+          "Star Wars 7",
+          "The Force Awakens"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Avengers : Infinity War",
+        "value": 2.05,
+        "aliases": [
+          "Avengers: Infinity War",
+          "Infinity War",
+          "Avengers 3"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Spider-Man : No Way Home",
+        "value": 1.92,
+        "aliases": [
+          "Spider-Man: No Way Home",
+          "No Way Home"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Zootopie 2",
+        "value": 1.87,
+        "aliases": [
+          "Zootopia 2",
+          "Zootropolis 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entrees-france",
+    "title": "Les films ayant fait le plus d'entrées en France",
+    "measure": "Entrées cumulées en salles en France (toutes exploitations, ressorties incluses)",
+    "category": "culture",
+    "unit": "M d'entrées",
+    "precision": 2,
+    "year": "cumul 2026",
+    "source": {
+      "name": "Wikipédia (d'après CNC / JP's Box-Office)",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_plus_gros_succ%C3%A8s_du_box-office_en_France"
+    },
+    "confidence": "medium",
+    "notes": "Cumul de toutes les exploitations : les ressorties sont comptées (Titanic inclut ses ressorties 2012 et 2023 ; Blanche-Neige, Autant en emporte le vent, Le Livre de la jungle, Avatar et Il était une fois dans l'Ouest cumulent plusieurs sorties). Les chiffres d'avant 1945 sont des estimations. En première exploitation seule, le classement diffère (Bienvenue chez les Ch'tis devance Titanic).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Titanic",
+        "value": 22.32,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Bienvenue chez les Ch'tis",
+        "value": 20.49,
+        "aliases": [
+          "Les Ch'tis",
+          "Ch'tis"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Intouchables",
+        "value": 19.53,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Blanche-Neige et les Sept Nains",
+        "value": 18.35,
+        "aliases": [
+          "Blanche-Neige",
+          "Snow White and the Seven Dwarfs"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "La Grande Vadrouille",
+        "value": 17.34,
+        "aliases": [
+          "Grande Vadrouille"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Autant en emporte le vent",
+        "value": 16.73,
+        "aliases": [
+          "Gone with the Wind"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Avatar",
+        "value": 15.35,
+        "aliases": [
+          "Avatar 1"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Astérix et Obélix : Mission Cléopâtre",
+        "value": 14.97,
+        "aliases": [
+          "Mission Cléopâtre",
+          "Astérix Mission Cléopâtre"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Il était une fois dans l'Ouest",
+        "value": 14.91,
+        "aliases": [
+          "Once Upon a Time in the West",
+          "C'era una volta il West"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Le Livre de la jungle",
+        "value": 14.82,
+        "aliases": [
+          "The Jungle Book",
+          "Livre de la jungle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spotify-chansons",
+    "title": "Les chansons les plus écoutées sur Spotify",
+    "measure": "Nombre total d'écoutes sur Spotify depuis la mise en ligne",
+    "category": "culture",
+    "unit": "Md d'écoutes",
+    "precision": 2,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Spotify via Wikipédia (List of Spotify streaming records)",
+      "url": "https://en.wikipedia.org/wiki/List_of_Spotify_streaming_records"
+    },
+    "confidence": "high",
+    "notes": "Snapshot au 4 octobre 2026. Les compteurs évoluent chaque jour ; One Dance et Sunflower sont quasiment à égalité (4,499 vs 4,495 Md).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Blinding Lights",
+        "value": 5.62,
+        "aliases": [
+          "The Weeknd",
+          "Weeknd",
+          "Blinding Lights The Weeknd"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Shape of You",
+        "value": 5.13,
+        "aliases": [
+          "Ed Sheeran",
+          "Shape of You Ed Sheeran"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Sweater Weather",
+        "value": 4.93,
+        "aliases": [
+          "The Neighbourhood",
+          "Neighbourhood",
+          "Sweater Weather The Neighbourhood"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Starboy",
+        "value": 4.79,
+        "aliases": [
+          "The Weeknd",
+          "Weeknd",
+          "Daft Punk",
+          "Starboy The Weeknd"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "As It Was",
+        "value": 4.66,
+        "aliases": [
+          "Harry Styles",
+          "As It Was Harry Styles"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "One Dance",
+        "value": 4.5,
+        "aliases": [
+          "Drake",
+          "One Dance Drake",
+          "Wizkid",
+          "Kyla"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Sunflower",
+        "value": 4.5,
+        "aliases": [
+          "Post Malone",
+          "Swae Lee",
+          "Sunflower Post Malone",
+          "Spider-Man: Into the Spider-Verse"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Someone You Loved",
+        "value": 4.46,
+        "aliases": [
+          "Lewis Capaldi",
+          "Someone You Loved Lewis Capaldi"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Perfect",
+        "value": 4.14,
+        "aliases": [
+          "Ed Sheeran",
+          "Perfect Ed Sheeran"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Stay",
+        "value": 4.1,
+        "aliases": [
+          "The Kid LAROI",
+          "Kid Laroi",
+          "Justin Bieber",
+          "Stay Justin Bieber",
+          "Stay The Kid Laroi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spotify-artistes-2025",
+    "title": "Les artistes les plus écoutés sur Spotify en 2025",
+    "measure": "Écoutes Spotify cumulées sur l'année civile 2025 (titres en lead uniquement, featurings exclus)",
+    "category": "culture",
+    "unit": "Md d'écoutes",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "ChartMasters (Spotify Most-Streamed Artists of 2025)",
+      "url": "https://chartmasters.org/spotify-most-streamed-artists-2025/"
+    },
+    "confidence": "medium",
+    "notes": "ChartMasters (publié le 9 janvier 2026) couvre toute l'année du 1er janvier au 31 décembre 2025, en ne comptant que les titres en artiste principal. Spotify Wrapped 2025 (qui exclut les 5 dernières semaines de l'année) donne le même numéro 1 (Bad Bunny, 19,8 Md d'écoutes annoncés) mais un ordre légèrement différent : Bad Bunny, Taylor Swift, The Weeknd, Drake, Billie Eilish, Kendrick Lamar, Bruno Mars, Ariana Grande, Arijit Singh, Fuerza Regida.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Bad Bunny",
+        "value": 21,
+        "aliases": [
+          "Benito Antonio Martínez Ocasio"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Taylor Swift",
+        "value": 20.59,
+        "aliases": [
+          "Taylor"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "The Weeknd",
+        "value": 13.31,
+        "aliases": [
+          "Weeknd",
+          "Abel Tesfaye"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Drake",
+        "value": 12.64,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Billie Eilish",
+        "value": 10.68,
+        "aliases": [
+          "Billie"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Ariana Grande",
+        "value": 9.86,
+        "aliases": [
+          "Ariana"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Kendrick Lamar",
+        "value": 9.45,
+        "aliases": [
+          "Kendrick"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Bruno Mars",
+        "value": 9.27,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Fuerza Regida",
+        "value": 9.02,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Arijit Singh",
+        "value": 8.97,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "youtube-videos",
+    "title": "Les vidéos les plus vues sur YouTube",
+    "measure": "Nombre total de vues sur YouTube",
+    "category": "culture",
+    "unit": "Md de vues",
+    "precision": 2,
+    "year": "août 2026",
+    "source": {
+      "name": "YouTube via Wikipédia (List of most-viewed YouTube videos)",
+      "url": "https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos"
+    },
+    "confidence": "high",
+    "notes": "Snapshot au 30 août 2026. Une publicité sponsorisée de Facebook pour les Groupes (titre technique « 009 1225 GetInspiredOnGroups… », 8,02 Md de vues achetées) figure en 4e position du classement Wikipédia ; elle a été volontairement exclue ici et remplacée par la vidéo suivante du classement (Gangnam Style, 11e dans la source). Phonics Song with Two Words et See You Again sont à égalité à 7,08 Md.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Baby Shark Dance",
+        "value": 17.28,
+        "aliases": [
+          "Baby Shark",
+          "Pinkfong"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Wheels on the Bus",
+        "value": 9.34,
+        "aliases": [
+          "Cocomelon",
+          "The Wheels on the Bus"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Despacito",
+        "value": 9.11,
+        "aliases": [
+          "Luis Fonsi",
+          "Daddy Yankee",
+          "Despacito Luis Fonsi"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Bath Song",
+        "value": 7.61,
+        "aliases": [
+          "Cocomelon",
+          "Cocomelon Bath Song"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Johny Johny Yes Papa",
+        "value": 7.24,
+        "aliases": [
+          "LooLoo Kids",
+          "Johnny Johnny Yes Papa"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Phonics Song with Two Words",
+        "value": 7.08,
+        "aliases": [
+          "ChuChu TV",
+          "Phonics Song"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "See You Again",
+        "value": 7.08,
+        "aliases": [
+          "Wiz Khalifa",
+          "Charlie Puth",
+          "Fast and Furious 7",
+          "See You Again Wiz Khalifa"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Shape of You",
+        "value": 6.79,
+        "aliases": [
+          "Ed Sheeran",
+          "Shape of You Ed Sheeran"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Axel F",
+        "value": 6.14,
+        "aliases": [
+          "Crazy Frog",
+          "Crazy Frog Axel F"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Gangnam Style",
+        "value": 6.05,
+        "aliases": [
+          "Psy",
+          "PSY Gangnam Style",
+          "Oppa Gangnam Style"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "youtube-chaines",
+    "title": "Les chaînes YouTube les plus suivies",
+    "measure": "Nombre d'abonnés à la chaîne YouTube",
+    "category": "culture",
+    "unit": "M d'abonnés",
+    "precision": 0,
+    "year": "juin 2026",
+    "source": {
+      "name": "YouTube via Wikipédia (List of most-subscribed YouTube channels)",
+      "url": "https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels"
+    },
+    "confidence": "medium",
+    "notes": "Snapshot Wikipédia daté de juin 2026 (dernier état consolidé disponible) ; les compteurs réels d'octobre 2026 sont un peu plus élevés, notamment pour MrBeast. Les chaînes auto-générées (Music, Gaming) sont exclues par la source.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MrBeast",
+        "value": 519,
+        "aliases": [
+          "Mr Beast",
+          "Jimmy Donaldson"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "T-Series",
+        "value": 315,
+        "aliases": [
+          "T Series",
+          "TSeries"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Cocomelon",
+        "value": 203,
+        "aliases": [
+          "Cocomelon - Nursery Rhymes",
+          "CoComelon"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "SET India",
+        "value": 190,
+        "aliases": [
+          "Sony Entertainment Television India",
+          "Sony SET India"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Vlad and Niki",
+        "value": 151,
+        "aliases": [
+          "Vlad et Niki",
+          "Vlad & Niki"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Stokes Twins",
+        "value": 147,
+        "aliases": [
+          "Stokes"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Kids Diana Show",
+        "value": 138,
+        "aliases": [
+          "Diana",
+          "Kids Diana"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "KIMPRO",
+        "value": 135,
+        "aliases": [
+          "김프로KIMPRO",
+          "Kim Pro",
+          "Kimpro"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Like Nastya",
+        "value": 133,
+        "aliases": [
+          "Nastya"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Zee Music Company",
+        "value": 123,
+        "aliases": [
+          "Zee Music"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "instagram-comptes",
+    "title": "Les comptes Instagram les plus suivis",
+    "measure": "Nombre d'abonnés au compte Instagram",
+    "category": "culture",
+    "unit": "M d'abonnés",
+    "precision": 0,
+    "year": "sept. 2026",
+    "source": {
+      "name": "Instagram via Wikipédia (List of most-followed Instagram accounts)",
+      "url": "https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts"
+    },
+    "confidence": "high",
+    "notes": "Snapshot de septembre 2026. Le compte officiel @instagram (686 M) est exclu du classement. Khloé Kardashian et Nike sont à égalité à 291 M.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Cristiano Ronaldo",
+        "value": 679,
+        "aliases": [
+          "Ronaldo",
+          "CR7",
+          "cristiano"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Lionel Messi",
+        "value": 517,
+        "aliases": [
+          "Messi",
+          "Leo Messi",
+          "leomessi"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Selena Gomez",
+        "value": 403,
+        "aliases": [
+          "Selena"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Dwayne Johnson",
+        "value": 381,
+        "aliases": [
+          "The Rock",
+          "therock"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Kylie Jenner",
+        "value": 380,
+        "aliases": [
+          "Kylie"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Ariana Grande",
+        "value": 362,
+        "aliases": [
+          "Ariana"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Kim Kardashian",
+        "value": 343,
+        "aliases": [
+          "Kim K"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Beyoncé",
+        "value": 299,
+        "aliases": [
+          "Beyonce Knowles"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Khloé Kardashian",
+        "value": 291,
+        "aliases": [
+          "Khloé",
+          "Khloe"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Nike",
+        "value": 291,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "jeux-video-ventes",
+    "title": "Les jeux vidéo les plus vendus de tous les temps",
+    "measure": "Exemplaires vendus (toutes plateformes, chiffres éditeurs)",
+    "category": "culture",
+    "unit": "M d'exemplaires",
+    "precision": 2,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Wikipédia (List of best-selling video games, d'après les éditeurs)",
+      "url": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+    },
+    "confidence": "medium",
+    "notes": "Page mise à jour le 2 octobre 2026. Tetris cumule toutes ses versions (chiffre de 2022, mobile inclus) ; Wikipédia le place à égalité avec Minecraft en tête à cause de ce désaccord de définition. Mario Kart 8 additionne Wii U et Deluxe (Switch). Les dates de référence varient selon le jeu (PUBG : 2021, Wii Sports : 2024). Skyrim et The Witcher 3 à égalité à 65 M.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Tetris",
+        "value": 520,
+        "aliases": [
+          "Tetris (toutes versions)"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Minecraft",
+        "value": 425,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Grand Theft Auto V",
+        "value": 230,
+        "aliases": [
+          "GTA V",
+          "GTA 5",
+          "GTA"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Red Dead Redemption 2",
+        "value": 87,
+        "aliases": [
+          "RDR2",
+          "Red Dead 2",
+          "Red Dead Redemption II"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Wii Sports",
+        "value": 82.9,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "Mario Kart 8 Deluxe",
+        "value": 79.99,
+        "aliases": [
+          "Mario Kart 8",
+          "Mario Kart"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "PUBG: Battlegrounds",
+        "value": 75,
+        "aliases": [
+          "PUBG",
+          "PlayerUnknown's Battlegrounds",
+          "Battlegrounds"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Terraria",
+        "value": 70,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "The Elder Scrolls V: Skyrim",
+        "value": 65,
+        "aliases": [
+          "Skyrim",
+          "Elder Scrolls V",
+          "The Elder Scrolls 5"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "The Witcher 3: Wild Hunt",
+        "value": 65,
+        "aliases": [
+          "The Witcher 3",
+          "Witcher 3",
+          "The Witcher"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "netflix-series",
+    "title": "Les séries les plus regardées sur Netflix",
+    "measure": "Vues (heures visionnées ÷ durée totale) dans les 91 premiers jours, toutes langues confondues",
+    "category": "culture",
+    "unit": "M de vues",
+    "precision": 1,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Netflix Tudum – Most Popular (export TSV officiel)",
+      "url": "https://www.netflix.com/tudum/top10/most-popular"
+    },
+    "confidence": "high",
+    "notes": "Classement officiel Netflix « Most Popular » (export TSV, début octobre 2026), fusionnant les listes anglophone et non-anglophone. Chaque saison est comptée séparément, comme le fait Netflix. Une « vue » = heures visionnées divisées par la durée totale de la saison. Mesure sur 91 jours : les titres très anciens (avant 2021) ne sont pas mesurés avec cette méthode.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Squid Game (saison 1)",
+        "value": 265.2,
+        "aliases": [
+          "Squid Game",
+          "Squid Game saison 1",
+          "Squid Game 1"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Mercredi (saison 1)",
+        "value": 252.1,
+        "aliases": [
+          "Wednesday",
+          "Mercredi",
+          "Wednesday saison 1",
+          "Mercredi saison 1"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Squid Game (saison 2)",
+        "value": 192.6,
+        "aliases": [
+          "Squid Game 2",
+          "Squid Game saison 2"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Squid Game (saison 3)",
+        "value": 145.8,
+        "aliases": [
+          "Squid Game 3",
+          "Squid Game saison 3"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Adolescence",
+        "value": 142.6,
+        "aliases": [
+          "Adolescence (mini-série)"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Stranger Things (saison 4)",
+        "value": 140.7,
+        "aliases": [
+          "Stranger Things",
+          "Stranger Things 4",
+          "Stranger Things saison 4"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Stranger Things (saison 5)",
+        "value": 133.8,
+        "aliases": [
+          "Stranger Things 5",
+          "Stranger Things saison 5"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "I Will Find You",
+        "value": 120.8,
+        "aliases": [
+          "I Will Find You (Harlan Coben)",
+          "Harlan Coben"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Mercredi (saison 2)",
+        "value": 119.3,
+        "aliases": [
+          "Wednesday saison 2",
+          "Wednesday 2",
+          "Mercredi saison 2",
+          "Mercredi 2"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Dahmer : Monstre – L'Histoire de Jeffrey Dahmer",
+        "value": 115.6,
+        "aliases": [
+          "Dahmer",
+          "DAHMER",
+          "Monster: The Jeffrey Dahmer Story",
+          "Monstre",
+          "Jeffrey Dahmer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "netflix-films",
+    "title": "Les films les plus regardés sur Netflix",
+    "measure": "Vues (heures visionnées ÷ durée) dans les 91 premiers jours, toutes langues confondues",
+    "category": "culture",
+    "unit": "M de vues",
+    "precision": 1,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Netflix Tudum – Most Popular (export TSV officiel)",
+      "url": "https://www.netflix.com/tudum/top10/most-popular"
+    },
+    "confidence": "high",
+    "notes": "Classement officiel Netflix « Most Popular » (export TSV, début octobre 2026). Les dix premiers sont tous des films anglophones ; le premier film non-anglophone, Troll (Norvège), est à 103,0 M de vues. Mesure sur 91 jours : les films sortis avant 2021 ne sont pas mesurés avec cette méthode. Bird Box et The Adam Project sont quasiment à égalité (157,4 vs 157,6).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "KPop Demon Hunters",
+        "value": 325.1,
+        "aliases": [
+          "K-Pop Demon Hunters",
+          "KPop Demon Hunter",
+          "Demon Hunters"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Red Notice",
+        "value": 230.9,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Carry-On",
+        "value": 172.1,
+        "aliases": [
+          "Carry On"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Don't Look Up : Déni cosmique",
+        "value": 171.4,
+        "aliases": [
+          "Don't Look Up",
+          "Déni cosmique"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Adam à travers le temps",
+        "value": 157.6,
+        "aliases": [
+          "The Adam Project",
+          "Adam Project"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Bird Box",
+        "value": 157.4,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Back in Action",
+        "value": 147.2,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Swapped",
+        "value": 144.9,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Le Monde après nous",
+        "value": 143.4,
+        "aliases": [
+          "Leave the World Behind"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "War Machine",
+        "value": 139.9,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "musees-visites",
+    "title": "Les musées les plus visités du monde",
+    "measure": "Nombre de visiteurs sur l'année 2025 (enquête annuelle The Art Newspaper)",
+    "category": "culture",
+    "unit": "M de visiteurs",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "The Art Newspaper – Visitor Figures 2025 (publié le 31 mars 2026), via Wikipédia",
+      "url": "https://www.theartnewspaper.com/2026/03/31/exclusive-the-worlds-100-most-visited-museums-in-2025-new-museums-a-big-hit-with-visitors"
+    },
+    "confidence": "medium",
+    "notes": "L'enquête The Art Newspaper couvre les musées d'art (les musées de sciences et d'histoire naturelle, comme le Natural History Museum de Londres ~7,1 M ou l'American Museum of Natural History, en sont exclus). Le Musée national de Chine (~6,96 M en 2024) et le Grand Musée égyptien (~6,5 M estimés) n'ont pas communiqué de chiffre 2025 vérifié et ne figurent pas dans ce top. Le Shanghai Museum East et la National Gallery of Art (Washington) sont des chiffres 2024, faute de données 2025 (Shanghai annonçait ~4,6 M pour 2025). Pour les parcs/musées toutes catégories, le TEA/AECOM Theme Index 2024 (publié oct. 2025) donne un classement différent.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Musée du Louvre",
+        "value": 9.05,
+        "aliases": [
+          "Louvre",
+          "Le Louvre"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Musées du Vatican",
+        "value": 6.93,
+        "aliases": [
+          "Vatican",
+          "Vatican Museums",
+          "Musée du Vatican"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Musée national de Corée",
+        "value": 6.51,
+        "aliases": [
+          "National Museum of Korea",
+          "Musée national de Séoul",
+          "Séoul"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "British Museum",
+        "value": 6.44,
+        "aliases": [
+          "Musée britannique",
+          "British"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Metropolitan Museum of Art",
+        "value": 5.98,
+        "aliases": [
+          "Met",
+          "The Met",
+          "Metropolitan",
+          "MET New York"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Musée russe",
+        "value": 5.09,
+        "aliases": [
+          "State Russian Museum",
+          "Musée d'État russe",
+          "Musée russe de Saint-Pétersbourg"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Musée national d'anthropologie de Mexico",
+        "value": 5.05,
+        "aliases": [
+          "Museo Nacional de Antropología",
+          "Musée d'anthropologie de Mexico",
+          "Mexico"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Tate Modern",
+        "value": 4.51,
+        "aliases": [
+          "Tate"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Shanghai Museum East",
+        "value": 4.23,
+        "aliases": [
+          "Musée de Shanghai",
+          "Shanghai Museum",
+          "Shanghai"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "National Gallery of Art (Washington)",
+        "value": 3.94,
+        "aliases": [
+          "National Gallery of Art",
+          "NGA Washington",
+          "National Gallery Washington"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "audiences-tv-france",
+    "title": "Les plus grandes audiences de l'histoire de la télévision française",
+    "measure": "Téléspectateurs en moyenne sur une chaîne (mesure Médiamétrie, depuis 1985)",
+    "category": "culture",
+    "unit": "M de téléspectateurs",
+    "precision": 2,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Médiamétrie via Puremédias / Wikipédia (Audience de la télévision française)",
+      "url": "https://www.ozap.com/actu/jo-de-paris-2024-coupe-du-monde-euro-voici-les-10-meilleures-audiences-de-l-histoire-de-la-television-francaise/645168"
+    },
+    "confidence": "medium",
+    "notes": "Audiences moyennes d'un programme sur une seule chaîne (hors cumuls multichaînes : les allocutions présidentielles du Covid, diffusées simultanément sur toutes les chaînes, ont cumulé jusqu'à 36,7 M le 13 avril 2020 et sont exclues). La cérémonie d'ouverture des JO 2024 est comptée en audience consolidée J+7 (24,42 M, replay inclus) ; en direct seul elle a fait 23,24 M, ce qui la placerait 2e derrière France-Argentine. France-Espagne (demi-finale du Mondial 2026, M6) entre dans le top 10 avec 20,2 M (chiffre Médiamétrie arrondi), et fait sortir France-Croatie 2018 (19,34 M). Quelques chiffres antérieurs à 2011 ne comptent pas le hors-domicile.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Cérémonie d'ouverture des JO de Paris 2024",
+        "value": 24.42,
+        "aliases": [
+          "JO 2024",
+          "cérémonie d'ouverture JO",
+          "ouverture JO Paris",
+          "Paris 2024",
+          "JO Paris 2024"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Finale Coupe du monde 2022 : France-Argentine",
+        "value": 24.08,
+        "aliases": [
+          "France-Argentine",
+          "France Argentine 2022",
+          "Argentine-France",
+          "finale 2022",
+          "finale Coupe du monde 2022"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Demi-finale Coupe du monde 2006 : Portugal-France",
+        "value": 22.2,
+        "aliases": [
+          "Portugal-France 2006",
+          "France-Portugal 2006",
+          "demi-finale 2006"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Finale Coupe du monde 2006 : Italie-France",
+        "value": 22.14,
+        "aliases": [
+          "France-Italie 2006",
+          "Italie-France",
+          "finale 2006",
+          "finale Coupe du monde 2006",
+          "coup de boule Zidane"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Finale Euro 2000 : France-Italie",
+        "value": 21.4,
+        "aliases": [
+          "France-Italie 2000",
+          "Euro 2000",
+          "finale Euro 2000"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Finale Euro 2016 : Portugal-France",
+        "value": 20.82,
+        "aliases": [
+          "Portugal-France 2016",
+          "France-Portugal 2016",
+          "finale Euro 2016",
+          "Euro 2016"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Demi-finale Coupe du monde 2022 : France-Maroc",
+        "value": 20.69,
+        "aliases": [
+          "France-Maroc",
+          "France Maroc 2022",
+          "demi-finale 2022"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Finale Coupe du monde 1998 : France-Brésil",
+        "value": 20.58,
+        "aliases": [
+          "France-Brésil",
+          "France Brésil 1998",
+          "finale 1998",
+          "finale Coupe du monde 1998"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Demi-finale Coupe du monde 2026 : France-Espagne",
+        "value": 20.2,
+        "aliases": [
+          "France-Espagne",
+          "France Espagne 2026",
+          "demi-finale 2026",
+          "Coupe du monde 2026"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Huitième de finale Coupe du monde 2006 : Espagne-France",
+        "value": 19.56,
+        "aliases": [
+          "Espagne-France 2006",
+          "France-Espagne 2006",
+          "huitième 2006"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "audiences-tv-usa",
+    "title": "Les programmes les plus regardés de l'histoire de la télévision américaine",
+    "measure": "Téléspectateurs en moyenne (Nielsen, toutes chaînes diffusant le programme cumulées)",
+    "category": "culture",
+    "unit": "M de téléspectateurs",
+    "precision": 1,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Nielsen via Wikipédia (List of most watched television broadcasts in the United States)",
+      "url": "https://en.wikipedia.org/wiki/List_of_most_watched_television_broadcasts_in_the_United_States"
+    },
+    "confidence": "high",
+    "notes": "Audiences moyennes Nielsen, chaînes du même groupe cumulées (ex. Fox + Fox Deportes). Les Super Bowls LIX (2025) et LX (2026) sont mesurés avec la nouvelle méthodologie Nielsen « Big Data + Panel » (hors-domicile et streaming inclus), ce qui gonfle la comparaison avec les années antérieures. Le top 10 ne compte que des Super Bowls ; le premier programme non sportif est le dernier épisode de M*A*S*H (1983) avec 106,0 M, 13e. Le Super Bowl LX a établi le record de pic d'audience (137,8 M).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Super Bowl LIX (2025)",
+        "value": 127.7,
+        "aliases": [
+          "Super Bowl 2025",
+          "Super Bowl 59",
+          "Super Bowl LIX",
+          "Eagles-Chiefs 2025"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Super Bowl LX (2026)",
+        "value": 125.6,
+        "aliases": [
+          "Super Bowl 2026",
+          "Super Bowl 60",
+          "Super Bowl LX"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Super Bowl LVIII (2024)",
+        "value": 123.7,
+        "aliases": [
+          "Super Bowl 2024",
+          "Super Bowl 58",
+          "Super Bowl LVIII",
+          "Chiefs-49ers 2024"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Super Bowl LVII (2023)",
+        "value": 115.1,
+        "aliases": [
+          "Super Bowl 2023",
+          "Super Bowl 57",
+          "Super Bowl LVII"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Super Bowl XLIX (2015)",
+        "value": 114.8,
+        "aliases": [
+          "Super Bowl 2015",
+          "Super Bowl 49",
+          "Super Bowl XLIX"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Super Bowl XLVIII (2014)",
+        "value": 112.8,
+        "aliases": [
+          "Super Bowl 2014",
+          "Super Bowl 48",
+          "Super Bowl XLVIII"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Super Bowl 50 (2016)",
+        "value": 112.3,
+        "aliases": [
+          "Super Bowl 2016",
+          "Super Bowl L"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Super Bowl LI (2017)",
+        "value": 112,
+        "aliases": [
+          "Super Bowl 2017",
+          "Super Bowl 51",
+          "Super Bowl LI"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Super Bowl XLVI (2012)",
+        "value": 111.3,
+        "aliases": [
+          "Super Bowl 2012",
+          "Super Bowl 46",
+          "Super Bowl XLVI"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Super Bowl XLV (2011)",
+        "value": 111,
+        "aliases": [
+          "Super Bowl 2011",
+          "Super Bowl 45",
+          "Super Bowl XLV"
+        ]
+      }
+    ]
+  }
+]

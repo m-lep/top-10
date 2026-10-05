@@ -1,0 +1,1845 @@
+[
+  {
+    "id": "buteurs-selection-nationale",
+    "title": "Les meilleurs buteurs de l'histoire en sélection nationale",
+    "measure": "Buts en sélection A (hommes)",
+    "category": "sport",
+    "unit": "buts",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Wikipedia (compilation FIFA/RSSSF) – List of men's footballers with 50 or more international goals",
+      "url": "https://en.wikipedia.org/wiki/List_of_men%27s_footballers_with_50_or_more_international_goals"
+    },
+    "confidence": "high",
+    "notes": "Instantané au 3 octobre 2026. Ronaldo (146 buts, 234 sél.), Messi (125), Lukaku, Lewandowski, Kane et Neymar sont encore actifs : chiffres susceptibles d'évoluer à chaque trêve internationale. Kane et Dahari sont à égalité (89). Totaux vérifiés sur les pages dédiées de Ronaldo (146 au 24 sept. 2026), Messi (125) et Kane (89 au 3 oct. 2026).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Cristiano Ronaldo",
+        "value": 146,
+        "aliases": [
+          "Ronaldo",
+          "CR7"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Lionel Messi",
+        "value": 125,
+        "aliases": [
+          "Messi",
+          "Leo Messi"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Ali Daei",
+        "value": 108,
+        "aliases": [
+          "Daei"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Sunil Chhetri",
+        "value": 95,
+        "aliases": [
+          "Chhetri"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Romelu Lukaku",
+        "value": 94,
+        "aliases": [
+          "Lukaku"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Robert Lewandowski",
+        "value": 92,
+        "aliases": [
+          "Lewandowski",
+          "Lewy"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Harry Kane",
+        "value": 89,
+        "aliases": [
+          "Kane"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Mokhtar Dahari",
+        "value": 89,
+        "aliases": [
+          "Dahari"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Ali Mabkhout",
+        "value": 85,
+        "aliases": [
+          "Mabkhout"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Ferenc Puskás",
+        "value": 84,
+        "aliases": [
+          "Puskás",
+          "Puskas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clubs-ligue-des-champions",
+    "title": "Les clubs les plus titrés en Ligue des champions",
+    "measure": "Coupes des clubs champions / Ligues des champions remportées",
+    "category": "sport",
+    "unit": "titres",
+    "precision": 0,
+    "year": "juin 2026",
+    "source": {
+      "name": "UEFA / Wikipedia – List of European Cup and UEFA Champions League finals",
+      "url": "https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals"
+    },
+    "confidence": "high",
+    "notes": "Jusqu'à la finale 2026 (30 mai 2026 : le PSG bat Arsenal aux tirs au but, son 2e titre). Six clubs sont à égalité à 2 titres : PSG, Chelsea, Benfica, Juventus, Nottingham Forest et Porto ; les six sont acceptés pour les deux dernières places.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Real Madrid",
+        "value": 15,
+        "aliases": [
+          "Real",
+          "Madrid"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "AC Milan",
+        "value": 7,
+        "aliases": [
+          "Milan",
+          "Milan AC"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Bayern Munich",
+        "value": 6,
+        "aliases": [
+          "Bayern",
+          "Bayern de Munich",
+          "Bayern München"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Liverpool",
+        "value": 6,
+        "aliases": [
+          "Liverpool FC",
+          "Reds"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "FC Barcelone",
+        "value": 5,
+        "aliases": [
+          "Barcelone",
+          "Barça",
+          "Barcelona",
+          "FC Barcelona"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Ajax Amsterdam",
+        "value": 4,
+        "aliases": [
+          "Ajax"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Inter Milan",
+        "value": 3,
+        "aliases": [
+          "Inter",
+          "Internazionale"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Manchester United",
+        "value": 3,
+        "aliases": [
+          "Man United",
+          "Man Utd",
+          "United"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Paris Saint-Germain",
+        "value": 2,
+        "aliases": [
+          "PSG",
+          "Paris SG",
+          "Paris"
+        ],
+        "ties": [
+          "Benfica",
+          "Juventus",
+          "Nottingham Forest",
+          "FC Porto"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Chelsea",
+        "value": 2,
+        "aliases": [
+          "Chelsea FC",
+          "Blues"
+        ],
+        "ties": [
+          "Benfica",
+          "Juventus",
+          "Nottingham Forest",
+          "FC Porto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "buteurs-equipe-de-france",
+    "title": "Les meilleurs buteurs de l'histoire de l'équipe de France",
+    "measure": "Buts en équipe de France A (hommes)",
+    "category": "sport",
+    "unit": "buts",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "FFF / Wikipedia – List of France international footballers",
+      "url": "https://en.wikipedia.org/wiki/List_of_France_international_footballers"
+    },
+    "confidence": "high",
+    "notes": "Au 28 septembre 2026 (après France–Belgique). Kylian Mbappé (67 buts en 107 sélections) est devenu meilleur buteur de l'histoire le 16 juin 2026 (doublé contre le Sénégal, Coupe du monde) et reste actif. Papin et Fontaine à égalité (30). Trezeguet (34) et Zidane (31) complètent le top 10.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Kylian Mbappé",
+        "value": 67,
+        "aliases": [
+          "Mbappé",
+          "Mbappe",
+          "Kyky"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Olivier Giroud",
+        "value": 57,
+        "aliases": [
+          "Giroud"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Thierry Henry",
+        "value": 51,
+        "aliases": [
+          "Henry",
+          "Titi"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Antoine Griezmann",
+        "value": 44,
+        "aliases": [
+          "Griezmann",
+          "Grizou",
+          "Grizi"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Michel Platini",
+        "value": 41,
+        "aliases": [
+          "Platini",
+          "Platoche"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Karim Benzema",
+        "value": 37,
+        "aliases": [
+          "Benzema",
+          "KB9"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "David Trezeguet",
+        "value": 34,
+        "aliases": [
+          "Trezeguet",
+          "Trézéguet",
+          "Trezegol"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Zinédine Zidane",
+        "value": 31,
+        "aliases": [
+          "Zidane",
+          "Zizou",
+          "Zinedine Zidane"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Jean-Pierre Papin",
+        "value": 30,
+        "aliases": [
+          "Papin",
+          "JPP"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Just Fontaine",
+        "value": 30,
+        "aliases": [
+          "Fontaine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pilotes-victoires-f1",
+    "title": "Les pilotes les plus victorieux en Formule 1",
+    "measure": "Victoires en Grand Prix de Formule 1",
+    "category": "sport",
+    "unit": "victoires",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Formula1.com / Wikipedia – List of Formula One Grand Prix winners",
+      "url": "https://en.wikipedia.org/wiki/List_of_Formula_One_Grand_Prix_winners"
+    },
+    "confidence": "high",
+    "notes": "Arrêté au Grand Prix de Bahreïn 2026 (72e victoire de Verstappen). Hamilton a signé sa 106e victoire à Barcelone en juin 2026, sa première avec Ferrari. Jim Clark et Niki Lauda sont à égalité à 25 victoires pour la 10e place.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Lewis Hamilton",
+        "value": 106,
+        "aliases": [
+          "Hamilton"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Michael Schumacher",
+        "value": 91,
+        "aliases": [
+          "Schumacher",
+          "Schumi"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Max Verstappen",
+        "value": 72,
+        "aliases": [
+          "Verstappen"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Sebastian Vettel",
+        "value": 53,
+        "aliases": [
+          "Vettel"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Alain Prost",
+        "value": 51,
+        "aliases": [
+          "Prost"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Ayrton Senna",
+        "value": 41,
+        "aliases": [
+          "Senna"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Fernando Alonso",
+        "value": 32,
+        "aliases": [
+          "Alonso"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Nigel Mansell",
+        "value": 31,
+        "aliases": [
+          "Mansell"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Jackie Stewart",
+        "value": 27,
+        "aliases": [
+          "Stewart"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Jim Clark",
+        "value": 25,
+        "aliases": [
+          "Clark"
+        ],
+        "ties": [
+          "Niki Lauda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tennis-hommes-grand-chelem",
+    "title": "Les joueurs de tennis les plus titrés en Grand Chelem",
+    "measure": "Titres du Grand Chelem en simple (hommes, toutes époques)",
+    "category": "sport",
+    "unit": "titres",
+    "precision": 0,
+    "year": "sept. 2026",
+    "source": {
+      "name": "ATP / Wikipedia – All-time tennis records, men's singles",
+      "url": "https://en.wikipedia.org/wiki/All-time_tennis_records_%E2%80%93_men%27s_singles"
+    },
+    "confidence": "high",
+    "notes": "Jusqu'à l'US Open 2026 inclus. Cinq joueurs sont à égalité à 8 titres : Connors, Agassi, Perry, Rosewall et Lendl ; les cinq sont acceptés pour les deux dernières places. Alcaraz est à 7 titres, Sinner à 5.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Novak Djokovic",
+        "value": 24,
+        "aliases": [
+          "Djokovic",
+          "Nole",
+          "Djoko"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Rafael Nadal",
+        "value": 22,
+        "aliases": [
+          "Nadal",
+          "Rafa"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Roger Federer",
+        "value": 20,
+        "aliases": [
+          "Federer"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Pete Sampras",
+        "value": 14,
+        "aliases": [
+          "Sampras"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Roy Emerson",
+        "value": 12,
+        "aliases": [
+          "Emerson"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Rod Laver",
+        "value": 11,
+        "aliases": [
+          "Laver"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Björn Borg",
+        "value": 11,
+        "aliases": [
+          "Borg",
+          "Bjorn Borg"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Bill Tilden",
+        "value": 10,
+        "aliases": [
+          "Tilden"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Jimmy Connors",
+        "value": 8,
+        "aliases": [
+          "Connors"
+        ],
+        "ties": [
+          "Fred Perry",
+          "Ken Rosewall",
+          "Ivan Lendl"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Andre Agassi",
+        "value": 8,
+        "aliases": [
+          "Agassi",
+          "André Agassi"
+        ],
+        "ties": [
+          "Fred Perry",
+          "Ken Rosewall",
+          "Ivan Lendl"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tennis-femmes-grand-chelem",
+    "title": "Les joueuses de tennis les plus titrées en Grand Chelem",
+    "measure": "Titres du Grand Chelem en simple (femmes, toutes époques)",
+    "category": "sport",
+    "unit": "titres",
+    "precision": 0,
+    "year": "sept. 2026",
+    "source": {
+      "name": "WTA / Wikipedia – All-time tennis records, women's singles",
+      "url": "https://en.wikipedia.org/wiki/All-time_tennis_records_%E2%80%93_women%27s_singles"
+    },
+    "confidence": "high",
+    "notes": "Jusqu'à l'US Open 2026 inclus. Classement historique inchangé depuis 2022. Molla Mallory est à égalité avec Suzanne Lenglen à 8 titres pour la 10e place.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Margaret Court",
+        "value": 24,
+        "aliases": [
+          "Court",
+          "Margaret Smith Court"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Serena Williams",
+        "value": 23,
+        "aliases": [
+          "Serena",
+          "S. Williams"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Steffi Graf",
+        "value": 22,
+        "aliases": [
+          "Graf"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Helen Wills",
+        "value": 19,
+        "aliases": [
+          "Wills",
+          "Helen Wills Moody"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Chris Evert",
+        "value": 18,
+        "aliases": [
+          "Evert"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Martina Navratilova",
+        "value": 18,
+        "aliases": [
+          "Navratilova",
+          "Navrátilová"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Billie Jean King",
+        "value": 12,
+        "aliases": [
+          "King",
+          "BJK"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Maureen Connolly",
+        "value": 9,
+        "aliases": [
+          "Connolly",
+          "Little Mo"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Monica Seles",
+        "value": 9,
+        "aliases": [
+          "Seles"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Suzanne Lenglen",
+        "value": 8,
+        "aliases": [
+          "Lenglen",
+          "La Divine"
+        ],
+        "ties": [
+          "Molla Mallory"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sportifs-medailles-olympiques",
+    "title": "Les sportifs les plus médaillés de l'histoire des Jeux olympiques",
+    "measure": "Médailles olympiques individuelles cumulées (Jeux d'été et d'hiver)",
+    "category": "sport",
+    "unit": "médailles",
+    "precision": 0,
+    "year": "2026",
+    "source": {
+      "name": "Olympedia / Wikipedia – List of multiple Olympic medalists",
+      "url": "https://en.wikipedia.org/wiki/List_of_multiple_Olympic_medalists"
+    },
+    "confidence": "high",
+    "notes": "Jeux d'été et d'hiver confondus, Milan-Cortina 2026 inclus. Cinq athlètes sont à égalité à 13 médailles pour la 10e place : Klæbo, Boris Shakhlin, Edoardo Mangiarotti, Ireen Wüst et Takashi Ono.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Michael Phelps",
+        "value": 28,
+        "aliases": [
+          "Phelps"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Larisa Latynina",
+        "value": 18,
+        "aliases": [
+          "Latynina"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Marit Bjørgen",
+        "value": 15,
+        "aliases": [
+          "Bjørgen",
+          "Bjorgen"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Nikolai Andrianov",
+        "value": 15,
+        "aliases": [
+          "Andrianov"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Katie Ledecky",
+        "value": 14,
+        "aliases": [
+          "Ledecky"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Isabell Werth",
+        "value": 14,
+        "aliases": [
+          "Werth"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Ole Einar Bjørndalen",
+        "value": 14,
+        "aliases": [
+          "Bjørndalen",
+          "Bjorndalen"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Emma McKeon",
+        "value": 14,
+        "aliases": [
+          "McKeon"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Arianna Fontana",
+        "value": 14,
+        "aliases": [
+          "Fontana"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Johannes Høsflot Klæbo",
+        "value": 13,
+        "aliases": [
+          "Klæbo",
+          "Klaebo",
+          "Klabo"
+        ],
+        "ties": [
+          "Boris Shakhlin",
+          "Edoardo Mangiarotti",
+          "Ireen Wüst",
+          "Takashi Ono"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pays-medailles-paris-2024",
+    "title": "Les pays les plus médaillés aux Jeux olympiques de Paris",
+    "measure": "Total de médailles (or + argent + bronze) aux JO de Paris 2024",
+    "category": "sport",
+    "unit": "médailles",
+    "precision": 0,
+    "year": "2024",
+    "source": {
+      "name": "CIO / Wikipedia – 2024 Summer Olympics medal table",
+      "url": "https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table"
+    },
+    "confidence": "high",
+    "notes": "Classement par total de médailles (le tableau officiel du CIO classe par médailles d'or : États-Unis 40, Chine 40, Japon 20, Australie 18, France 16). Inclut la réattribution du bronze de Jordan Chiles à Ana Bărbosu (Roumanie). États-Unis 40-44-42, Chine 40-27-24, Grande-Bretagne 14-22-29, France 16-26-22.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 126,
+        "aliases": [
+          "USA",
+          "Etats-Unis",
+          "Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Chine",
+        "value": 91,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Royaume-Uni",
+        "value": 65,
+        "aliases": [
+          "Grande-Bretagne",
+          "Angleterre",
+          "UK"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "France",
+        "value": 64,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Australie",
+        "value": 53,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "Japon",
+        "value": 45,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Italie",
+        "value": 40,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Pays-Bas",
+        "value": 34,
+        "aliases": [
+          "Hollande"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Allemagne",
+        "value": 33,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Corée du Sud",
+        "value": 32,
+        "aliases": [
+          "Corée"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "buteurs-ligue-1",
+    "title": "Les meilleurs buteurs de l'histoire du championnat de France",
+    "measure": "Buts en Ligue 1 / Division 1 (depuis 1932)",
+    "category": "sport",
+    "unit": "buts",
+    "precision": 0,
+    "year": "août 2026",
+    "source": {
+      "name": "LFP / Wikipedia – List of Ligue 1 top scorers",
+      "url": "https://en.wikipedia.org/wiki/List_of_Ligue_1_top_scorers"
+    },
+    "confidence": "high",
+    "notes": "Au 30 août 2026. Carlos Bianchi et Gunnar Andersson sont à égalité à 179 buts pour la 10e place.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Delio Onnis",
+        "value": 299,
+        "aliases": [
+          "Onnis"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Bernard Lacombe",
+        "value": 255,
+        "aliases": [
+          "Lacombe"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Hervé Revelli",
+        "value": 216,
+        "aliases": [
+          "Revelli"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Roger Courtois",
+        "value": 210,
+        "aliases": [
+          "Courtois"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Thadée Cisowski",
+        "value": 206,
+        "aliases": [
+          "Cisowski"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Roger Piantoni",
+        "value": 203,
+        "aliases": [
+          "Piantoni"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Kylian Mbappé",
+        "value": 191,
+        "aliases": [
+          "Mbappé",
+          "Mbappe"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Joseph Ujlaki",
+        "value": 190,
+        "aliases": [
+          "Ujlaki"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Fleury Di Nallo",
+        "value": 187,
+        "aliases": [
+          "Di Nallo"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Carlos Bianchi",
+        "value": 179,
+        "aliases": [
+          "Bianchi"
+        ],
+        "ties": [
+          "Gunnar Andersson"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "villes-plus-peuplees-france",
+    "title": "Les villes les plus peuplées de France",
+    "measure": "Population municipale légale des communes (millésime 2023, en vigueur au 1er janvier 2026)",
+    "category": "france",
+    "unit": "habitants",
+    "precision": 0,
+    "year": "2023 (publ. déc. 2025)",
+    "source": {
+      "name": "INSEE – Populations légales 2023 (via Wikipédia, liste des communes les plus peuplées)",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es"
+    },
+    "confidence": "high",
+    "notes": "Populations municipales des communes (pas des agglomérations ni des métropoles). Millésime 2023 publié par l'INSEE fin décembre 2025, en vigueur au 1er janvier 2026. Rennes (230 890) et Toulon (179 116) suivent.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Paris",
+        "value": 2103778,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Marseille",
+        "value": 886040,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Lyon",
+        "value": 519127,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Toulouse",
+        "value": 514819,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Nice",
+        "value": 357737,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "Nantes",
+        "value": 327734,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Montpellier",
+        "value": 310240,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Strasbourg",
+        "value": 293771,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Bordeaux",
+        "value": 267991,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Lille",
+        "value": 238246,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "departements-plus-peuples-france",
+    "title": "Les départements les plus peuplés de France",
+    "measure": "Population municipale légale des départements (millésime 2023, en vigueur au 1er janvier 2026)",
+    "category": "france",
+    "unit": "habitants",
+    "precision": 0,
+    "year": "2023 (publ. déc. 2025)",
+    "source": {
+      "name": "INSEE – Populations légales 2023 des départements (via Wikipédia)",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_d%C3%A9partements_fran%C3%A7ais_class%C3%A9s_par_population_et_superficie"
+    },
+    "confidence": "high",
+    "notes": "Paris est compté comme département (75). Le Rhône correspond à la circonscription départementale incluant la Métropole de Lyon (le seul département du Rhône hors métropole compte environ 480 000 habitants). Seine-et-Marne (1 468 108) et Pas-de-Calais (1 457 905) suivent.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Nord",
+        "value": 2615635,
+        "aliases": [
+          "59"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Paris",
+        "value": 2103778,
+        "aliases": [
+          "75"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Bouches-du-Rhône",
+        "value": 2087658,
+        "aliases": [
+          "13",
+          "Bouches du Rhône"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Rhône",
+        "value": 1914667,
+        "aliases": [
+          "69",
+          "Rhône (Métropole de Lyon incluse)"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Seine-Saint-Denis",
+        "value": 1704316,
+        "aliases": [
+          "93",
+          "Seine Saint-Denis"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Gironde",
+        "value": 1690493,
+        "aliases": [
+          "33"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Hauts-de-Seine",
+        "value": 1654712,
+        "aliases": [
+          "92",
+          "Hauts de Seine"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Loire-Atlantique",
+        "value": 1487570,
+        "aliases": [
+          "44",
+          "Loire Atlantique"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Yvelines",
+        "value": 1485086,
+        "aliases": [
+          "78"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Haute-Garonne",
+        "value": 1471468,
+        "aliases": [
+          "31",
+          "Haute Garonne"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prenoms-masculins-france",
+    "title": "Les prénoms de garçon les plus donnés en France",
+    "measure": "Naissances de garçons par prénom en France en 2025",
+    "category": "france",
+    "unit": "naissances",
+    "precision": 0,
+    "year": "2025 (publ. juil. 2026)",
+    "source": {
+      "name": "INSEE – Top 10 des prénoms en France en 2025 (fichier des prénoms)",
+      "url": "https://www.insee.fr/fr/statistiques/8595099?sommaire=8595113"
+    },
+    "confidence": "high",
+    "notes": "Fichier des prénoms INSEE publié le 16 juillet 2026, naissances 2025 en France (hors Mayotte). Effectifs arrondis au multiple de 5 le plus proche. Les graphies sont comptées séparément (Noah ≠ Noa, Léo ≠ Leo).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Gabriel",
+        "value": 4625,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Noah",
+        "value": 3465,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Léo",
+        "value": 3420,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Raphaël",
+        "value": 3285,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Louis",
+        "value": 3260,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "Jules",
+        "value": 3040,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Arthur",
+        "value": 2875,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Léon",
+        "value": 2835,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Adam",
+        "value": 2810,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Maël",
+        "value": 2700,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "prenoms-feminins-france",
+    "title": "Les prénoms de fille les plus donnés en France",
+    "measure": "Naissances de filles par prénom en France en 2025",
+    "category": "france",
+    "unit": "naissances",
+    "precision": 0,
+    "year": "2025 (publ. juil. 2026)",
+    "source": {
+      "name": "INSEE – Top 10 des prénoms en France en 2025 (fichier des prénoms)",
+      "url": "https://www.insee.fr/fr/statistiques/8595099?sommaire=8595113"
+    },
+    "confidence": "high",
+    "notes": "Fichier des prénoms INSEE publié le 16 juillet 2026, naissances 2025 en France (hors Mayotte). Effectifs arrondis au multiple de 5 le plus proche. Les graphies sont comptées séparément (Alma ≠ Alma-Rose, etc.).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Louise",
+        "value": 3070,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Jade",
+        "value": 2925,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Ambre",
+        "value": 2805,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Alma",
+        "value": 2500,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Alba",
+        "value": 2360,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "Rose",
+        "value": 2320,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Emma",
+        "value": 2310,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Romy",
+        "value": 2245,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Adèle",
+        "value": 2225,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Alice",
+        "value": 2130,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "reseaux-sociaux-plus-utilises",
+    "title": "Les réseaux sociaux et messageries les plus utilisés au monde",
+    "measure": "Utilisateurs actifs mensuels (chiffres des plateformes / DataReportal)",
+    "category": "tech",
+    "unit": "Md d'utilisateurs",
+    "precision": 2,
+    "year": "2026",
+    "source": {
+      "name": "DataReportal (Digital 2026 Mid-Year) / chiffres officiels des plateformes compilés (Wikipédia, liste des plateformes à 100 M+ d'utilisateurs)",
+      "url": "https://datareportal.com/reports/digital-2026-mid-year-global-update-report"
+    },
+    "confidence": "medium",
+    "notes": "Utilisateurs actifs mensuels déclarés par chaque plateforme, à des dates différentes (2025-2026) ; il n’existe pas de tableau officiel unique. Pour TikTok, l’audience publicitaire (DataReportal) est retenue, d’autres sources donnent 1,9 à 2,2 Md. Instagram et WhatsApp sont à égalité.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Facebook",
+        "value": 3.07,
+        "aliases": [
+          "FB"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Instagram",
+        "value": 3,
+        "aliases": [
+          "Insta",
+          "IG"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "WhatsApp",
+        "value": 3,
+        "aliases": [
+          "Whatsapp",
+          "WA"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "YouTube",
+        "value": 2.5,
+        "aliases": [
+          "Youtube",
+          "YT"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "TikTok",
+        "value": 1.59,
+        "aliases": [
+          "Tiktok",
+          "Tik Tok"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "WeChat",
+        "value": 1.41,
+        "aliases": [
+          "Weixin",
+          "Wechat"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Messenger",
+        "value": 1.01,
+        "aliases": [
+          "Facebook Messenger"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Telegram",
+        "value": 1,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Snapchat",
+        "value": 0.9,
+        "aliases": [
+          "Snap"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Douyin",
+        "value": 0.77,
+        "aliases": [
+          "TikTok Chine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sites-web-plus-visites",
+    "title": "Les sites web les plus visités au monde",
+    "measure": "Visites mensuelles (ordinateur + mobile), août 2026",
+    "category": "tech",
+    "unit": "Md de visites",
+    "precision": 1,
+    "year": "août 2026",
+    "source": {
+      "name": "Similarweb – Top 100 Most Visited Websites Worldwide (August 2026)",
+      "url": "https://www.similarweb.com/blog/research/market-research/most-visited-websites/"
+    },
+    "confidence": "high",
+    "notes": "Données Similarweb pour le mois d'août 2026, par domaine (google.com hors sous-domaines nationaux). Bing et TikTok à égalité à 3,8 Md. Wikipedia (3,5 Md) et Yahoo Japan (2,9 Md) suivent. Les chiffres changent chaque mois.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Google",
+        "value": 86.6,
+        "aliases": [
+          "google.com"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "YouTube",
+        "value": 30.4,
+        "aliases": [
+          "youtube.com",
+          "Youtube"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Facebook",
+        "value": 11.5,
+        "aliases": [
+          "facebook.com"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Instagram",
+        "value": 7.6,
+        "aliases": [
+          "instagram.com",
+          "Insta"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "ChatGPT",
+        "value": 5.6,
+        "aliases": [
+          "chatgpt.com",
+          "OpenAI",
+          "Chat GPT"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "X",
+        "value": 4.6,
+        "aliases": [
+          "x.com",
+          "Twitter",
+          "twitter.com"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Reddit",
+        "value": 4.2,
+        "aliases": [
+          "reddit.com"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Bing",
+        "value": 3.8,
+        "aliases": [
+          "bing.com",
+          "Microsoft Bing"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "TikTok",
+        "value": 3.8,
+        "aliases": [
+          "tiktok.com",
+          "Tiktok"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "WhatsApp",
+        "value": 3.7,
+        "aliases": [
+          "whatsapp.com",
+          "Whatsapp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "applications-plus-telechargees-2025",
+    "title": "Les applications les plus téléchargées dans le monde",
+    "measure": "Téléchargements cumulés App Store + Google Play sur l'année 2025",
+    "category": "tech",
+    "unit": "M de téléchargements",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "AppMagic (estimations 2025, relayées par Udonis, mai 2026)",
+      "url": "https://www.blog.udonis.co/mobile-marketing/mobile-apps/most-downloaded-mobile-apps"
+    },
+    "confidence": "medium",
+    "notes": "Estimations tierces : les cabinets divergent. AppMagic place ChatGPT 1er (1 076 M) devant TikTok (740 M) ; Sensor Tower (State of Mobile 2026) place TikTok 1er et ChatGPT 2e sans publier de volumes ; AppTweak donne ChatGPT 845 M, Instagram 762 M, TikTok 546 M. Les jeux sont inclus (Block Blast!). Hors Chine (Google Play absent).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "ChatGPT",
+        "value": 1076,
+        "aliases": [
+          "Chat GPT",
+          "OpenAI"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "TikTok",
+        "value": 740,
+        "aliases": [
+          "Tiktok",
+          "Tik Tok"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Instagram",
+        "value": 586,
+        "aliases": [
+          "Insta",
+          "IG"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Facebook",
+        "value": 481,
+        "aliases": [
+          "FB"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Google Gemini",
+        "value": 475,
+        "aliases": [
+          "Gemini"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "WhatsApp",
+        "value": 463,
+        "aliases": [
+          "Whatsapp"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Temu",
+        "value": 438,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "CapCut",
+        "value": 383,
+        "aliases": [
+          "Capcut"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Block Blast!",
+        "value": 363,
+        "aliases": [
+          "Block Blast"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Telegram",
+        "value": 332,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "pays-laureats-nobel",
+    "title": "Les pays qui comptent le plus de lauréats du prix Nobel",
+    "measure": "Lauréats du prix Nobel (toutes disciplines, y compris économie) par pays",
+    "category": "monde",
+    "unit": "lauréats",
+    "precision": 0,
+    "year": "1901-2025",
+    "source": {
+      "name": "Fondation Nobel / Wikipedia – List of Nobel laureates by country",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country"
+    },
+    "confidence": "medium",
+    "notes": "Critère : pays rattaché(s) au lauréat par la Fondation Nobel sur nobelprize.org (pays de naissance et/ou d'affiliation ; un lauréat binational est compté dans chaque pays). Jusqu'aux prix 2025 inclus ; les prix 2026 sont annoncés du 5 au 12 octobre 2026 et ne sont pas comptés. Russie inclut l'URSS. Pays-Bas (22) et Italie (21) suivent.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 425,
+        "aliases": [
+          "USA",
+          "Etats-Unis",
+          "Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Royaume-Uni",
+        "value": 144,
+        "aliases": [
+          "Grande-Bretagne",
+          "Angleterre",
+          "UK"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Allemagne",
+        "value": 116,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "France",
+        "value": 78,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Suède",
+        "value": 34,
+        "aliases": []
+      },
+      {
+        "rank": 6,
+        "name": "Japon",
+        "value": 33,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Russie",
+        "value": 30,
+        "aliases": [
+          "URSS",
+          "Union soviétique"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Canada",
+        "value": 29,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Suisse",
+        "value": 27,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Autriche",
+        "value": 25,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "pays-consommation-vin",
+    "title": "Les pays qui consomment le plus de vin",
+    "measure": "Consommation de vin en 2025 (millions d'hectolitres)",
+    "category": "monde",
+    "unit": "M d'hectolitres",
+    "precision": 1,
+    "year": "2025 (publ. mai 2026)",
+    "source": {
+      "name": "OIV – State of the World Wine Sector in 2025 (mai 2026), tableau 3",
+      "url": "https://www.oiv.int/sites/default/files/2026-05/OIV-State_of_the_World_Wine_Sector_in_2025.pdf"
+    },
+    "confidence": "high",
+    "notes": "Consommation « apparente » (production + importations – exportations, ajustée des stocks) estimée par l'OIV ; monde : 208 mhl (-2,7 %). Volumes totaux, pas par habitant (le Portugal est 1er par habitant). Chine (4,8) et Brésil (4,4) suivent.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "États-Unis",
+        "value": 31.9,
+        "aliases": [
+          "USA",
+          "Etats-Unis",
+          "Amérique"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "France",
+        "value": 22,
+        "aliases": []
+      },
+      {
+        "rank": 3,
+        "name": "Italie",
+        "value": 20.2,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Allemagne",
+        "value": 17.8,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Royaume-Uni",
+        "value": 12.3,
+        "aliases": [
+          "Grande-Bretagne",
+          "Angleterre",
+          "UK"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Espagne",
+        "value": 9.4,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Russie",
+        "value": 8,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Argentine",
+        "value": 7.5,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Portugal",
+        "value": 5.6,
+        "aliases": []
+      },
+      {
+        "rank": 10,
+        "name": "Australie",
+        "value": 5.3,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "pays-producteurs-cafe",
+    "title": "Les plus grands pays producteurs de café",
+    "measure": "Production de café, campagne 2025/26 (estimation USDA)",
+    "category": "monde",
+    "unit": "M de sacs de 60 kg",
+    "precision": 1,
+    "year": "2025/26 (publ. juil. 2026)",
+    "source": {
+      "name": "USDA FAS – Coffee: World Markets and Trade (juillet 2026)",
+      "url": "https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf"
+    },
+    "confidence": "high",
+    "notes": "Estimation USDA de juillet 2026 pour la campagne 2025/26 (monde : 178,8 M de sacs), arabica + robusta. Chiffres exacts en milliers de sacs : Brésil 63 000, Vietnam 31 700, Colombie 12 500, Indonésie 12 370, Éthiopie 11 560, Ouganda 7 095, Inde 6 430, Honduras 5 530, Pérou 4 764, Mexique 4 080. La prévision 2026/27 donne un record pour le Brésil (71,9 M).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Brésil",
+        "value": 63,
+        "aliases": []
+      },
+      {
+        "rank": 2,
+        "name": "Vietnam",
+        "value": 31.7,
+        "aliases": [
+          "Viêt Nam",
+          "Viet Nam"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Colombie",
+        "value": 12.5,
+        "aliases": []
+      },
+      {
+        "rank": 4,
+        "name": "Indonésie",
+        "value": 12.4,
+        "aliases": []
+      },
+      {
+        "rank": 5,
+        "name": "Éthiopie",
+        "value": 11.6,
+        "aliases": [
+          "Ethiopie"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Ouganda",
+        "value": 7.1,
+        "aliases": []
+      },
+      {
+        "rank": 7,
+        "name": "Inde",
+        "value": 6.4,
+        "aliases": []
+      },
+      {
+        "rank": 8,
+        "name": "Honduras",
+        "value": 5.5,
+        "aliases": []
+      },
+      {
+        "rank": 9,
+        "name": "Pérou",
+        "value": 4.8,
+        "aliases": [
+          "Perou"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Mexique",
+        "value": 4.1,
+        "aliases": []
+      }
+    ]
+  }
+]
