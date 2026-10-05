@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "films-francais-entrees-tous-temps",
+    "title": "Les films français ayant fait le plus d'entrées en France",
+    "measure": "Entrées en salles en France (tous temps, ressorties comprises)",
+    "category": "culture",
+    "unit": "M d'entrées",
+    "precision": 2,
+    "year": "tous temps",
+    "source": {
+      "name": "CNC / JP's Box-Office (via Wikipédia)",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_plus_gros_succ%C3%A8s_du_box-office_en_France"
+    },
+    "confidence": "medium",
+    "notes": "Entrées cumulées en France, ressorties comprises, selon le classement all-time compilé à partir du CNC et de JP's Box-Office (consulté en octobre 2026). Seules les productions et coproductions majoritairement françaises sont retenues. Le chiffre de La Grande Illusion (1937) est une estimation d'époque, antérieure aux statistiques du CNC.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Bienvenue chez les Ch'tis",
+        "value": 20.489303,
+        "aliases": [
+          "Les Ch'tis",
+          "Bienvenue chez les Chtis"
+        ],
+        "hint": "Une comédie des années 2000"
+      },
+      {
+        "rank": 2,
+        "name": "Intouchables",
+        "value": 19.533573,
+        "aliases": [
+          "Les Intouchables"
+        ],
+        "hint": "Un duo improbable des années 2010"
+      },
+      {
+        "rank": 3,
+        "name": "La Grande Vadrouille",
+        "value": 17.336908,
+        "aliases": [
+          "Grande Vadrouille"
+        ],
+        "hint": "Une comédie des années 1960"
+      },
+      {
+        "rank": 4,
+        "name": "Astérix & Obélix : Mission Cléopâtre",
+        "value": 14.967407,
+        "aliases": [
+          "Mission Cléopâtre",
+          "Astérix et Obélix Mission Cléopâtre",
+          "Asterix Mission Cleopatre"
+        ],
+        "hint": "Une adaptation de bande dessinée"
+      },
+      {
+        "rank": 5,
+        "name": "Les Visiteurs",
+        "value": 13.782991,
+        "aliases": [
+          "Visiteurs"
+        ],
+        "hint": "Un voyage dans le temps comique"
+      },
+      {
+        "rank": 6,
+        "name": "Le Petit Monde de don Camillo",
+        "value": 12.798591,
+        "aliases": [
+          "Don Camillo"
+        ],
+        "hint": "Un film des années 1950"
+      },
+      {
+        "rank": 7,
+        "name": "La Grande Illusion",
+        "value": 12.5,
+        "aliases": [
+          "Grande Illusion"
+        ],
+        "hint": "Un classique d'avant-guerre"
+      },
+      {
+        "rank": 8,
+        "name": "Qu'est-ce qu'on a fait au Bon Dieu ?",
+        "value": 12.366033,
+        "aliases": [
+          "Qu'est-ce qu'on a fait au bon dieu",
+          "Bon Dieu"
+        ],
+        "hint": "Une comédie familiale des années 2010"
+      },
+      {
+        "rank": 9,
+        "name": "Le Corniaud",
+        "value": 11.747383,
+        "aliases": [
+          "Corniaud"
+        ],
+        "hint": "Un duo comique des années 1960"
+      },
+      {
+        "rank": 10,
+        "name": "Un p'tit truc en plus",
+        "value": 10.830209,
+        "aliases": [
+          "Un petit truc en plus",
+          "Ptit truc en plus"
+        ],
+        "hint": "Une comédie très récente"
+      }
+    ]
+  },
+  {
+    "id": "films-les-plus-vus-france-2025",
+    "title": "Les films les plus vus au cinéma en France en 2025",
+    "measure": "Entrées en salles en France sur l'année 2025",
+    "category": "culture",
+    "unit": "M d'entrées",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "CBO Box-office / CNC (via Puremédias)",
+      "url": "https://www.ozap.com/actu/box-office-quels-sont-les-10-films-les-plus-vus-en-france-en-2025/653103"
+    },
+    "confidence": "medium",
+    "notes": "Entrées réalisées en France au cours de l'année civile 2025 (données CBO Box-office au 31 décembre 2025, publiées le 3 janvier 2026). Mufasa : Le Roi lion, sorti le 18 décembre 2024, est compté pour ses seules entrées 2025 selon le bilan du CNC (chiffre arrêté au 29 décembre 2025), ce qui le place 8e et écarte Conjuring : L'Heure du jugement (2,37 M) du top 10.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Zootopie 2",
+        "value": 6.547287,
+        "aliases": [
+          "Zootopia 2",
+          "Zootopie"
+        ],
+        "hint": "Une suite d'animation Disney"
+      },
+      {
+        "rank": 2,
+        "name": "Lilo & Stitch",
+        "value": 5.16239,
+        "aliases": [
+          "Lilo et Stitch",
+          "Stitch"
+        ],
+        "hint": "Un remake en prises de vues réelles"
+      },
+      {
+        "rank": 3,
+        "name": "Avatar : De feu et de cendres",
+        "value": 5.056772,
+        "aliases": [
+          "Avatar: Fire and Ash",
+          "Avatar 3",
+          "Avatar"
+        ],
+        "hint": "Un troisième volet de science-fiction"
+      },
+      {
+        "rank": 4,
+        "name": "F1",
+        "value": 3.371524,
+        "aliases": [
+          "F1 le film",
+          "F1: The Movie",
+          "Formule 1"
+        ],
+        "hint": "Un film de sport automobile"
+      },
+      {
+        "rank": 5,
+        "name": "Jurassic World : Renaissance",
+        "value": 3.021177,
+        "aliases": [
+          "Jurassic World Rebirth",
+          "Jurassic World",
+          "Jurassic Park"
+        ],
+        "hint": "Des dinosaures, encore"
+      },
+      {
+        "rank": 6,
+        "name": "God Save the Tuche",
+        "value": 3.007866,
+        "aliases": [
+          "Les Tuche 5",
+          "Les Tuche",
+          "Tuche"
+        ],
+        "hint": "Une comédie française à suites"
+      },
+      {
+        "rank": 7,
+        "name": "Minecraft, le film",
+        "value": 2.712147,
+        "aliases": [
+          "A Minecraft Movie",
+          "Minecraft"
+        ],
+        "hint": "Une adaptation de jeu vidéo"
+      },
+      {
+        "rank": 8,
+        "name": "Mufasa : Le Roi lion",
+        "value": 2.64,
+        "aliases": [
+          "Mufasa: The Lion King",
+          "Mufasa"
+        ],
+        "hint": "Une préquelle Disney sortie fin 2024"
+      },
+      {
+        "rank": 9,
+        "name": "Dragons",
+        "value": 2.580896,
+        "aliases": [
+          "How to Train Your Dragon",
+          "Dragons 2025"
+        ],
+        "hint": "Un remake DreamWorks"
+      },
+      {
+        "rank": 10,
+        "name": "Mission : Impossible – The Final Reckoning",
+        "value": 2.498716,
+        "aliases": [
+          "Mission Impossible 8",
+          "Mission Impossible The Final Reckoning",
+          "Mission Impossible"
+        ],
+        "hint": "Une saga d'espionnage"
+      }
+    ]
+  },
+  {
+    "id": "films-animation-box-office-mondial",
+    "title": "Les films d'animation les plus rentables au box-office mondial",
+    "measure": "Recettes mondiales en salles (tous temps, non ajustées de l'inflation)",
+    "category": "culture",
+    "unit": "Md $",
+    "precision": 2,
+    "year": "tous temps",
+    "source": {
+      "name": "Box Office Mojo (via Wikipédia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_animated_films"
+    },
+    "confidence": "high",
+    "notes": "Recettes mondiales brutes non ajustées de l'inflation, consultées en octobre 2026. Le Roi lion (2019), entièrement réalisé en images de synthèse, est compté comme film d'animation. Toy Story 5 (2026) était encore à l'affiche au moment du relevé. Le total de Ne Zha 2 est compilé à partir de sources chinoises.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Ne Zha 2",
+        "value": 2.217758382,
+        "aliases": [
+          "Nezha 2",
+          "Ne Zha"
+        ],
+        "hint": "Un film chinois"
+      },
+      {
+        "rank": 2,
+        "name": "Zootopie 2",
+        "value": 1.870309291,
+        "aliases": [
+          "Zootopia 2",
+          "Zootopie"
+        ],
+        "hint": "Une suite Disney avec des animaux"
+      },
+      {
+        "rank": 3,
+        "name": "Vice-Versa 2",
+        "value": 1.698863816,
+        "aliases": [
+          "Inside Out 2",
+          "Vice Versa 2",
+          "Vice-Versa"
+        ],
+        "hint": "Une suite Pixar sur les émotions"
+      },
+      {
+        "rank": 4,
+        "name": "Le Roi lion (2019)",
+        "value": 1.662020819,
+        "aliases": [
+          "The Lion King",
+          "Le Roi lion",
+          "Roi lion"
+        ],
+        "hint": "Un remake photoréaliste"
+      },
+      {
+        "rank": 5,
+        "name": "La Reine des neiges 2",
+        "value": 1.451651316,
+        "aliases": [
+          "Frozen 2",
+          "Frozen II",
+          "Reine des neiges 2"
+        ],
+        "hint": "Une suite Disney enneigée"
+      },
+      {
+        "rank": 6,
+        "name": "Super Mario Bros. le film",
+        "value": 1.360783214,
+        "aliases": [
+          "The Super Mario Bros. Movie",
+          "Super Mario Bros",
+          "Mario"
+        ],
+        "hint": "Une adaptation de jeu vidéo"
+      },
+      {
+        "rank": 7,
+        "name": "La Reine des neiges",
+        "value": 1.29,
+        "aliases": [
+          "Frozen",
+          "Reine des neiges"
+        ],
+        "hint": "Un Disney des années 2010"
+      },
+      {
+        "rank": 8,
+        "name": "Les Indestructibles 2",
+        "value": 1.243225667,
+        "aliases": [
+          "Incredibles 2",
+          "Indestructibles 2",
+          "Les Indestructibles"
+        ],
+        "hint": "Une famille de super-héros"
+      },
+      {
+        "rank": 9,
+        "name": "Les Minions",
+        "value": 1.159457503,
+        "aliases": [
+          "Minions"
+        ],
+        "hint": "Des créatures jaunes"
+      },
+      {
+        "rank": 10,
+        "name": "Toy Story 5",
+        "value": 1.147465495,
+        "aliases": [
+          "Toy Story"
+        ],
+        "hint": "Une suite Pixar de 2026"
+      }
+    ]
+  },
+  {
+    "id": "franchises-cinema-box-office-mondial",
+    "title": "Les franchises de cinéma les plus rentables",
+    "measure": "Recettes mondiales cumulées de tous les films de la franchise",
+    "category": "culture",
+    "unit": "Md $",
+    "precision": 1,
+    "year": "tous temps",
+    "source": {
+      "name": "Box Office Mojo / The Numbers (via Wikipédia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_franchises_and_film_series"
+    },
+    "confidence": "medium",
+    "notes": "Cumul mondial non ajusté de l'inflation (Box Office Mojo / The Numbers). Les sous-séries qui recoupent une franchise déjà listée (Avengers dans l'univers Marvel, DC Extended Universe avec Batman) ont été retirées au profit de Jurassic Park et Avatar.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Univers cinématographique Marvel",
+        "value": 35.120510651,
+        "aliases": [
+          "Marvel Cinematic Universe",
+          "MCU",
+          "Marvel"
+        ],
+        "hint": "Un monde partagé de super-héros"
+      },
+      {
+        "rank": 2,
+        "name": "Spider-Man",
+        "value": 13.659569048,
+        "aliases": [
+          "Spiderman",
+          "Spider Man"
+        ],
+        "hint": "Un super-héros new-yorkais"
+      },
+      {
+        "rank": 3,
+        "name": "Star Wars",
+        "value": 10.748764874,
+        "aliases": [
+          "La Guerre des étoiles"
+        ],
+        "hint": "Une saga spatiale"
+      },
+      {
+        "rank": 4,
+        "name": "Wizarding World (Harry Potter)",
+        "value": 9.661390687,
+        "aliases": [
+          "Harry Potter",
+          "Wizarding World",
+          "Les Animaux fantastiques"
+        ],
+        "hint": "Une saga de sorciers"
+      },
+      {
+        "rank": 5,
+        "name": "James Bond",
+        "value": 7.836510562,
+        "aliases": [
+          "007",
+          "Bond"
+        ],
+        "hint": "Un espion britannique"
+      },
+      {
+        "rank": 6,
+        "name": "X-Men",
+        "value": 7.422190386,
+        "aliases": [
+          "X Men",
+          "Xmen"
+        ],
+        "hint": "Des mutants au cinéma"
+      },
+      {
+        "rank": 7,
+        "name": "Fast & Furious",
+        "value": 7.338933038,
+        "aliases": [
+          "Fast and Furious",
+          "Fast Furious"
+        ],
+        "hint": "Des courses de voitures"
+      },
+      {
+        "rank": 8,
+        "name": "Batman",
+        "value": 7.05303741,
+        "aliases": [
+          "Bat Man"
+        ],
+        "hint": "Un justicier milliardaire"
+      },
+      {
+        "rank": 9,
+        "name": "Jurassic Park",
+        "value": 6.88,
+        "aliases": [
+          "Jurassic World",
+          "Jurassic"
+        ],
+        "hint": "Une saga de dinosaures"
+      },
+      {
+        "rank": 10,
+        "name": "Avatar",
+        "value": 6.74,
+        "aliases": [
+          "Avatar de James Cameron"
+        ],
+        "hint": "Une saga de science-fiction sur une planète lointaine"
+      }
+    ]
+  },
+  {
+    "id": "jeux-nintendo-switch-plus-vendus",
+    "title": "Les jeux Nintendo Switch les plus vendus",
+    "measure": "Exemplaires vendus dans le monde (Nintendo Switch)",
+    "category": "culture",
+    "unit": "M d'exemplaires",
+    "precision": 2,
+    "year": "au 30 juin 2026",
+    "source": {
+      "name": "Nintendo IR (Top Selling Title Sales Units)",
+      "url": "https://www.nintendo.co.jp/ir/en/finance/software/switch.html"
+    },
+    "confidence": "high",
+    "notes": "Ventes mondiales cumulées (physiques et dématérialisées) déclarées par Nintendo au 30 juin 2026, pour la première Nintendo Switch uniquement (les jeux Switch 2 ne sont pas comptés). Seuls les jeux édités par Nintendo sont déclarés ; les jeux tiers n'apparaissent pas.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Mario Kart 8 Deluxe",
+        "value": 71.53,
+        "aliases": [
+          "Mario Kart 8",
+          "Mario Kart"
+        ],
+        "hint": "Un jeu de course"
+      },
+      {
+        "rank": 2,
+        "name": "Animal Crossing: New Horizons",
+        "value": 50.29,
+        "aliases": [
+          "Animal Crossing",
+          "ACNH"
+        ],
+        "hint": "Une vie de village paisible"
+      },
+      {
+        "rank": 3,
+        "name": "Super Smash Bros. Ultimate",
+        "value": 38.14,
+        "aliases": [
+          "Smash Bros",
+          "Super Smash Bros",
+          "Smash"
+        ],
+        "hint": "Un jeu de combat"
+      },
+      {
+        "rank": 4,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "value": 34.06,
+        "aliases": [
+          "Zelda Breath of the Wild",
+          "Breath of the Wild",
+          "BOTW",
+          "Zelda"
+        ],
+        "hint": "Un monde ouvert de 2017"
+      },
+      {
+        "rank": 5,
+        "name": "Super Mario Odyssey",
+        "value": 30.8,
+        "aliases": [
+          "Mario Odyssey",
+          "Odyssey"
+        ],
+        "hint": "Un plombier et son chapeau"
+      },
+      {
+        "rank": 6,
+        "name": "Pokémon Écarlate et Violet",
+        "value": 28.46,
+        "aliases": [
+          "Pokémon Écarlate",
+          "Pokémon Violet",
+          "Pokemon Scarlet and Violet",
+          "Pokemon Ecarlate Violet"
+        ],
+        "hint": "Des créatures de poche en monde ouvert"
+      },
+      {
+        "rank": 7,
+        "name": "Pokémon Épée et Bouclier",
+        "value": 27.26,
+        "aliases": [
+          "Pokémon Épée",
+          "Pokémon Bouclier",
+          "Pokemon Sword and Shield",
+          "Pokemon Epee Bouclier"
+        ],
+        "hint": "Des créatures de poche en 2019"
+      },
+      {
+        "rank": 8,
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "value": 22.71,
+        "aliases": [
+          "Zelda Tears of the Kingdom",
+          "Tears of the Kingdom",
+          "TOTK"
+        ],
+        "hint": "Un monde ouvert de 2023"
+      },
+      {
+        "rank": 9,
+        "name": "Super Mario Party",
+        "value": 21.36,
+        "aliases": [
+          "Mario Party"
+        ],
+        "hint": "Un jeu de société virtuel"
+      },
+      {
+        "rank": 10,
+        "name": "New Super Mario Bros. U Deluxe",
+        "value": 19.1,
+        "aliases": [
+          "New Super Mario Bros U",
+          "Mario Bros U Deluxe",
+          "NSMBU"
+        ],
+        "hint": "Un jeu de plateforme en 2D"
+      }
+    ]
+  },
+  {
+    "id": "jeux-video-plus-vendus-france-2025",
+    "title": "Les jeux vidéo les plus vendus en France en 2025",
+    "measure": "Classement des ventes en volume en France (physique + dématérialisé)",
+    "category": "france",
+    "unit": "rang",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "SELL – L'Essentiel du jeu vidéo 2025 (données GSD), via ActuGaming",
+      "url": "https://www.actugaming.net/voici-la-liste-des-jeux-les-plus-vendus-en-france-en-2025-789694/"
+    },
+    "confidence": "low",
+    "notes": "Le SELL (Syndicat des éditeurs de logiciels de loisirs) ne publie que l'ordre du classement, pas les volumes : aucun chiffre de ventes n'est disponible pour ces jeux. Classement en volume sur consoles et PC, ventes physiques et dématérialisées cumulées (hors ventes dématérialisées de Nintendo), bilan publié le 26 mars 2026. Toutes plateformes confondues pour un même titre.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "EA Sports FC 26",
+        "value": null,
+        "aliases": [
+          "FC 26",
+          "EA FC 26",
+          "FIFA 26"
+        ],
+        "hint": "Un jeu de football annuel"
+      },
+      {
+        "rank": 2,
+        "name": "EA Sports FC 25",
+        "value": null,
+        "aliases": [
+          "FC 25",
+          "EA FC 25",
+          "FIFA 25"
+        ],
+        "hint": "Le jeu de football de l'année d'avant"
+      },
+      {
+        "rank": 3,
+        "name": "Call of Duty: Black Ops 7",
+        "value": null,
+        "aliases": [
+          "Black Ops 7",
+          "COD Black Ops 7",
+          "Call of Duty"
+        ],
+        "hint": "Un jeu de tir militaire annuel"
+      },
+      {
+        "rank": 4,
+        "name": "Battlefield 6",
+        "value": null,
+        "aliases": [
+          "Battlefield",
+          "BF6"
+        ],
+        "hint": "Un jeu de guerre à grande échelle"
+      },
+      {
+        "rank": 5,
+        "name": "Assassin's Creed Shadows",
+        "value": null,
+        "aliases": [
+          "Assassin's Creed",
+          "AC Shadows",
+          "Assassins Creed Shadows"
+        ],
+        "hint": "Une saga française d'infiltration"
+      },
+      {
+        "rank": 6,
+        "name": "Légendes Pokémon : Z-A",
+        "value": null,
+        "aliases": [
+          "Pokémon Legends Z-A",
+          "Pokémon ZA",
+          "Pokemon Z-A",
+          "Légendes Pokémon Z-A"
+        ],
+        "hint": "Des créatures de poche dans une ville"
+      },
+      {
+        "rank": 7,
+        "name": "Grand Theft Auto V",
+        "value": null,
+        "aliases": [
+          "GTA V",
+          "GTA 5",
+          "GTA"
+        ],
+        "hint": "Un monde ouvert vieux de dix ans"
+      },
+      {
+        "rank": 8,
+        "name": "Hogwarts Legacy : L'Héritage de Poudlard",
+        "value": null,
+        "aliases": [
+          "Hogwarts Legacy",
+          "L'Héritage de Poudlard",
+          "Harry Potter"
+        ],
+        "hint": "Une école de sorciers"
+      },
+      {
+        "rank": 9,
+        "name": "Ghost of Yōtei",
+        "value": null,
+        "aliases": [
+          "Ghost of Yotei",
+          "Ghost of Tsushima 2"
+        ],
+        "hint": "Un Japon féodal"
+      },
+      {
+        "rank": 10,
+        "name": "Minecraft (Nintendo Switch Edition)",
+        "value": null,
+        "aliases": [
+          "Minecraft",
+          "Minecraft Switch"
+        ],
+        "hint": "Des cubes à l'infini"
+      }
+    ]
+  },
+  {
+    "id": "mangas-plus-vendus-france-2025",
+    "title": "Les mangas les plus vendus en France en 2025",
+    "measure": "Classement des séries manga par ventes en volume en France",
+    "category": "france",
+    "unit": "rang",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "GfK / NielsenIQ BookData via La 5e de Couv' (relayé sur X)",
+      "url": "https://x.com/RoukHein/status/1973110672650088893"
+    },
+    "confidence": "low",
+    "notes": "Classement des séries (tous tomes confondus) sur la période septembre 2024 – août 2025, d'après les données GfK relayées par le podcast La 5e de Couv'. Aucun volume de ventes par série n'a été rendu public pour 2025 : seul l'ordre est connu. Sur l'année civile 2025 (panel Edistat), les tomes les plus vendus sont One Piece T109 (162 162 ex.), One Piece T110 (137 309), Spy x Family T14 (124 790) et One Piece T111 (95 681).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "One Piece",
+        "value": null,
+        "aliases": [
+          "One piece"
+        ],
+        "hint": "Un shōnen des années 1990"
+      },
+      {
+        "rank": 2,
+        "name": "Naruto",
+        "value": null,
+        "aliases": [
+          "Naruto Shippuden"
+        ],
+        "hint": "Un shōnen terminé depuis longtemps"
+      },
+      {
+        "rank": 3,
+        "name": "Blue Lock",
+        "value": null,
+        "aliases": [
+          "Bluelock"
+        ],
+        "hint": "Un manga de sport"
+      },
+      {
+        "rank": 4,
+        "name": "My Hero Academia",
+        "value": null,
+        "aliases": [
+          "MHA",
+          "Boku no Hero Academia"
+        ],
+        "hint": "Une école de super-héros"
+      },
+      {
+        "rank": 5,
+        "name": "Berserk",
+        "value": null,
+        "aliases": [],
+        "hint": "Un seinen de dark fantasy"
+      },
+      {
+        "rank": 6,
+        "name": "Spy × Family",
+        "value": null,
+        "aliases": [
+          "Spy x Family",
+          "Spy Family",
+          "SxF"
+        ],
+        "hint": "Une fausse famille"
+      },
+      {
+        "rank": 7,
+        "name": "Jujutsu Kaisen",
+        "value": null,
+        "aliases": [
+          "JJK"
+        ],
+        "hint": "Des exorcistes modernes"
+      },
+      {
+        "rank": 8,
+        "name": "Demon Slayer",
+        "value": null,
+        "aliases": [
+          "Kimetsu no Yaiba",
+          "Demon Slayer: Kimetsu no Yaiba"
+        ],
+        "hint": "Des chasseurs de démons"
+      },
+      {
+        "rank": 9,
+        "name": "Dandadan",
+        "value": null,
+        "aliases": [
+          "Dan Da Dan"
+        ],
+        "hint": "Des fantômes et des extraterrestres"
+      },
+      {
+        "rank": 10,
+        "name": "Dragon Ball Super",
+        "value": null,
+        "aliases": [
+          "Dragon Ball",
+          "DBS"
+        ],
+        "hint": "La suite d'un classique"
+      }
+    ]
+  },
+  {
+    "id": "chaines-tv-plus-regardees-france-2025",
+    "title": "Les chaînes de télévision les plus regardées en France en 2025",
+    "measure": "Part d'audience annuelle 2025 (individus 4 ans et plus)",
+    "category": "france",
+    "unit": "%",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "Médiamétrie – Médiamat annuel 2025",
+      "url": "https://www.mediametrie.fr/system/files/2025-12/C2%20O%20COM%202025%2012%2029%20CP_M%C3%A9diamat%20Annuel%202025.pdf"
+    },
+    "confidence": "high",
+    "notes": "Part d'audience moyenne du 1er janvier au 28 décembre 2025 sur les individus de 4 ans et plus (Médiamat, publié le 29 décembre 2025). C8 et NRJ 12 ont cessé d'émettre fin février 2025 et ne sont pas classées.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "TF1",
+        "value": 18.7,
+        "aliases": [],
+        "hint": "Une chaîne privée historique"
+      },
+      {
+        "rank": 2,
+        "name": "France 2",
+        "value": 14.9,
+        "aliases": [],
+        "hint": "Une chaîne publique généraliste"
+      },
+      {
+        "rank": 3,
+        "name": "France 3",
+        "value": 9.1,
+        "aliases": [],
+        "hint": "Une chaîne publique régionale"
+      },
+      {
+        "rank": 4,
+        "name": "M6",
+        "value": 7.9,
+        "aliases": [],
+        "hint": "Une chaîne privée généraliste"
+      },
+      {
+        "rank": 5,
+        "name": "France 5",
+        "value": 3.5,
+        "aliases": [],
+        "hint": "Une chaîne publique de documentaires"
+      },
+      {
+        "rank": 6,
+        "name": "CNews",
+        "value": 3.4,
+        "aliases": [
+          "C News",
+          "CNEWS"
+        ],
+        "hint": "Une chaîne d'information privée"
+      },
+      {
+        "rank": 7,
+        "name": "Arte",
+        "value": 3.1,
+        "aliases": [
+          "ARTE"
+        ],
+        "hint": "Une chaîne culturelle franco-allemande"
+      },
+      {
+        "rank": 8,
+        "name": "TMC",
+        "value": 3,
+        "aliases": [],
+        "hint": "Une chaîne du groupe TF1"
+      },
+      {
+        "rank": 9,
+        "name": "BFM TV",
+        "value": 2.8,
+        "aliases": [
+          "BFMTV",
+          "BFM"
+        ],
+        "hint": "Une chaîne d'information en continu"
+      },
+      {
+        "rank": 10,
+        "name": "W9",
+        "value": 2.5,
+        "aliases": [],
+        "hint": "Une chaîne du groupe M6"
+      }
+    ]
+  },
+  {
+    "id": "programmes-tv-plus-regardes-france-2025",
+    "title": "Les programmes les plus regardés à la télévision française en 2025",
+    "measure": "Audience moyenne du programme (téléspectateurs)",
+    "category": "france",
+    "unit": "M de téléspectateurs",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "Médiamétrie (via Puremédias, top 100 des audiences 2025)",
+      "url": "https://www.ozap.com/actu/tournoi-des-six-nations-les-enfoires-hpi-decouvrez-les-100-meilleures-audiences-de-la-television-en-2025/653079"
+    },
+    "confidence": "high",
+    "notes": "Audiences consolidées Médiamétrie sur l'année 2025 (individus 4 ans et plus), bilan publié le 3 janvier 2026. Chaque diffusion compte séparément : la série HPI place trois épisodes et le concert des Enfoirés est compté en deux parties. Les événements diffusés simultanément sur plusieurs chaînes ne sont pas additionnés. Chaque diffusion est comptée séparément par Médiamétrie ; les rediffusions et épisodes supplémentaires d'une même série ont été regroupés, ce qui fait entrer l'allocution de Sébastien Lecornu et France-Galles dans le top 10.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "France-Écosse (Tournoi des Six Nations)",
+        "value": 9.82,
+        "aliases": [
+          "France Écosse",
+          "France Ecosse",
+          "France-Ecosse",
+          "Six Nations France Écosse"
+        ],
+        "hint": "Un match de rugby à domicile"
+      },
+      {
+        "rank": 2,
+        "name": "PSG-Inter Milan (finale de la Ligue des champions)",
+        "value": 8.76,
+        "aliases": [
+          "PSG Inter",
+          "PSG-Inter",
+          "Finale Ligue des champions",
+          "PSG Inter Milan"
+        ],
+        "hint": "Un sommet du football européen"
+      },
+      {
+        "rank": 3,
+        "name": "Les Enfoirés 2025 : Au pays des Enfoirés",
+        "value": 8.38,
+        "aliases": [
+          "Les Enfoirés",
+          "Enfoirés",
+          "Restos du cœur",
+          "Les Restos du cœur 2025"
+        ],
+        "hint": "Un concert caritatif"
+      },
+      {
+        "rank": 4,
+        "name": "Angleterre-France (Tournoi des Six Nations)",
+        "value": 8.11,
+        "aliases": [
+          "Angleterre France",
+          "Angleterre-France",
+          "Le Crunch",
+          "Six Nations Angleterre France"
+        ],
+        "hint": "Un match de rugby à l'étranger"
+      },
+      {
+        "rank": 5,
+        "name": "HPI (saison 5)",
+        "value": 7.78,
+        "aliases": [
+          "HPI",
+          "HPI saison 5",
+          "Haut potentiel intellectuel"
+        ],
+        "hint": "Une série policière française"
+      },
+      {
+        "rank": 6,
+        "name": "Le 20 Heures de TF1 (31 mars)",
+        "value": 7.09,
+        "aliases": [
+          "20 Heures",
+          "JT de TF1",
+          "Le 20H",
+          "20H TF1",
+          "Journal de TF1"
+        ],
+        "hint": "Un journal télévisé"
+      },
+      {
+        "rank": 7,
+        "name": "Finale messieurs de Roland-Garros",
+        "value": 7.06,
+        "aliases": [
+          "Roland-Garros",
+          "Roland Garros",
+          "Finale Roland-Garros",
+          "Alcaraz-Sinner"
+        ],
+        "hint": "Un match de tennis sur terre battue"
+      },
+      {
+        "rank": 8,
+        "name": "Les Enfoirés 2025 (deuxième partie)",
+        "value": 6.9,
+        "aliases": [
+          "Les Enfoirés",
+          "Enfoirés",
+          "Les Enfoirés 2e partie"
+        ],
+        "hint": "La suite d'un concert caritatif"
+      },
+      {
+        "rank": 9,
+        "name": "Allocution de Sébastien Lecornu",
+        "value": 6.86,
+        "aliases": [
+          "Lecornu",
+          "Sébastien Lecornu",
+          "Discours de Lecornu",
+          "Allocution du Premier ministre"
+        ],
+        "hint": "Une prise de parole politique"
+      },
+      {
+        "rank": 10,
+        "name": "France-Galles (Tournoi des Six Nations)",
+        "value": 6.77,
+        "aliases": [
+          "France-Galles",
+          "France Galles",
+          "Galles"
+        ],
+        "hint": "Un match de rugby du printemps"
+      }
+    ]
+  }
+]

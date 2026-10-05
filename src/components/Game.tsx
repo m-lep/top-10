@@ -6,15 +6,21 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { TopItem, TopList } from "@/data/types";
 import { CATEGORY_LABEL } from "@/data/types";
 import { formatValue } from "@/lib/format";
-import { findMatch, hintShape } from "@/lib/match";
+import { findMatch } from "@/lib/match";
 import { saveResult } from "@/lib/storage";
 
-type Feedback = { kind: "wrong" | "dup" | "ok"; text: string; key: number } | null;
+type Feedback = { kind: "wrong" | "dup"; text: string; key: number } | null;
+
+function firstLetter(name: string): string {
+  const m = name.match(/[\p{L}\p{N}]/u);
+  return m ? m[0].toUpperCase() : name[0];
+}
 
 export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) {
   const router = useRouter();
   const [found, setFound] = useState<Map<string, string>>(() => new Map());
-  const [hints, setHints] = useState<Set<string>>(() => new Set());
+  // 0 = rien, 1 = indice vague, 2 = indice + première lettre
+  const [hints, setHints] = useState<Map<string, number>>(() => new Map());
   const [gaveUp, setGaveUp] = useState(false);
   const [wrong, setWrong] = useState(0);
   const [value, setValue] = useState("");
@@ -27,14 +33,16 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
     () => list.items.filter((it) => !found.has(it.name)),
     [list.items, found],
   );
+  const rankOnly = list.items.every((it) => it.value === null);
+  const hintCount = useMemo(() => [...hints.values()].reduce((a, b) => a + b, 0), [hints]);
 
   useEffect(() => {
     if (!done) return;
-    saveResult(list.id, { found: found.size, hints: hints.size, gaveUp, at: Date.now() });
-  }, [done, found.size, hints.size, gaveUp, list.id]);
+    saveResult(list.id, { found: found.size, hints: hintCount, gaveUp, at: Date.now() });
+  }, [done, found.size, hintCount, gaveUp, list.id]);
 
   useEffect(() => {
-    if (!feedback || feedback.kind === "ok") return;
+    if (!feedback) return;
     const t = setTimeout(() => setFeedback(null), 1600);
     return () => clearTimeout(t);
   }, [feedback]);
@@ -64,13 +72,19 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
 
   function hint(it: TopItem) {
     if (done) return;
-    setHints((prev) => new Set(prev).add(it.name));
+    setHints((prev) => {
+      const level = prev.get(it.name) ?? 0;
+      const max = it.hint ? 2 : 1;
+      if (level >= max) return prev;
+      // Sans indice rédigé, le premier niveau donne directement la lettre.
+      return new Map(prev).set(it.name, it.hint ? level + 1 : 2);
+    });
     inputRef.current?.focus();
   }
 
   function replay() {
     setFound(new Map());
-    setHints(new Set());
+    setHints(new Map());
     setGaveUp(false);
     setWrong(0);
     setValue("");
@@ -87,94 +101,104 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
     <main className="flex-1 w-full max-w-2xl mx-auto px-4 sm:px-6 pb-40">
       <header className="pt-6 sm:pt-10">
         <div className="flex items-center justify-between text-[13px]">
-          <Link href="/" className="text-ink-2 hover:text-ink transition-colors">
+          <Link href="/" className="text-muted hover:text-ink transition-colors">
             ← Tous les classements
           </Link>
-          <span className="uppercase tracking-[0.12em] text-[11px] text-muted">
-            {CATEGORY_LABEL[list.category]}
-          </span>
+          <span className="font-medium text-muted">{CATEGORY_LABEL[list.category]}</span>
         </div>
-        <h1 className="serif mt-6 text-[2.25rem] sm:text-[3rem] leading-[1.02]">{list.title}</h1>
+        <h1 className="display mt-6 text-[2rem] sm:text-[2.75rem] leading-[1.05]">{list.title}</h1>
         <p className="mt-3 text-[15px] text-ink-2">
           {list.measure} <span className="text-muted">·</span>{" "}
           <span className="num">{list.year}</span>
         </p>
       </header>
 
-      <div className="mt-8 flex items-baseline justify-between border-b border-ink pb-2">
-        <span className="num text-sm text-muted">
-          {found.size}
-          <span className="opacity-60">/{list.items.length}</span> trouvés
-        </span>
-        <span className="num text-sm text-muted">{list.unit}</span>
-      </div>
+      <section className="mt-6 rounded-2xl border border-line bg-card overflow-hidden">
+        <div className="flex items-baseline justify-between px-4 sm:px-5 py-3 border-b border-line bg-bg/60">
+          <span className="num text-[13px] text-ink-2">
+            <span className="font-semibold text-ink">{found.size}</span>
+            <span className="text-muted">/{list.items.length}</span>
+          </span>
+          <span className="num text-[13px] text-muted">{rankOnly ? "ordre officiel" : list.unit}</span>
+        </div>
 
-      <ol className="divide-y divide-line">
-        {list.items.map((it) => {
-          const isFound = found.has(it.name);
-          const show = isFound || gaveUp;
-          const hinted = hints.has(it.name);
-          return (
-            <li
-              key={it.name}
-              className={`grid grid-cols-[2rem_1fr_auto] items-center gap-3 py-3.5 ${
-                lastFound === it.name ? "flash" : ""
-              }`}
-            >
-              <span className="num text-sm text-muted">{String(it.rank).padStart(2, "0")}</span>
+        <ol className="divide-y divide-line">
+          {list.items.map((it) => {
+            const isFound = found.has(it.name);
+            const show = isFound || gaveUp;
+            const level = hints.get(it.name) ?? 0;
+            const exhausted = level >= (it.hint ? 2 : 1);
+            return (
+              <li
+                key={it.name}
+                className={`grid ${rankOnly ? "grid-cols-[1.75rem_1fr]" : "grid-cols-[1.75rem_1fr_auto]"} items-center gap-3 px-4 sm:px-5 py-3.5 ${
+                  lastFound === it.name ? "flash" : ""
+                }`}
+              >
+                <span className="num text-[13px] text-muted">{String(it.rank).padStart(2, "0")}</span>
 
-              {show ? (
-                <div className="reveal min-w-0">
-                  <span
-                    className={`block truncate text-[17px] ${
-                      isFound ? "text-ink font-medium" : "text-muted"
-                    }`}
-                  >
-                    {found.get(it.name) ?? it.name}
-                  </span>
-                  {(it.note || it.ties?.length) && (
-                    <span className="block truncate text-[12px] text-muted">
-                      {it.note}
-                      {it.note && it.ties?.length ? " · " : ""}
-                      {it.ties?.length
-                        ? `ex æquo : ${[it.name, ...it.ties]
-                            .filter((n) => n !== (found.get(it.name) ?? it.name))
-                            .join(", ")}`
-                        : ""}
+                {show ? (
+                  <div className="reveal min-w-0">
+                    <span
+                      className={`block truncate text-[16px] ${
+                        isFound ? "text-ink font-semibold" : "text-muted"
+                      }`}
+                    >
+                      {found.get(it.name) ?? it.name}
                     </span>
-                  )}
-                </div>
-              ) : (
-                <button
-                  type="button"
-                  onClick={() => hint(it)}
-                  aria-label={hinted ? "Indice affiché" : "Afficher un indice"}
-                  className="group flex items-center gap-3 min-w-0 h-7 text-left"
-                >
-                  {hinted ? (
-                    <span className="num text-[14px] text-ink-2 tracking-wide truncate">
-                      {hintShape(it.name)}
-                    </span>
-                  ) : (
-                    <>
-                      <span className="slot block h-5 flex-1" />
-                      <span className="num text-[11px] text-muted opacity-50 group-hover:opacity-100 group-focus-visible:opacity-100 transition-opacity">
-                        indice
+                    {(it.note || it.ties?.length) && (
+                      <span className="block truncate text-[12px] text-muted">
+                        {it.note}
+                        {it.note && it.ties?.length ? " · " : ""}
+                        {it.ties?.length
+                          ? `ex æquo : ${[it.name, ...it.ties]
+                              .filter((n) => n !== (found.get(it.name) ?? it.name))
+                              .join(", ")}`
+                          : ""}
                       </span>
-                    </>
-                  )}
-                </button>
-              )}
+                    )}
+                  </div>
+                ) : (
+                  <div className="flex items-center gap-3 min-w-0">
+                    <div className="min-w-0 flex-1">
+                      {level === 0 ? (
+                        <span className="slot block w-3/4 max-w-56" />
+                      ) : (
+                        <div className="reveal text-[13px] leading-snug">
+                          {it.hint && <span className="block text-ink-2">{it.hint}</span>}
+                          {level >= 2 && (
+                            <span className="block text-muted">
+                              Commence par{" "}
+                              <span className="num font-semibold text-ink">{firstLetter(it.name)}</span>
+                            </span>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                    {!exhausted && (
+                      <button
+                        type="button"
+                        onClick={() => hint(it)}
+                        className="shrink-0 rounded-full border border-line px-2.5 py-1 text-[11px] font-medium text-muted hover:border-ink-2 hover:text-ink transition-colors"
+                      >
+                        {level === 0 ? "Indice" : "Lettre"}
+                      </button>
+                    )}
+                  </div>
+                )}
 
-              <span className="num text-[15px] sm:text-base text-right whitespace-nowrap">
-                {formatValue(it.value, list.precision)}
-              </span>
-            </li>
-          );
-        })}
-      </ol>
+                {!rankOnly && (
+                  <span className="num text-[15px] font-medium text-right whitespace-nowrap">
+                    {formatValue(it.value, list.precision)}
+                  </span>
+                )}
+              </li>
+            );
+          })}
+        </ol>
+      </section>
 
-      <section className="mt-8 text-[13px] text-muted leading-relaxed">
+      <section className="mt-5 px-1 text-[13px] text-muted leading-relaxed">
         <p>
           Source :{" "}
           {list.source.url ? (
@@ -200,31 +224,31 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
       </section>
 
       {/* Barre de saisie / résultat */}
-      <div className="fixed inset-x-0 bottom-0 z-20 bg-paper/95 backdrop-blur-sm border-t border-line">
+      <div className="fixed inset-x-0 bottom-0 z-20 bg-card/95 backdrop-blur border-t border-line">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
           {done ? (
             <div className="flex flex-wrap items-center justify-between gap-3">
               <div>
-                <div className="serif text-[1.75rem] leading-none">
+                <div className="display text-[1.75rem]">
                   {found.size}
-                  <span className="text-muted"> / {list.items.length}</span>
+                  <span className="text-muted font-medium"> / {list.items.length}</span>
                 </div>
                 <div className="mt-1 num text-[12px] text-muted">
-                  {hints.size} indice{hints.size > 1 ? "s" : ""} · {wrong} erreur{wrong > 1 ? "s" : ""}
+                  {hintCount} indice{hintCount > 1 ? "s" : ""} · {wrong} erreur{wrong > 1 ? "s" : ""}
                 </div>
               </div>
               <div className="flex gap-2">
                 <button
                   type="button"
                   onClick={replay}
-                  className="rounded-full border border-line-2 px-4 py-2 text-[14px] text-ink-2 hover:border-ink transition-colors"
+                  className="rounded-full border border-line-2 px-4 py-2.5 text-[14px] font-medium text-ink-2 hover:border-ink transition-colors"
                 >
                   Rejouer
                 </button>
                 <button
                   type="button"
                   onClick={next}
-                  className="rounded-full bg-ink text-paper px-4 py-2 text-[14px] font-medium hover:bg-ink-2 transition-colors"
+                  className="rounded-full bg-ink text-white px-4 py-2.5 text-[14px] font-medium hover:bg-ink-2 transition-colors"
                 >
                   Un autre →
                 </button>
@@ -247,15 +271,15 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
                   spellCheck={false}
                   enterKeyHint="send"
                   aria-label="Votre réponse"
-                  className={`w-full rounded-full border bg-paper px-5 py-3 text-[16px] outline-none transition-colors focus:border-ink ${
-                    feedback?.kind === "wrong" ? "border-accent" : "border-line-2"
+                  className={`w-full rounded-full border bg-bg px-5 py-3 text-[16px] outline-none transition-colors focus:border-ink focus:bg-card ${
+                    feedback?.kind === "wrong" ? "border-bad" : "border-line"
                   }`}
                 />
                 {feedback && (
                   <span
                     role="status"
-                    className={`pointer-events-none absolute -top-7 left-4 text-[12px] ${
-                      feedback.kind === "wrong" ? "text-accent-ink" : "text-muted"
+                    className={`pointer-events-none absolute -top-7 left-4 text-[12px] font-medium ${
+                      feedback.kind === "wrong" ? "text-bad" : "text-muted"
                     }`}
                   >
                     {feedback.text}
@@ -265,14 +289,14 @@ export function Game({ list, otherIds }: { list: TopList; otherIds: string[] }) 
               <button
                 type="submit"
                 aria-label="Valider"
-                className="num shrink-0 size-12 rounded-full bg-ink text-paper text-lg hover:bg-ink-2 transition-colors"
+                className="shrink-0 size-12 rounded-full bg-ink text-white text-lg hover:bg-ink-2 transition-colors"
               >
                 ↵
               </button>
               <button
                 type="button"
                 onClick={() => setGaveUp(true)}
-                className="shrink-0 text-[13px] text-muted hover:text-ink transition-colors px-1"
+                className="shrink-0 text-[13px] font-medium text-muted hover:text-ink transition-colors px-1"
               >
                 Révéler
               </button>

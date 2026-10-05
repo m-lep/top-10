@@ -1,0 +1,896 @@
+[
+  {
+    "id": "regions-les-plus-peuplees-de-france",
+    "title": "Les régions les plus peuplées de France",
+    "measure": "Population municipale (métropole + outre-mer)",
+    "category": "france",
+    "unit": "M d'habitants",
+    "precision": 2,
+    "year": "2023",
+    "source": {
+      "name": "INSEE, populations légales millésimées 2023 (en vigueur au 1er janvier 2026)",
+      "url": "https://www.insee.fr/fr/statistiques/8680653?sommaire=8681011"
+    },
+    "confidence": "high",
+    "notes": "Populations municipales au 1er janvier 2023, authentifiées par le décret n° 2025-1362 et en vigueur depuis le 1er janvier 2026. Les régions d'outre-mer sont incluses mais aucune n'entre dans le top 10 (La Réunion, la plus peuplée, compte 0,89 M d'habitants) ; Mayotte n'a pas encore de population légale 2023. Bourgogne-Franche-Comté (2,80 M) et Centre-Val de Loire (2,59 M) sont juste derrière le top 10.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Île-de-France",
+        "value": 12.46,
+        "aliases": [
+          "IDF",
+          "Ile de France",
+          "Ile-de-France",
+          "Région parisienne"
+        ],
+        "hint": "La région de la capitale"
+      },
+      {
+        "rank": 2,
+        "name": "Auvergne-Rhône-Alpes",
+        "value": 8.21,
+        "aliases": [
+          "AURA",
+          "Auvergne Rhône Alpes",
+          "Auvergne-Rhone-Alpes"
+        ],
+        "hint": "Une région de montagnes et de volcans"
+      },
+      {
+        "rank": 3,
+        "name": "Nouvelle-Aquitaine",
+        "value": 6.15,
+        "aliases": [
+          "Nouvelle Aquitaine",
+          "Aquitaine"
+        ],
+        "hint": "Une région de l'Ouest avec des vignobles"
+      },
+      {
+        "rank": 4,
+        "name": "Occitanie",
+        "value": 6.12,
+        "aliases": [
+          "Languedoc-Roussillon-Midi-Pyrénées",
+          "Occitania"
+        ],
+        "hint": "Une région du Sud sans la Côte d'Azur"
+      },
+      {
+        "rank": 5,
+        "name": "Hauts-de-France",
+        "value": 5.99,
+        "aliases": [
+          "HDF",
+          "Hauts de France",
+          "Nord-Pas-de-Calais-Picardie"
+        ],
+        "hint": "Une région frontalière du Nord"
+      },
+      {
+        "rank": 6,
+        "name": "Grand Est",
+        "value": 5.56,
+        "aliases": [
+          "Grand-Est",
+          "Alsace-Champagne-Ardenne-Lorraine",
+          "ACAL"
+        ],
+        "hint": "Une région frontalière tournée vers le Rhin"
+      },
+      {
+        "rank": 7,
+        "name": "Provence-Alpes-Côte d'Azur",
+        "value": 5.22,
+        "aliases": [
+          "PACA",
+          "Provence Alpes Côte d'Azur",
+          "Provence-Alpes-Cote d'Azur",
+          "Sud",
+          "Région Sud"
+        ],
+        "hint": "Une région méditerranéenne très ensoleillée"
+      },
+      {
+        "rank": 8,
+        "name": "Pays de la Loire",
+        "value": 3.91,
+        "aliases": [
+          "Pays-de-la-Loire",
+          "PDL"
+        ],
+        "hint": "Une région de l'Ouest traversée par un fleuve"
+      },
+      {
+        "rank": 9,
+        "name": "Bretagne",
+        "value": 3.45,
+        "aliases": [
+          "Breizh"
+        ],
+        "hint": "Une péninsule de l'Ouest"
+      },
+      {
+        "rank": 10,
+        "name": "Normandie",
+        "value": 3.35,
+        "aliases": [
+          "Basse-Normandie",
+          "Haute-Normandie"
+        ],
+        "hint": "Une région qui borde la Manche"
+      }
+    ]
+  },
+  {
+    "id": "pays-les-plus-peuples-union-europeenne",
+    "title": "Les pays les plus peuplés de l'Union européenne",
+    "measure": "Population au 1er janvier 2026",
+    "category": "monde",
+    "unit": "M d'habitants",
+    "precision": 1,
+    "year": "2026",
+    "source": {
+      "name": "Eurostat, demo_gind (population au 1er janvier 2026, données provisoires, mise à jour du 30 septembre 2026)",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260710-3"
+    },
+    "confidence": "high",
+    "notes": "Chiffres Eurostat au 1er janvier 2026, encore provisoires. L'UE compte 452,0 M d'habitants. La France inclut ses départements d'outre-mer. Suivent la Suède (10,6 M) et la Grèce (10,4 M), juste derrière la Tchéquie.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Allemagne",
+        "value": 83.5,
+        "aliases": [
+          "Germany",
+          "Deutschland",
+          "RFA"
+        ],
+        "hint": "Un pays frontalier de la France"
+      },
+      {
+        "rank": 2,
+        "name": "France",
+        "value": 69.1,
+        "aliases": [
+          "République française"
+        ],
+        "hint": "Le pays où vous jouez"
+      },
+      {
+        "rank": 3,
+        "name": "Italie",
+        "value": 58.9,
+        "aliases": [
+          "Italy",
+          "Italia"
+        ],
+        "hint": "Un pays méditerranéen en forme de botte"
+      },
+      {
+        "rank": 4,
+        "name": "Espagne",
+        "value": 49.6,
+        "aliases": [
+          "Spain",
+          "España"
+        ],
+        "hint": "Un pays de la péninsule Ibérique"
+      },
+      {
+        "rank": 5,
+        "name": "Pologne",
+        "value": 36.3,
+        "aliases": [
+          "Poland",
+          "Polska"
+        ],
+        "hint": "Un pays d'Europe de l'Est"
+      },
+      {
+        "rank": 6,
+        "name": "Roumanie",
+        "value": 19.0,
+        "aliases": [
+          "Romania",
+          "România"
+        ],
+        "hint": "Un pays des Carpates"
+      },
+      {
+        "rank": 7,
+        "name": "Pays-Bas",
+        "value": 18.1,
+        "aliases": [
+          "Pays Bas",
+          "Hollande",
+          "Netherlands",
+          "Nederland"
+        ],
+        "hint": "Un État plat du Nord"
+      },
+      {
+        "rank": 8,
+        "name": "Belgique",
+        "value": 12.0,
+        "aliases": [
+          "Belgium",
+          "België",
+          "Belgie"
+        ],
+        "hint": "Un petit voisin francophone"
+      },
+      {
+        "rank": 9,
+        "name": "Portugal",
+        "value": 11.4,
+        "aliases": [],
+        "hint": "Un pays à la pointe ouest de l'Europe"
+      },
+      {
+        "rank": 10,
+        "name": "Tchéquie",
+        "value": 10.9,
+        "aliases": [
+          "République tchèque",
+          "Republique tcheque",
+          "Czechia",
+          "Czech Republic",
+          "Tchequie"
+        ],
+        "hint": "Un pays d'Europe centrale sans accès à la mer"
+      }
+    ]
+  },
+  {
+    "id": "prenoms-garcons-les-plus-donnes-2004",
+    "title": "Les prénoms de garçon les plus donnés en France en 2004",
+    "measure": "Nombre de naissances de garçons portant ce prénom",
+    "category": "france",
+    "unit": "naissances",
+    "precision": 0,
+    "year": "2004",
+    "source": {
+      "name": "INSEE, Fichier des prénoms (édition 2025, mise à jour du 16 juillet 2026), fichier national",
+      "url": "https://www.insee.fr/fr/statistiques/8595130"
+    },
+    "confidence": "high",
+    "notes": "Naissances en France (métropole + DOM) en 2004. Depuis l'édition 2025 du fichier, l'INSEE arrondit les effectifs au multiple de 5 le plus proche, d'où des chiffres qui finissent par 0 ou 5. Derrière le top 10 : Romain (4 290), Alexis (4 255) et Léo (4 165).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Enzo",
+        "value": 7950,
+        "aliases": [],
+        "hint": "Un prénom à consonance italienne"
+      },
+      {
+        "rank": 2,
+        "name": "Lucas",
+        "value": 6815,
+        "aliases": [],
+        "hint": "Un prénom d'évangéliste"
+      },
+      {
+        "rank": 3,
+        "name": "Théo",
+        "value": 6485,
+        "aliases": [
+          "Theo"
+        ],
+        "hint": "Un prénom court d'origine grecque"
+      },
+      {
+        "rank": 4,
+        "name": "Thomas",
+        "value": 6455,
+        "aliases": [],
+        "hint": "Un prénom d'apôtre"
+      },
+      {
+        "rank": 5,
+        "name": "Hugo",
+        "value": 6145,
+        "aliases": [],
+        "hint": "Un prénom d'écrivain célèbre"
+      },
+      {
+        "rank": 6,
+        "name": "Mathis",
+        "value": 5705,
+        "aliases": [
+          "Matis",
+          "Mattis"
+        ],
+        "hint": "Un prénom à plusieurs orthographes"
+      },
+      {
+        "rank": 7,
+        "name": "Nathan",
+        "value": 5030,
+        "aliases": [],
+        "hint": "Un prénom d'origine biblique"
+      },
+      {
+        "rank": 8,
+        "name": "Maxime",
+        "value": 4755,
+        "aliases": [],
+        "hint": "Un prénom d'origine latine"
+      },
+      {
+        "rank": 9,
+        "name": "Clément",
+        "value": 4350,
+        "aliases": [
+          "Clement"
+        ],
+        "hint": "Un prénom qui est aussi un adjectif"
+      },
+      {
+        "rank": 10,
+        "name": "Louis",
+        "value": 4305,
+        "aliases": [],
+        "hint": "Un prénom de roi de France"
+      }
+    ]
+  },
+  {
+    "id": "prenoms-filles-les-plus-donnes-2004",
+    "title": "Les prénoms de fille les plus donnés en France en 2004",
+    "measure": "Nombre de naissances de filles portant ce prénom",
+    "category": "france",
+    "unit": "naissances",
+    "precision": 0,
+    "year": "2004",
+    "source": {
+      "name": "INSEE, Fichier des prénoms (édition 2025, mise à jour du 16 juillet 2026), fichier national",
+      "url": "https://www.insee.fr/fr/statistiques/8595130"
+    },
+    "confidence": "high",
+    "notes": "Naissances en France (métropole + DOM) en 2004. Depuis l'édition 2025 du fichier, l'INSEE arrondit les effectifs au multiple de 5 le plus proche. Derrière le top 10 : Jade (3 660), Anaïs (3 450) et Lucie (3 445).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Léa",
+        "value": 7375,
+        "aliases": [
+          "Lea"
+        ],
+        "hint": "Un prénom très court d'origine biblique"
+      },
+      {
+        "rank": 2,
+        "name": "Emma",
+        "value": 6620,
+        "aliases": [],
+        "hint": "Un prénom d'héroïne de roman"
+      },
+      {
+        "rank": 3,
+        "name": "Manon",
+        "value": 6260,
+        "aliases": [],
+        "hint": "Un prénom du Sud rendu célèbre par Pagnol"
+      },
+      {
+        "rank": 4,
+        "name": "Chloé",
+        "value": 5425,
+        "aliases": [
+          "Chloe"
+        ],
+        "hint": "Un prénom d'origine grecque"
+      },
+      {
+        "rank": 5,
+        "name": "Clara",
+        "value": 5355,
+        "aliases": [],
+        "hint": "Un prénom qui évoque la lumière"
+      },
+      {
+        "rank": 6,
+        "name": "Camille",
+        "value": 5280,
+        "aliases": [],
+        "hint": "Un prénom mixte"
+      },
+      {
+        "rank": 7,
+        "name": "Inès",
+        "value": 4660,
+        "aliases": [
+          "Ines",
+          "Inés"
+        ],
+        "hint": "Un prénom d'origine ibérique"
+      },
+      {
+        "rank": 8,
+        "name": "Sarah",
+        "value": 4505,
+        "aliases": [
+          "Sara"
+        ],
+        "hint": "Un prénom d'origine biblique"
+      },
+      {
+        "rank": 9,
+        "name": "Océane",
+        "value": 4450,
+        "aliases": [
+          "Oceane"
+        ],
+        "hint": "Un prénom qui évoque la mer"
+      },
+      {
+        "rank": 10,
+        "name": "Marie",
+        "value": 4150,
+        "aliases": [],
+        "hint": "Un prénom classique très ancien"
+      }
+    ]
+  },
+  {
+    "id": "chaines-fast-food-plus-de-restaurants-france",
+    "title": "Les chaînes de restauration rapide qui ont le plus de restaurants en France",
+    "measure": "Nombre de points de vente en France",
+    "category": "france",
+    "unit": "restaurants",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "Communiqués des enseignes et annuaires de la franchise (FFF, Observatoire de la franchise, presse spécialisée), chiffres 2025 sauf mention",
+      "url": "https://annuaire.franchise-fff.com/adherents/otacos/"
+    },
+    "confidence": "medium",
+    "notes": "Les boulangeries-sandwicheries (Marie Blachère, Paul, Brioche Dorée, La Mie Câline, Pomme de Pain) et les coffee shops (Starbucks, Columbus Café) ne sont pas comptés : seules les enseignes de restauration rapide (burgers, poulet, pizzas, sandwichs, tacos, thaï) sont retenues, vente à emporter et livraison comprises. Chiffres : McDonald's 1 593 (2025), Burger King 600e restaurant ouvert en novembre 2025, Le Kiosque à Pizzas 550 kiosques (bilan 2025), Domino's 464 (décembre 2024), KFC 400e restaurant en décembre 2025, Subway environ 360 (2025, estimation), O'Tacos 313 (fin 2025), Quick 186 (2025), La Boîte à Pizza 122, Pitaya 118 (2025). Les réseaux bougent chaque mois : un écart de quelques dizaines de restaurants n'est pas significatif. Pizza Hut (environ 110) et Sushi Shop (nombre de restaurants en France incertain) sont juste derrière.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "McDonald's",
+        "value": 1593,
+        "aliases": [
+          "McDonalds",
+          "McDo",
+          "Mac Do",
+          "Macdo",
+          "Mcdonald"
+        ],
+        "hint": "Une chaîne de burgers américaine"
+      },
+      {
+        "rank": 2,
+        "name": "Burger King",
+        "value": 600,
+        "aliases": [
+          "BK"
+        ],
+        "hint": "Une chaîne américaine revenue en France"
+      },
+      {
+        "rank": 3,
+        "name": "Le Kiosque à Pizzas",
+        "value": 550,
+        "aliases": [
+          "Kiosque à Pizzas",
+          "Kiosque a Pizzas",
+          "Le Kiosque a Pizza",
+          "Kiosque à Pizza"
+        ],
+        "hint": "Une enseigne française de vente à emporter"
+      },
+      {
+        "rank": 4,
+        "name": "Domino's Pizza",
+        "value": 464,
+        "aliases": [
+          "Dominos",
+          "Domino's",
+          "Domino"
+        ],
+        "hint": "Une chaîne américaine de livraison"
+      },
+      {
+        "rank": 5,
+        "name": "KFC",
+        "value": 400,
+        "aliases": [
+          "Kentucky Fried Chicken"
+        ],
+        "hint": "Une chaîne de poulet frit"
+      },
+      {
+        "rank": 6,
+        "name": "Subway",
+        "value": 360,
+        "aliases": [],
+        "hint": "Une chaîne de sandwichs à composer"
+      },
+      {
+        "rank": 7,
+        "name": "O'Tacos",
+        "value": 313,
+        "aliases": [
+          "O Tacos",
+          "OTacos"
+        ],
+        "hint": "Une enseigne née à Grenoble"
+      },
+      {
+        "rank": 8,
+        "name": "Quick",
+        "value": 186,
+        "aliases": [],
+        "hint": "Une chaîne de burgers d'origine belge"
+      },
+      {
+        "rank": 9,
+        "name": "La Boîte à Pizza",
+        "value": 122,
+        "aliases": [
+          "La Boite a Pizza",
+          "Boîte à Pizza",
+          "Boite a Pizza"
+        ],
+        "hint": "Une enseigne française de livraison"
+      },
+      {
+        "rank": 10,
+        "name": "Pitaya",
+        "value": 118,
+        "aliases": [
+          "Pitaya Thaï Street Food"
+        ],
+        "hint": "Une chaîne de street food asiatique"
+      }
+    ]
+  },
+  {
+    "id": "sites-et-monuments-les-plus-visites-de-france",
+    "title": "Les sites et monuments les plus visités de France",
+    "measure": "Fréquentation annuelle",
+    "category": "france",
+    "unit": "M de visiteurs",
+    "precision": 2,
+    "year": "2025",
+    "source": {
+      "name": "Bilans de fréquentation 2025 publiés par chaque site (dossier Club Innovation & Culture, 20 février 2026) ; Disneyland Paris : TEA Global Experience Index 2024",
+      "url": "https://www.club-innovation-culture.fr/dossier-lieux-patrimoine-francais-frequentation-2025/"
+    },
+    "confidence": "medium",
+    "notes": "Chiffres 2025 annoncés par chaque site, sauf Disneyland Paris (les deux parcs, 10,21 + 5,60 M, chiffre 2024 du rapport TEA, le bilan 2025 n'étant pas encore publié). Notre-Dame : estimation du diocèse (plus de 11 M de visiteurs sur la première année après la réouverture), sans billetterie. Le Louvre inclut le musée Delacroix ; Orsay est compté seul, sans l'Orangerie (4,92 M à deux) ; le Mont-Saint-Michel est le nombre de visiteurs du site, l'abbaye seule en reçoit 1,63 M ; le Futuroscope inclut son parc aquatique Aquascope (0,57 M). Le Sacré-Cœur (environ 11 M estimés, sans comptage) et le Centre Pompidou (fermé pour travaux depuis septembre 2025) ne sont pas classés.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Disneyland Paris",
+        "value": 15.81,
+        "aliases": [
+          "Disneyland",
+          "Disney",
+          "Eurodisney",
+          "Euro Disney",
+          "Parc Disneyland"
+        ],
+        "hint": "Un parc d'attractions en Île-de-France"
+      },
+      {
+        "rank": 2,
+        "name": "Notre-Dame de Paris",
+        "value": 11.0,
+        "aliases": [
+          "Notre-Dame",
+          "Notre Dame",
+          "Cathédrale Notre-Dame",
+          "Notre Dame de Paris"
+        ],
+        "hint": "Un édifice religieux récemment restauré"
+      },
+      {
+        "rank": 3,
+        "name": "Musée du Louvre",
+        "value": 9.0,
+        "aliases": [
+          "Le Louvre",
+          "Louvre"
+        ],
+        "hint": "Une immense collection d'art à Paris"
+      },
+      {
+        "rank": 4,
+        "name": "Château de Versailles",
+        "value": 8.4,
+        "aliases": [
+          "Versailles"
+        ],
+        "hint": "Une résidence royale près de Paris"
+      },
+      {
+        "rank": 5,
+        "name": "Tour Eiffel",
+        "value": 6.75,
+        "aliases": [
+          "La tour Eiffel",
+          "Eiffel"
+        ],
+        "hint": "Un monument en fer"
+      },
+      {
+        "rank": 6,
+        "name": "Musée d'Orsay",
+        "value": 3.79,
+        "aliases": [
+          "Orsay"
+        ],
+        "hint": "Une ancienne gare devenue lieu d'art"
+      },
+      {
+        "rank": 7,
+        "name": "Puy du Fou",
+        "value": 3.0,
+        "aliases": [
+          "Le Puy du Fou"
+        ],
+        "hint": "Un parc de spectacles en Vendée"
+      },
+      {
+        "rank": 8,
+        "name": "Parc Astérix",
+        "value": 2.9,
+        "aliases": [
+          "Parc Asterix",
+          "Astérix",
+          "Asterix"
+        ],
+        "hint": "Des manèges inspirés d'une bande dessinée"
+      },
+      {
+        "rank": 9,
+        "name": "Mont-Saint-Michel",
+        "value": 2.79,
+        "aliases": [
+          "Mont Saint-Michel",
+          "Mont Saint Michel",
+          "Le Mont-Saint-Michel",
+          "Abbaye du Mont-Saint-Michel"
+        ],
+        "hint": "Un rocher entouré par la marée"
+      },
+      {
+        "rank": 10,
+        "name": "Futuroscope",
+        "value": 2.6,
+        "aliases": [
+          "Le Futuroscope"
+        ],
+        "hint": "Un parc à thème près de Poitiers"
+      }
+    ]
+  },
+  {
+    "id": "villes-les-plus-visitees-au-monde",
+    "title": "Les villes les plus visitées au monde",
+    "measure": "Arrivées de touristes internationaux en 2025",
+    "category": "monde",
+    "unit": "M de visiteurs",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "Euromonitor International, Top 100 City Destinations Index 2025 (publié le 2 décembre 2025)",
+      "url": "https://www.euromonitor.com/newsroom/press-releases/december-2025/euromonitor-international-unveils-worlds-top-100-city-destinations-for-2025"
+    },
+    "confidence": "high",
+    "notes": "Nombre d'arrivées de visiteurs internationaux (hors touristes nationaux) estimé par Euromonitor pour l'année 2025. Attention : le classement général de l'index Euromonitor, qui tient compte de l'attractivité globale, place Paris en tête ; ici seules les arrivées comptent. Antalya devance Paris grâce aux stations balnéaires de la Riviera turque.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Bangkok",
+        "value": 30.3,
+        "aliases": [
+          "Krung Thep"
+        ],
+        "hint": "Une capitale d'Asie du Sud-Est"
+      },
+      {
+        "rank": 2,
+        "name": "Hong Kong",
+        "value": 23.2,
+        "aliases": [
+          "Hongkong"
+        ],
+        "hint": "Une ville portuaire d'Asie de l'Est"
+      },
+      {
+        "rank": 3,
+        "name": "Londres",
+        "value": 22.7,
+        "aliases": [
+          "London"
+        ],
+        "hint": "Une capitale d'Europe du Nord-Ouest"
+      },
+      {
+        "rank": 4,
+        "name": "Macao",
+        "value": 20.4,
+        "aliases": [
+          "Macau"
+        ],
+        "hint": "Une ville de casinos en Asie"
+      },
+      {
+        "rank": 5,
+        "name": "Istanbul",
+        "value": 19.7,
+        "aliases": [
+          "Istambul",
+          "Constantinople"
+        ],
+        "hint": "Une ville à cheval sur deux continents"
+      },
+      {
+        "rank": 6,
+        "name": "Dubaï",
+        "value": 19.5,
+        "aliases": [
+          "Dubai",
+          "Dubay"
+        ],
+        "hint": "Une ville du Golfe aux gratte-ciel"
+      },
+      {
+        "rank": 7,
+        "name": "La Mecque",
+        "value": 18.7,
+        "aliases": [
+          "Mecque",
+          "Makkah",
+          "Mecca",
+          "Mekka"
+        ],
+        "hint": "Une ville de pèlerinage"
+      },
+      {
+        "rank": 8,
+        "name": "Antalya",
+        "value": 18.6,
+        "aliases": [
+          "Antalia"
+        ],
+        "hint": "Une station balnéaire méditerranéenne"
+      },
+      {
+        "rank": 9,
+        "name": "Paris",
+        "value": 18.3,
+        "aliases": [],
+        "hint": "Une capitale européenne romantique"
+      },
+      {
+        "rank": 10,
+        "name": "Kuala Lumpur",
+        "value": 17.3,
+        "aliases": [
+          "KL"
+        ],
+        "hint": "Une capitale d'Asie avec des tours jumelles"
+      }
+    ]
+  },
+  {
+    "id": "pays-producteurs-de-vin",
+    "title": "Les plus grands pays producteurs de vin",
+    "measure": "Production de vin en 2025 (hors jus et moûts)",
+    "category": "monde",
+    "unit": "M d'hectolitres",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "OIV, État du secteur vitivinicole mondial en 2025 (mai 2026), tableau 2",
+      "url": "https://www.oiv.int/sites/default/files/2026-05/OIV-State_of_the_World_Wine_Sector_in_2025.pdf"
+    },
+    "confidence": "high",
+    "notes": "Chiffres préliminaires de l'OIV publiés en mai 2026 pour la récolte 2025, qui révisent les premières estimations de novembre 2025 (Italie 47,3, France 35,9, Espagne 29,4). La production mondiale 2025 est estimée à 227 M d'hectolitres, proche du plus bas historique de 2024. Derrière le top 10 : Russie (5,7), Nouvelle-Zélande (3,7), Roumanie (3,3).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Italie",
+        "value": 44.4,
+        "aliases": [
+          "Italy",
+          "Italia"
+        ],
+        "hint": "Un pays méditerranéen en forme de botte"
+      },
+      {
+        "rank": 2,
+        "name": "France",
+        "value": 36.1,
+        "aliases": [],
+        "hint": "Le pays où vous jouez"
+      },
+      {
+        "rank": 3,
+        "name": "Espagne",
+        "value": 28.7,
+        "aliases": [
+          "Spain",
+          "España"
+        ],
+        "hint": "Un pays de la péninsule Ibérique"
+      },
+      {
+        "rank": 4,
+        "name": "États-Unis",
+        "value": 20.0,
+        "aliases": [
+          "Etats-Unis",
+          "Etats Unis",
+          "USA",
+          "US",
+          "Amérique",
+          "United States"
+        ],
+        "hint": "Un pays d'Amérique du Nord"
+      },
+      {
+        "rank": 5,
+        "name": "Australie",
+        "value": 11.3,
+        "aliases": [
+          "Australia"
+        ],
+        "hint": "Un pays-continent de l'hémisphère Sud"
+      },
+      {
+        "rank": 6,
+        "name": "Argentine",
+        "value": 10.8,
+        "aliases": [
+          "Argentina"
+        ],
+        "hint": "Un pays d'Amérique du Sud"
+      },
+      {
+        "rank": 7,
+        "name": "Afrique du Sud",
+        "value": 10.2,
+        "aliases": [
+          "South Africa",
+          "RSA"
+        ],
+        "hint": "Un pays à la pointe d'un continent"
+      },
+      {
+        "rank": 8,
+        "name": "Chili",
+        "value": 8.4,
+        "aliases": [
+          "Chile"
+        ],
+        "hint": "Un pays long et étroit"
+      },
+      {
+        "rank": 9,
+        "name": "Allemagne",
+        "value": 7.6,
+        "aliases": [
+          "Germany",
+          "Deutschland"
+        ],
+        "hint": "Un pays frontalier de la France"
+      },
+      {
+        "rank": 10,
+        "name": "Portugal",
+        "value": 6.0,
+        "aliases": [],
+        "hint": "Un pays à la pointe ouest de l'Europe"
+      }
+    ]
+  }
+]

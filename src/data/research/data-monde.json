@@ -20,7 +20,8 @@
         "value": 102,
         "aliases": [
           "République française"
-        ]
+        ],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 2,
@@ -29,7 +30,8 @@
         "aliases": [
           "Spain",
           "España"
-        ]
+        ],
+        "hint": "Un pays du sud-ouest de l'Europe"
       },
       {
         "rank": 3,
@@ -42,7 +44,8 @@
           "United States",
           "Amérique",
           "États-Unis d'Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 4,
@@ -51,7 +54,8 @@
         "aliases": [
           "Türkiye",
           "Turkey"
-        ]
+        ],
+        "hint": "Un pays entre Méditerranée et mer Noire"
       },
       {
         "rank": 5,
@@ -60,7 +64,8 @@
         "aliases": [
           "Italy",
           "Italia"
-        ]
+        ],
+        "hint": "Un pays méditerranéen d'Europe"
       },
       {
         "rank": 6,
@@ -69,7 +74,8 @@
         "aliases": [
           "Mexico",
           "México"
-        ]
+        ],
+        "hint": "Un pays d'Amérique latine"
       },
       {
         "rank": 7,
@@ -82,7 +88,8 @@
           "United Kingdom",
           "Great Britain",
           "GB"
-        ]
+        ],
+        "hint": "Un État insulaire d'Europe"
       },
       {
         "rank": 8,
@@ -92,7 +99,8 @@
           "Germany",
           "Deutschland",
           "RFA"
-        ]
+        ],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 9,
@@ -101,7 +109,8 @@
         "aliases": [
           "Japan",
           "Nippon"
-        ]
+        ],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 10,
@@ -110,7 +119,8 @@
         "aliases": [
           "Greece",
           "Hellas"
-        ]
+        ],
+        "hint": "Un pays des Balkans"
       }
     ]
   },
@@ -136,7 +146,8 @@
         "aliases": [
           "Djakarta",
           "Jabodetabek"
-        ]
+        ],
+        "hint": "Une capitale d'Asie du Sud-Est"
       },
       {
         "rank": 2,
@@ -144,7 +155,8 @@
         "value": 36.6,
         "aliases": [
           "Dhaka"
-        ]
+        ],
+        "hint": "Une capitale d'Asie du Sud"
       },
       {
         "rank": 3,
@@ -153,7 +165,8 @@
         "aliases": [
           "Tōkyō",
           "Tokio"
-        ]
+        ],
+        "hint": "Une capitale insulaire d'Asie de l'Est"
       },
       {
         "rank": 4,
@@ -162,7 +175,8 @@
         "aliases": [
           "Delhi",
           "Nouvelle-Delhi"
-        ]
+        ],
+        "hint": "Une capitale du sous-continent indien"
       },
       {
         "rank": 5,
@@ -171,7 +185,8 @@
         "aliases": [
           "Shanghaï",
           "Changhai"
-        ]
+        ],
+        "hint": "Une métropole portuaire d'Asie de l'Est"
       },
       {
         "rank": 6,
@@ -180,7 +195,8 @@
         "aliases": [
           "Guangzhou",
           "Kanton"
-        ]
+        ],
+        "hint": "Une métropole d'Asie de l'Est"
       },
       {
         "rank": 7,
@@ -190,7 +206,8 @@
           "Caire",
           "Cairo",
           "Al-Qahirah"
-        ]
+        ],
+        "hint": "Une capitale d'Afrique du Nord"
       },
       {
         "rank": 8,
@@ -199,7 +216,8 @@
         "aliases": [
           "Manila",
           "Metro Manila"
-        ]
+        ],
+        "hint": "Une capitale insulaire d'Asie du Sud-Est"
       },
       {
         "rank": 9,
@@ -207,7 +225,8 @@
         "value": 22.5,
         "aliases": [
           "Kolkata"
-        ]
+        ],
+        "hint": "Une métropole d'Asie du Sud"
       },
       {
         "rank": 9,
@@ -215,7 +234,8 @@
         "value": 22.5,
         "aliases": [
           "Seoul"
-        ]
+        ],
+        "hint": "Une capitale d'Asie de l'Est"
       }
     ]
   },
@@ -240,7 +260,8 @@
         "value": 1493,
         "aliases": [
           "English"
-        ]
+        ],
+        "hint": "Une langue germanique"
       },
       {
         "rank": 2,
@@ -252,7 +273,8 @@
           "Mandarin Chinese",
           "Chinese",
           "Putonghua"
-        ]
+        ],
+        "hint": "Une langue d'Asie de l'Est"
       },
       {
         "rank": 3,
@@ -260,7 +282,8 @@
         "value": 611,
         "aliases": [
           "Hindî"
-        ]
+        ],
+        "hint": "Une langue d'Asie du Sud"
       },
       {
         "rank": 4,
@@ -270,7 +293,8 @@
           "Castillan",
           "Spanish",
           "Español"
-        ]
+        ],
+        "hint": "Une langue romane parlée sur deux continents"
       },
       {
         "rank": 5,
@@ -282,7 +306,8 @@
           "Arabe littéraire",
           "Arabic",
           "Modern Standard Arabic"
-        ]
+        ],
+        "hint": "Une langue sémitique"
       },
       {
         "rank": 6,
@@ -290,7 +315,8 @@
         "value": 334,
         "aliases": [
           "French"
-        ]
+        ],
+        "hint": "Une langue romane parlée aussi en Afrique"
       },
       {
         "rank": 7,
@@ -299,7 +325,8 @@
         "aliases": [
           "Bangla",
           "Bengalî"
-        ]
+        ],
+        "hint": "Une langue de l'est du sous-continent indien"
       },
       {
         "rank": 8,
@@ -308,7 +335,8 @@
         "aliases": [
           "Portuguese",
           "Português"
-        ]
+        ],
+        "hint": "Une langue romane parlée en Amérique du Sud"
       },
       {
         "rank": 9,
@@ -318,7 +346,8 @@
           "Bahasa Indonesia",
           "Indonesian",
           "Bahasa"
-        ]
+        ],
+        "hint": "Une langue d'Asie du Sud-Est"
       },
       {
         "rank": 10,
@@ -327,7 +356,8 @@
         "aliases": [
           "Urdu",
           "Ourdu"
-        ]
+        ],
+        "hint": "Une langue d'Asie du Sud liée à l'islam"
       }
     ]
   },
@@ -357,7 +387,8 @@
           "United States",
           "Amérique",
           "États-Unis d'Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
@@ -367,7 +398,8 @@
           "China",
           "République populaire de Chine",
           "RPC"
-        ]
+        ],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 3,
@@ -377,7 +409,8 @@
           "Germany",
           "Deutschland",
           "RFA"
-        ]
+        ],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 4,
@@ -386,7 +419,8 @@
         "aliases": [
           "Japan",
           "Nippon"
-        ]
+        ],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 5,
@@ -399,7 +433,8 @@
           "United Kingdom",
           "Great Britain",
           "GB"
-        ]
+        ],
+        "hint": "Un État insulaire d'Europe"
       },
       {
         "rank": 6,
@@ -408,7 +443,8 @@
         "aliases": [
           "India",
           "Bharat"
-        ]
+        ],
+        "hint": "Un pays d'Asie du Sud"
       },
       {
         "rank": 7,
@@ -416,7 +452,8 @@
         "value": 3368.925,
         "aliases": [
           "République française"
-        ]
+        ],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 8,
@@ -426,7 +463,8 @@
           "Russia",
           "Fédération de Russie",
           "Russian Federation"
-        ]
+        ],
+        "hint": "Un pays eurasiatique"
       },
       {
         "rank": 9,
@@ -435,13 +473,15 @@
         "aliases": [
           "Italy",
           "Italia"
-        ]
+        ],
+        "hint": "Un pays du sud de l'Europe"
       },
       {
         "rank": 10,
         "name": "Canada",
         "value": 2319.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique du Nord membre du Commonwealth"
       }
     ]
   },
@@ -467,7 +507,8 @@
         "aliases": [
           "Italy",
           "Italia"
-        ]
+        ],
+        "hint": "Un pays méditerranéen d'Europe"
       },
       {
         "rank": 2,
@@ -477,7 +518,8 @@
           "China",
           "République populaire de Chine",
           "RPC"
-        ]
+        ],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 3,
@@ -485,7 +527,8 @@
         "value": 56,
         "aliases": [
           "République française"
-        ]
+        ],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 4,
@@ -495,7 +538,8 @@
           "Germany",
           "Deutschland",
           "RFA"
-        ]
+        ],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 5,
@@ -504,7 +548,8 @@
         "aliases": [
           "Spain",
           "España"
-        ]
+        ],
+        "hint": "Un pays du sud-ouest de l'Europe"
       },
       {
         "rank": 6,
@@ -513,7 +558,8 @@
         "aliases": [
           "India",
           "Bharat"
-        ]
+        ],
+        "hint": "Un pays d'Asie du Sud"
       },
       {
         "rank": 7,
@@ -522,7 +568,8 @@
         "aliases": [
           "Mexico",
           "México"
-        ]
+        ],
+        "hint": "Un pays d'Amérique latine"
       },
       {
         "rank": 8,
@@ -535,7 +582,8 @@
           "United Kingdom",
           "Great Britain",
           "GB"
-        ]
+        ],
+        "hint": "Un État insulaire d'Europe"
       },
       {
         "rank": 9,
@@ -545,7 +593,8 @@
           "Russia",
           "Fédération de Russie",
           "Russian Federation"
-        ]
+        ],
+        "hint": "Un pays eurasiatique"
       },
       {
         "rank": 10,
@@ -554,7 +603,8 @@
         "aliases": [
           "Perse",
           "République islamique d'Iran"
-        ]
+        ],
+        "hint": "Un pays du Moyen-Orient"
       }
     ]
   },
@@ -581,7 +631,8 @@
           "China",
           "République populaire de Chine",
           "RPC"
-        ]
+        ],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 2,
@@ -594,7 +645,8 @@
           "United States",
           "Amérique",
           "États-Unis d'Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 3,
@@ -603,7 +655,8 @@
         "aliases": [
           "India",
           "Bharat"
-        ]
+        ],
+        "hint": "Un pays d'Asie du Sud"
       },
       {
         "rank": 4,
@@ -613,7 +666,8 @@
           "Russia",
           "Fédération de Russie",
           "Russian Federation"
-        ]
+        ],
+        "hint": "Un pays eurasiatique"
       },
       {
         "rank": 5,
@@ -622,7 +676,8 @@
         "aliases": [
           "Japan",
           "Nippon"
-        ]
+        ],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 6,
@@ -630,7 +685,8 @@
         "value": 812.2,
         "aliases": [
           "Indonesia"
-        ]
+        ],
+        "hint": "Un archipel d'Asie du Sud-Est"
       },
       {
         "rank": 7,
@@ -639,7 +695,8 @@
         "aliases": [
           "Perse",
           "République islamique d'Iran"
-        ]
+        ],
+        "hint": "Un pays non arabe du Moyen-Orient"
       },
       {
         "rank": 8,
@@ -650,7 +707,8 @@
           "Saudi Arabia",
           "KSA",
           "Arabie"
-        ]
+        ],
+        "hint": "Un pays de la péninsule Arabique"
       },
       {
         "rank": 9,
@@ -661,7 +719,8 @@
           "South Korea",
           "République de Corée",
           "Korea"
-        ]
+        ],
+        "hint": "Une péninsule d'Asie de l'Est"
       },
       {
         "rank": 10,
@@ -671,7 +730,8 @@
           "Germany",
           "Deutschland",
           "RFA"
-        ]
+        ],
+        "hint": "Un pays d'Europe centrale"
       }
     ]
   },
@@ -699,7 +759,8 @@
           "Hartsfield-Jackson",
           "ATL",
           "Hartsfield"
-        ]
+        ],
+        "hint": "Un hub du sud-est des États-Unis"
       },
       {
         "rank": 2,
@@ -710,7 +771,8 @@
           "Dubai",
           "DXB",
           "Dubai International"
-        ]
+        ],
+        "hint": "Un hub du Golfe"
       },
       {
         "rank": 3,
@@ -721,7 +783,8 @@
           "Haneda",
           "HND",
           "Tokyo-Haneda"
-        ]
+        ],
+        "hint": "Un aéroport d'une capitale d'Asie de l'Est"
       },
       {
         "rank": 4,
@@ -732,7 +795,8 @@
           "Dallas Fort Worth",
           "DFW",
           "Fort Worth"
-        ]
+        ],
+        "hint": "Un hub du sud des États-Unis"
       },
       {
         "rank": 5,
@@ -744,7 +808,8 @@
           "Pudong",
           "PVG",
           "Shanghai-Pudong"
-        ]
+        ],
+        "hint": "Un hub d'une métropole portuaire d'Asie de l'Est"
       },
       {
         "rank": 6,
@@ -755,7 +820,8 @@
           "O'Hare",
           "ORD",
           "Chicago O'Hare"
-        ]
+        ],
+        "hint": "Un hub du Midwest américain"
       },
       {
         "rank": 7,
@@ -767,7 +833,8 @@
           "Heathrow",
           "LHR",
           "London Heathrow"
-        ]
+        ],
+        "hint": "Un hub d'Europe de l'Ouest"
       },
       {
         "rank": 8,
@@ -777,7 +844,8 @@
           "Istanbul Airport",
           "IST",
           "Istamboul"
-        ]
+        ],
+        "hint": "Un hub entre deux continents"
       },
       {
         "rank": 9,
@@ -789,7 +857,8 @@
           "Baiyun",
           "CAN",
           "Guangzhou Baiyun"
-        ]
+        ],
+        "hint": "Un hub d'Asie de l'Est"
       },
       {
         "rank": 10,
@@ -798,7 +867,8 @@
         "aliases": [
           "DEN",
           "Denver International"
-        ]
+        ],
+        "hint": "Un hub de l'Ouest américain"
       }
     ]
   },
@@ -828,7 +898,8 @@
           "United States",
           "Amérique",
           "États-Unis d'Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
@@ -838,7 +909,8 @@
           "China",
           "République populaire de Chine",
           "RPC"
-        ]
+        ],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 3,
@@ -848,7 +920,8 @@
           "Russia",
           "Fédération de Russie",
           "Russian Federation"
-        ]
+        ],
+        "hint": "Un pays eurasiatique"
       },
       {
         "rank": 4,
@@ -858,7 +931,8 @@
           "Germany",
           "Deutschland",
           "RFA"
-        ]
+        ],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 5,
@@ -867,7 +941,8 @@
         "aliases": [
           "India",
           "Bharat"
-        ]
+        ],
+        "hint": "Un pays d'Asie du Sud"
       },
       {
         "rank": 6,
@@ -880,13 +955,15 @@
           "United Kingdom",
           "Great Britain",
           "GB"
-        ]
+        ],
+        "hint": "Un État insulaire d'Europe"
       },
       {
         "rank": 7,
         "name": "Ukraine",
         "value": 84.1,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe de l'Est"
       },
       {
         "rank": 8,
@@ -897,7 +974,8 @@
           "Saudi Arabia",
           "KSA",
           "Arabie"
-        ]
+        ],
+        "hint": "Un pays de la péninsule Arabique"
       },
       {
         "rank": 9,
@@ -905,7 +983,8 @@
         "value": 68,
         "aliases": [
           "République française"
-        ]
+        ],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 10,
@@ -914,7 +993,8 @@
         "aliases": [
           "Japan",
           "Nippon"
-        ]
+        ],
+        "hint": "Un archipel d'Asie de l'Est"
       }
     ]
   },
@@ -940,7 +1020,8 @@
         "aliases": [
           "Finland",
           "Suomi"
-        ]
+        ],
+        "hint": "Un pays nordique"
       },
       {
         "rank": 2,
@@ -949,7 +1030,8 @@
         "aliases": [
           "Iceland",
           "Ísland"
-        ]
+        ],
+        "hint": "Une île de l'Atlantique Nord"
       },
       {
         "rank": 3,
@@ -958,13 +1040,15 @@
         "aliases": [
           "Denmark",
           "Danmark"
-        ]
+        ],
+        "hint": "Un royaume scandinave"
       },
       {
         "rank": 4,
         "name": "Costa Rica",
         "value": 7.439,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique centrale"
       },
       {
         "rank": 5,
@@ -973,7 +1057,8 @@
         "aliases": [
           "Sweden",
           "Sverige"
-        ]
+        ],
+        "hint": "Un pays scandinave"
       },
       {
         "rank": 6,
@@ -982,7 +1067,8 @@
         "aliases": [
           "Norway",
           "Norge"
-        ]
+        ],
+        "hint": "Un pays nordique hors Union européenne"
       },
       {
         "rank": 7,
@@ -993,7 +1079,8 @@
           "Netherlands",
           "Nederland",
           "Holland"
-        ]
+        ],
+        "hint": "Un pays du Benelux"
       },
       {
         "rank": 8,
@@ -1001,7 +1088,8 @@
         "value": 7.187,
         "aliases": [
           "Israel"
-        ]
+        ],
+        "hint": "Un pays du Proche-Orient"
       },
       {
         "rank": 9,
@@ -1009,7 +1097,8 @@
         "value": 7.063,
         "aliases": [
           "Lëtzebuerg"
-        ]
+        ],
+        "hint": "Un petit État d'Europe de l'Ouest"
       },
       {
         "rank": 10,
@@ -1021,7 +1110,8 @@
           "Svizzera",
           "Confédération helvétique",
           "Helvétie"
-        ]
+        ],
+        "hint": "Un pays alpin"
       }
     ]
   },
@@ -1046,7 +1136,8 @@
         "value": 86.4,
         "aliases": [
           "Principauté de Monaco"
-        ]
+        ],
+        "hint": "Une principauté méditerranéenne"
       },
       {
         "rank": 2,
@@ -1054,7 +1145,8 @@
         "value": 85.7,
         "aliases": [
           "San Marino"
-        ]
+        ],
+        "hint": "Un micro-État du sud de l'Europe"
       },
       {
         "rank": 3,
@@ -1063,7 +1155,8 @@
         "aliases": [
           "Hongkong",
           "Hong-Kong"
-        ]
+        ],
+        "hint": "Un territoire d'Asie de l'Est"
       },
       {
         "rank": 4,
@@ -1072,7 +1165,8 @@
         "aliases": [
           "Japan",
           "Nippon"
-        ]
+        ],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 5,
@@ -1083,7 +1177,8 @@
           "South Korea",
           "République de Corée",
           "Korea"
-        ]
+        ],
+        "hint": "Une péninsule d'Asie de l'Est"
       },
       {
         "rank": 6,
@@ -1091,7 +1186,8 @@
         "value": 84,
         "aliases": [
           "Andorra"
-        ]
+        ],
+        "hint": "Un micro-État de montagne"
       },
       {
         "rank": 7,
@@ -1103,7 +1199,8 @@
           "Svizzera",
           "Confédération helvétique",
           "Helvétie"
-        ]
+        ],
+        "hint": "Un pays alpin"
       },
       {
         "rank": 8,
@@ -1111,7 +1208,8 @@
         "value": 83.9,
         "aliases": [
           "Australia"
-        ]
+        ],
+        "hint": "Un pays d'Océanie"
       },
       {
         "rank": 9,
@@ -1119,7 +1217,8 @@
         "value": 83.7,
         "aliases": [
           "Singapore"
-        ]
+        ],
+        "hint": "Une cité-État d'Asie du Sud-Est"
       },
       {
         "rank": 10,
@@ -1128,7 +1227,8 @@
         "aliases": [
           "Italy",
           "Italia"
-        ]
+        ],
+        "hint": "Un pays méditerranéen d'Europe"
       }
     ]
   },
@@ -1158,7 +1258,8 @@
           "United States",
           "Amérique",
           "États-Unis d'Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
@@ -1169,7 +1270,8 @@
           "Saudi Arabia",
           "KSA",
           "Arabie"
-        ]
+        ],
+        "hint": "Un pays de la péninsule Arabique"
       },
       {
         "rank": 3,
@@ -1179,13 +1281,15 @@
           "Russia",
           "Fédération de Russie",
           "Russian Federation"
-        ]
+        ],
+        "hint": "Un pays eurasiatique"
       },
       {
         "rank": 4,
         "name": "Canada",
         "value": 6.19,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique du Nord membre du Commonwealth"
       },
       {
         "rank": 5,
@@ -1195,7 +1299,8 @@
           "China",
           "République populaire de Chine",
           "RPC"
-        ]
+        ],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 6,
@@ -1204,7 +1309,8 @@
         "aliases": [
           "Perse",
           "République islamique d'Iran"
-        ]
+        ],
+        "hint": "Un pays non arabe du Moyen-Orient"
       },
       {
         "rank": 7,
@@ -1213,7 +1319,8 @@
         "aliases": [
           "Brazil",
           "Brasil"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Sud"
       },
       {
         "rank": 8,
@@ -1221,7 +1328,8 @@
         "value": 4.51,
         "aliases": [
           "Iraq"
-        ]
+        ],
+        "hint": "Un pays du Moyen-Orient"
       },
       {
         "rank": 9,
@@ -1234,7 +1342,8 @@
           "UAE",
           "United Arab Emirates",
           "Émirats Arabes Unis"
-        ]
+        ],
+        "hint": "Un État du Golfe"
       },
       {
         "rank": 10,
@@ -1243,7 +1352,8 @@
         "aliases": [
           "Kuwait",
           "Koweit"
-        ]
+        ],
+        "hint": "Un petit État du Golfe"
       }
     ]
   },
@@ -1273,7 +1383,8 @@
           "United States",
           "Amérique",
           "États-Unis d'Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
@@ -1283,7 +1394,8 @@
           "China",
           "République populaire de Chine",
           "RPC"
-        ]
+        ],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 3,
@@ -1291,7 +1403,8 @@
         "value": 57,
         "aliases": [
           "République française"
-        ]
+        ],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 4,
@@ -1301,7 +1414,8 @@
           "Russia",
           "Fédération de Russie",
           "Russian Federation"
-        ]
+        ],
+        "hint": "Un pays eurasiatique"
       },
       {
         "rank": 5,
@@ -1312,7 +1426,8 @@
           "South Korea",
           "République de Corée",
           "Korea"
-        ]
+        ],
+        "hint": "Une péninsule d'Asie de l'Est"
       },
       {
         "rank": 6,
@@ -1321,19 +1436,22 @@
         "aliases": [
           "India",
           "Bharat"
-        ]
+        ],
+        "hint": "Un pays d'Asie du Sud"
       },
       {
         "rank": 7,
         "name": "Canada",
         "value": 17,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique du Nord membre du Commonwealth"
       },
       {
         "rank": 8,
         "name": "Ukraine",
         "value": 15,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe de l'Est"
       },
       {
         "rank": 9,
@@ -1342,7 +1460,8 @@
         "aliases": [
           "Japan",
           "Nippon"
-        ]
+        ],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 10,
@@ -1355,7 +1474,8 @@
           "United Kingdom",
           "Great Britain",
           "GB"
-        ]
+        ],
+        "hint": "Un État insulaire d'Europe"
       }
     ]
   }

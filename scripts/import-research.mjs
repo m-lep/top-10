@@ -10,7 +10,6 @@ if (!src) {
 }
 const dest = new URL("../src/data/research/", import.meta.url).pathname;
 const files = readdirSync(src).filter((f) => f.startsWith("data-") && f.endsWith(".json"));
-const names = [];
 for (const f of files) {
   const lists = JSON.parse(readFileSync(join(src, f), "utf8"));
   if (!Array.isArray(lists)) throw new Error(`${f}: pas un tableau`);
@@ -19,9 +18,10 @@ for (const f of files) {
     if (l.items.length !== 10) console.warn(`⚠ ${l.id}: ${l.items.length} éléments`);
   }
   copyFileSync(join(src, f), join(dest, f));
-  names.push(basename(f, ".json"));
   console.log(`${f}: ${lists.length} listes`);
 }
+// research.ts référence TOUS les fichiers présents dans src/data/research, pas seulement ceux importés.
+const names = readdirSync(dest).filter((f) => f.startsWith("data-") && f.endsWith(".json")).map((f) => basename(f, ".json")).sort();
 const ident = (n) => n.replace(/-([a-z])/g, (_, c) => c.toUpperCase());
 const ts = `import type { TopList } from "./types";
 ${names.map((n) => `import ${ident(n)} from "./research/${n}.json";`).join("\n")}

@@ -21,7 +21,8 @@
         "aliases": [
           "Ronaldo",
           "CR7"
-        ]
+        ],
+        "hint": "Un attaquant européen encore en activité"
       },
       {
         "rank": 2,
@@ -30,7 +31,8 @@
         "aliases": [
           "Messi",
           "Leo Messi"
-        ]
+        ],
+        "hint": "Un attaquant sud-américain encore en activité"
       },
       {
         "rank": 3,
@@ -38,7 +40,8 @@
         "value": 108,
         "aliases": [
           "Daei"
-        ]
+        ],
+        "hint": "Un attaquant du Moyen-Orient des années 1990"
       },
       {
         "rank": 4,
@@ -46,7 +49,8 @@
         "value": 95,
         "aliases": [
           "Chhetri"
-        ]
+        ],
+        "hint": "Un attaquant d'Asie du Sud"
       },
       {
         "rank": 5,
@@ -54,7 +58,8 @@
         "value": 94,
         "aliases": [
           "Lukaku"
-        ]
+        ],
+        "hint": "Un avant-centre du Benelux"
       },
       {
         "rank": 6,
@@ -63,7 +68,8 @@
         "aliases": [
           "Lewandowski",
           "Lewy"
-        ]
+        ],
+        "hint": "Un avant-centre d'Europe centrale"
       },
       {
         "rank": 7,
@@ -71,7 +77,8 @@
         "value": 89,
         "aliases": [
           "Kane"
-        ]
+        ],
+        "hint": "Un avant-centre britannique"
       },
       {
         "rank": 7,
@@ -79,7 +86,8 @@
         "value": 89,
         "aliases": [
           "Dahari"
-        ]
+        ],
+        "hint": "Un attaquant d'Asie du Sud-Est des années 1970"
       },
       {
         "rank": 9,
@@ -87,7 +95,8 @@
         "value": 85,
         "aliases": [
           "Mabkhout"
-        ]
+        ],
+        "hint": "Un attaquant du Golfe"
       },
       {
         "rank": 10,
@@ -96,7 +105,8 @@
         "aliases": [
           "Puskás",
           "Puskas"
-        ]
+        ],
+        "hint": "Une légende d'Europe centrale des années 1950"
       }
     ]
   },
@@ -122,7 +132,8 @@
         "aliases": [
           "Real",
           "Madrid"
-        ]
+        ],
+        "hint": "Un club de la péninsule Ibérique"
       },
       {
         "rank": 2,
@@ -131,7 +142,8 @@
         "aliases": [
           "Milan",
           "Milan AC"
-        ]
+        ],
+        "hint": "Un club du nord de l'Italie"
       },
       {
         "rank": 3,
@@ -141,7 +153,8 @@
           "Bayern",
           "Bayern de Munich",
           "Bayern München"
-        ]
+        ],
+        "hint": "Un club allemand"
       },
       {
         "rank": 3,
@@ -150,7 +163,8 @@
         "aliases": [
           "Liverpool FC",
           "Reds"
-        ]
+        ],
+        "hint": "Un club du nord de l'Angleterre"
       },
       {
         "rank": 5,
@@ -161,7 +175,8 @@
           "Barça",
           "Barcelona",
           "FC Barcelona"
-        ]
+        ],
+        "hint": "Un autre club de la péninsule Ibérique"
       },
       {
         "rank": 6,
@@ -169,7 +184,8 @@
         "value": 4,
         "aliases": [
           "Ajax"
-        ]
+        ],
+        "hint": "Un club néerlandais"
       },
       {
         "rank": 7,
@@ -178,7 +194,8 @@
         "aliases": [
           "Inter",
           "Internazionale"
-        ]
+        ],
+        "hint": "Un autre club du nord de l'Italie"
       },
       {
         "rank": 7,
@@ -188,7 +205,8 @@
           "Man United",
           "Man Utd",
           "United"
-        ]
+        ],
+        "hint": "Un autre club du nord de l'Angleterre"
       },
       {
         "rank": 9,
@@ -199,6 +217,7 @@
           "Paris SG",
           "Paris"
         ],
+        "hint": "Un club français",
         "ties": [
           "Benfica",
           "Juventus",
@@ -214,6 +233,7 @@
           "Chelsea FC",
           "Blues"
         ],
+        "hint": "Un club londonien",
         "ties": [
           "Benfica",
           "Juventus",
@@ -246,7 +266,8 @@
           "Mbappé",
           "Mbappe",
           "Kyky"
-        ]
+        ],
+        "hint": "Un attaquant encore en activité"
       },
       {
         "rank": 2,
@@ -254,7 +275,8 @@
         "value": 57,
         "aliases": [
           "Giroud"
-        ]
+        ],
+        "hint": "Un avant-centre des années 2010"
       },
       {
         "rank": 3,
@@ -263,7 +285,8 @@
         "aliases": [
           "Henry",
           "Titi"
-        ]
+        ],
+        "hint": "Un attaquant des années 2000"
       },
       {
         "rank": 4,
@@ -273,7 +296,8 @@
           "Griezmann",
           "Grizou",
           "Grizi"
-        ]
+        ],
+        "hint": "Un attaquant des années 2010 et 2020"
       },
       {
         "rank": 5,
@@ -282,7 +306,8 @@
         "aliases": [
           "Platini",
           "Platoche"
-        ]
+        ],
+        "hint": "Un meneur de jeu des années 1980"
       },
       {
         "rank": 6,
@@ -291,7 +316,8 @@
         "aliases": [
           "Benzema",
           "KB9"
-        ]
+        ],
+        "hint": "Un avant-centre des années 2010 et 2020"
       },
       {
         "rank": 7,
@@ -301,7 +327,8 @@
           "Trezeguet",
           "Trézéguet",
           "Trezegol"
-        ]
+        ],
+        "hint": "Un avant-centre des années 2000"
       },
       {
         "rank": 8,
@@ -311,7 +338,8 @@
           "Zidane",
           "Zizou",
           "Zinedine Zidane"
-        ]
+        ],
+        "hint": "Un milieu de terrain des années 1990 et 2000"
       },
       {
         "rank": 9,
@@ -320,7 +348,8 @@
         "aliases": [
           "Papin",
           "JPP"
-        ]
+        ],
+        "hint": "Un attaquant des années 1990"
       },
       {
         "rank": 9,
@@ -328,7 +357,8 @@
         "value": 30,
         "aliases": [
           "Fontaine"
-        ]
+        ],
+        "hint": "Un attaquant des années 1950"
       }
     ]
   },
@@ -353,7 +383,8 @@
         "value": 106,
         "aliases": [
           "Hamilton"
-        ]
+        ],
+        "hint": "Un pilote britannique des années 2010"
       },
       {
         "rank": 2,
@@ -362,7 +393,8 @@
         "aliases": [
           "Schumacher",
           "Schumi"
-        ]
+        ],
+        "hint": "Un pilote allemand des années 1990 et 2000"
       },
       {
         "rank": 3,
@@ -370,7 +402,8 @@
         "value": 72,
         "aliases": [
           "Verstappen"
-        ]
+        ],
+        "hint": "Un pilote des années 2020"
       },
       {
         "rank": 4,
@@ -378,7 +411,8 @@
         "value": 53,
         "aliases": [
           "Vettel"
-        ]
+        ],
+        "hint": "Un pilote allemand des années 2010"
       },
       {
         "rank": 5,
@@ -386,7 +420,8 @@
         "value": 51,
         "aliases": [
           "Prost"
-        ]
+        ],
+        "hint": "Un pilote français des années 1980"
       },
       {
         "rank": 6,
@@ -394,7 +429,8 @@
         "value": 41,
         "aliases": [
           "Senna"
-        ]
+        ],
+        "hint": "Un pilote sud-américain des années 1980"
       },
       {
         "rank": 7,
@@ -402,7 +438,8 @@
         "value": 32,
         "aliases": [
           "Alonso"
-        ]
+        ],
+        "hint": "Un pilote ibérique encore en activité"
       },
       {
         "rank": 8,
@@ -410,7 +447,8 @@
         "value": 31,
         "aliases": [
           "Mansell"
-        ]
+        ],
+        "hint": "Un pilote britannique des années 1980 et 1990"
       },
       {
         "rank": 9,
@@ -418,7 +456,8 @@
         "value": 27,
         "aliases": [
           "Stewart"
-        ]
+        ],
+        "hint": "Un pilote écossais des années 1960 et 1970"
       },
       {
         "rank": 10,
@@ -427,6 +466,7 @@
         "aliases": [
           "Clark"
         ],
+        "hint": "Un pilote des années 1960",
         "ties": [
           "Niki Lauda"
         ]
@@ -456,7 +496,8 @@
           "Djokovic",
           "Nole",
           "Djoko"
-        ]
+        ],
+        "hint": "Un joueur des Balkans"
       },
       {
         "rank": 2,
@@ -465,7 +506,8 @@
         "aliases": [
           "Nadal",
           "Rafa"
-        ]
+        ],
+        "hint": "Un joueur ibérique spécialiste de terre battue"
       },
       {
         "rank": 3,
@@ -473,7 +515,8 @@
         "value": 20,
         "aliases": [
           "Federer"
-        ]
+        ],
+        "hint": "Un joueur suisse"
       },
       {
         "rank": 4,
@@ -481,7 +524,8 @@
         "value": 14,
         "aliases": [
           "Sampras"
-        ]
+        ],
+        "hint": "Un Américain des années 1990"
       },
       {
         "rank": 5,
@@ -489,7 +533,8 @@
         "value": 12,
         "aliases": [
           "Emerson"
-        ]
+        ],
+        "hint": "Un Australien des années 1960"
       },
       {
         "rank": 6,
@@ -497,7 +542,8 @@
         "value": 11,
         "aliases": [
           "Laver"
-        ]
+        ],
+        "hint": "Un gaucher australien des années 1960"
       },
       {
         "rank": 6,
@@ -506,7 +552,8 @@
         "aliases": [
           "Borg",
           "Bjorn Borg"
-        ]
+        ],
+        "hint": "Un Scandinave des années 1970"
       },
       {
         "rank": 8,
@@ -514,7 +561,8 @@
         "value": 10,
         "aliases": [
           "Tilden"
-        ]
+        ],
+        "hint": "Un Américain des années 1920"
       },
       {
         "rank": 9,
@@ -523,6 +571,7 @@
         "aliases": [
           "Connors"
         ],
+        "hint": "Un Américain des années 1970",
         "ties": [
           "Fred Perry",
           "Ken Rosewall",
@@ -537,6 +586,7 @@
           "Agassi",
           "André Agassi"
         ],
+        "hint": "Un Américain des années 1990 et 2000",
         "ties": [
           "Fred Perry",
           "Ken Rosewall",
@@ -567,7 +617,8 @@
         "aliases": [
           "Court",
           "Margaret Smith Court"
-        ]
+        ],
+        "hint": "Une Australienne des années 1960 et 1970"
       },
       {
         "rank": 2,
@@ -576,7 +627,8 @@
         "aliases": [
           "Serena",
           "S. Williams"
-        ]
+        ],
+        "hint": "Une Américaine des années 2000 et 2010"
       },
       {
         "rank": 3,
@@ -584,7 +636,8 @@
         "value": 22,
         "aliases": [
           "Graf"
-        ]
+        ],
+        "hint": "Une Allemande des années 1990"
       },
       {
         "rank": 4,
@@ -593,7 +646,8 @@
         "aliases": [
           "Wills",
           "Helen Wills Moody"
-        ]
+        ],
+        "hint": "Une Américaine des années 1920 et 1930"
       },
       {
         "rank": 5,
@@ -601,7 +655,8 @@
         "value": 18,
         "aliases": [
           "Evert"
-        ]
+        ],
+        "hint": "Une Américaine des années 1970 et 1980"
       },
       {
         "rank": 5,
@@ -610,7 +665,8 @@
         "aliases": [
           "Navratilova",
           "Navrátilová"
-        ]
+        ],
+        "hint": "Une Américaine d'origine tchèque"
       },
       {
         "rank": 7,
@@ -619,7 +675,8 @@
         "aliases": [
           "King",
           "BJK"
-        ]
+        ],
+        "hint": "Une Américaine des années 1960 et 1970"
       },
       {
         "rank": 8,
@@ -628,7 +685,8 @@
         "aliases": [
           "Connolly",
           "Little Mo"
-        ]
+        ],
+        "hint": "Une Américaine des années 1950"
       },
       {
         "rank": 8,
@@ -636,7 +694,8 @@
         "value": 9,
         "aliases": [
           "Seles"
-        ]
+        ],
+        "hint": "Une joueuse des Balkans des années 1990"
       },
       {
         "rank": 10,
@@ -646,6 +705,7 @@
           "Lenglen",
           "La Divine"
         ],
+        "hint": "Une Française des années 1920",
         "ties": [
           "Molla Mallory"
         ]
@@ -673,7 +733,8 @@
         "value": 28,
         "aliases": [
           "Phelps"
-        ]
+        ],
+        "hint": "Un nageur américain"
       },
       {
         "rank": 2,
@@ -681,7 +742,8 @@
         "value": 18,
         "aliases": [
           "Latynina"
-        ]
+        ],
+        "hint": "Une gymnaste de l'époque soviétique"
       },
       {
         "rank": 3,
@@ -690,7 +752,8 @@
         "aliases": [
           "Bjørgen",
           "Bjorgen"
-        ]
+        ],
+        "hint": "Une fondeuse scandinave"
       },
       {
         "rank": 3,
@@ -698,7 +761,8 @@
         "value": 15,
         "aliases": [
           "Andrianov"
-        ]
+        ],
+        "hint": "Un gymnaste de l'époque soviétique"
       },
       {
         "rank": 5,
@@ -706,7 +770,8 @@
         "value": 14,
         "aliases": [
           "Ledecky"
-        ]
+        ],
+        "hint": "Une nageuse américaine encore en activité"
       },
       {
         "rank": 5,
@@ -714,7 +779,8 @@
         "value": 14,
         "aliases": [
           "Werth"
-        ]
+        ],
+        "hint": "Une cavalière allemande"
       },
       {
         "rank": 5,
@@ -723,7 +789,8 @@
         "aliases": [
           "Bjørndalen",
           "Bjorndalen"
-        ]
+        ],
+        "hint": "Un biathlète scandinave"
       },
       {
         "rank": 5,
@@ -731,7 +798,8 @@
         "value": 14,
         "aliases": [
           "McKeon"
-        ]
+        ],
+        "hint": "Une nageuse australienne"
       },
       {
         "rank": 5,
@@ -739,7 +807,8 @@
         "value": 14,
         "aliases": [
           "Fontana"
-        ]
+        ],
+        "hint": "Une patineuse de vitesse italienne"
       },
       {
         "rank": 10,
@@ -750,6 +819,7 @@
           "Klaebo",
           "Klabo"
         ],
+        "hint": "Un fondeur scandinave encore en activité",
         "ties": [
           "Boris Shakhlin",
           "Edoardo Mangiarotti",
@@ -782,13 +852,15 @@
           "USA",
           "Etats-Unis",
           "Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
         "name": "Chine",
         "value": 91,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Asie de l'Est"
       },
       {
         "rank": 3,
@@ -798,31 +870,36 @@
           "Grande-Bretagne",
           "Angleterre",
           "UK"
-        ]
+        ],
+        "hint": "Une île d'Europe de l'Ouest"
       },
       {
         "rank": 4,
         "name": "France",
         "value": 64,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 5,
         "name": "Australie",
         "value": 53,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Océanie"
       },
       {
         "rank": 6,
         "name": "Japon",
         "value": 45,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 7,
         "name": "Italie",
         "value": 40,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe du Sud"
       },
       {
         "rank": 8,
@@ -830,13 +907,15 @@
         "value": 34,
         "aliases": [
           "Hollande"
-        ]
+        ],
+        "hint": "Un royaume du Benelux"
       },
       {
         "rank": 9,
         "name": "Allemagne",
         "value": 33,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 10,
@@ -844,7 +923,8 @@
         "value": 32,
         "aliases": [
           "Corée"
-        ]
+        ],
+        "hint": "Une péninsule d'Asie de l'Est"
       }
     ]
   },
@@ -869,7 +949,8 @@
         "value": 299,
         "aliases": [
           "Onnis"
-        ]
+        ],
+        "hint": "Un attaquant sud-américain des années 1970"
       },
       {
         "rank": 2,
@@ -877,7 +958,8 @@
         "value": 255,
         "aliases": [
           "Lacombe"
-        ]
+        ],
+        "hint": "Un attaquant français des années 1970 et 1980"
       },
       {
         "rank": 3,
@@ -885,7 +967,8 @@
         "value": 216,
         "aliases": [
           "Revelli"
-        ]
+        ],
+        "hint": "Un attaquant français des années 1960 et 1970"
       },
       {
         "rank": 4,
@@ -893,7 +976,8 @@
         "value": 210,
         "aliases": [
           "Courtois"
-        ]
+        ],
+        "hint": "Un attaquant français d'avant-guerre"
       },
       {
         "rank": 5,
@@ -901,7 +985,8 @@
         "value": 206,
         "aliases": [
           "Cisowski"
-        ]
+        ],
+        "hint": "Un attaquant français des années 1950"
       },
       {
         "rank": 6,
@@ -909,7 +994,8 @@
         "value": 203,
         "aliases": [
           "Piantoni"
-        ]
+        ],
+        "hint": "Un attaquant français des années 1950 et 1960"
       },
       {
         "rank": 7,
@@ -918,7 +1004,8 @@
         "aliases": [
           "Mbappé",
           "Mbappe"
-        ]
+        ],
+        "hint": "Un attaquant encore en activité"
       },
       {
         "rank": 8,
@@ -926,7 +1013,8 @@
         "value": 190,
         "aliases": [
           "Ujlaki"
-        ]
+        ],
+        "hint": "Un attaquant d'origine hongroise des années 1950"
       },
       {
         "rank": 9,
@@ -934,7 +1022,8 @@
         "value": 187,
         "aliases": [
           "Di Nallo"
-        ]
+        ],
+        "hint": "Un attaquant lyonnais des années 1960"
       },
       {
         "rank": 10,
@@ -943,6 +1032,7 @@
         "aliases": [
           "Bianchi"
         ],
+        "hint": "Un attaquant sud-américain devenu entraîneur célèbre",
         "ties": [
           "Gunnar Andersson"
         ]
@@ -968,61 +1058,71 @@
         "rank": 1,
         "name": "Paris",
         "value": 2103778,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville d'Île-de-France"
       },
       {
         "rank": 2,
         "name": "Marseille",
         "value": 886040,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville portuaire du Sud-Est"
       },
       {
         "rank": 3,
         "name": "Lyon",
         "value": 519127,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville du Centre-Est"
       },
       {
         "rank": 4,
         "name": "Toulouse",
         "value": 514819,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville du Sud-Ouest"
       },
       {
         "rank": 5,
         "name": "Nice",
         "value": 357737,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville de la Côte d'Azur"
       },
       {
         "rank": 6,
         "name": "Nantes",
         "value": 327734,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville de l'Ouest"
       },
       {
         "rank": 7,
         "name": "Montpellier",
         "value": 310240,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville du Sud"
       },
       {
         "rank": 8,
         "name": "Strasbourg",
         "value": 293771,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville du Grand Est"
       },
       {
         "rank": 9,
         "name": "Bordeaux",
         "value": 267991,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une autre ville du Sud-Ouest"
       },
       {
         "rank": 10,
         "name": "Lille",
         "value": 238246,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une ville du Nord"
       }
     ]
   },
@@ -1047,7 +1147,8 @@
         "value": 2615635,
         "aliases": [
           "59"
-        ]
+        ],
+        "hint": "Un département des Hauts-de-France"
       },
       {
         "rank": 2,
@@ -1055,7 +1156,8 @@
         "value": 2103778,
         "aliases": [
           "75"
-        ]
+        ],
+        "hint": "Un département d'Île-de-France"
       },
       {
         "rank": 3,
@@ -1064,7 +1166,8 @@
         "aliases": [
           "13",
           "Bouches du Rhône"
-        ]
+        ],
+        "hint": "Un département de Provence"
       },
       {
         "rank": 4,
@@ -1073,7 +1176,8 @@
         "aliases": [
           "69",
           "Rhône (Métropole de Lyon incluse)"
-        ]
+        ],
+        "hint": "Un département du Centre-Est"
       },
       {
         "rank": 5,
@@ -1082,7 +1186,8 @@
         "aliases": [
           "93",
           "Seine Saint-Denis"
-        ]
+        ],
+        "hint": "Un département de la petite couronne"
       },
       {
         "rank": 6,
@@ -1090,7 +1195,8 @@
         "value": 1690493,
         "aliases": [
           "33"
-        ]
+        ],
+        "hint": "Un département de Nouvelle-Aquitaine"
       },
       {
         "rank": 7,
@@ -1099,7 +1205,8 @@
         "aliases": [
           "92",
           "Hauts de Seine"
-        ]
+        ],
+        "hint": "Un autre département de la petite couronne"
       },
       {
         "rank": 8,
@@ -1108,7 +1215,8 @@
         "aliases": [
           "44",
           "Loire Atlantique"
-        ]
+        ],
+        "hint": "Un département de l'Ouest"
       },
       {
         "rank": 9,
@@ -1116,7 +1224,8 @@
         "value": 1485086,
         "aliases": [
           "78"
-        ]
+        ],
+        "hint": "Un département de la grande couronne"
       },
       {
         "rank": 10,
@@ -1125,7 +1234,8 @@
         "aliases": [
           "31",
           "Haute Garonne"
-        ]
+        ],
+        "hint": "Un département d'Occitanie"
       }
     ]
   },
@@ -1148,61 +1258,71 @@
         "rank": 1,
         "name": "Gabriel",
         "value": 4625,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom d'archange"
       },
       {
         "rank": 2,
         "name": "Noah",
         "value": 3465,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom biblique court"
       },
       {
         "rank": 3,
         "name": "Léo",
         "value": 3420,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom très court d'origine latine"
       },
       {
         "rank": 4,
         "name": "Raphaël",
         "value": 3285,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un autre prénom d'archange"
       },
       {
         "rank": 5,
         "name": "Louis",
         "value": 3260,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom de rois de France"
       },
       {
         "rank": 6,
         "name": "Jules",
         "value": 3040,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom d'empereur romain"
       },
       {
         "rank": 7,
         "name": "Arthur",
         "value": 2875,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom de roi légendaire"
       },
       {
         "rank": 8,
         "name": "Léon",
         "value": 2835,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom de papes"
       },
       {
         "rank": 9,
         "name": "Adam",
         "value": 2810,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom biblique très ancien"
       },
       {
         "rank": 10,
         "name": "Maël",
         "value": 2700,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom d'origine bretonne"
       }
     ]
   },
@@ -1225,61 +1345,71 @@
         "rank": 1,
         "name": "Louise",
         "value": 3070,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom féminin dérivé d'un prénom royal"
       },
       {
         "rank": 2,
         "name": "Jade",
         "value": 2925,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom emprunté au monde minéral"
       },
       {
         "rank": 3,
         "name": "Ambre",
         "value": 2805,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom de couleur chaude"
       },
       {
         "rank": 4,
         "name": "Alma",
         "value": 2500,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom court d'origine latine"
       },
       {
         "rank": 5,
         "name": "Alba",
         "value": 2360,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom court du sud de l'Europe"
       },
       {
         "rank": 6,
         "name": "Rose",
         "value": 2320,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom emprunté à la nature"
       },
       {
         "rank": 7,
         "name": "Emma",
         "value": 2310,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom court d'origine germanique"
       },
       {
         "rank": 8,
         "name": "Romy",
         "value": 2245,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom court à consonance rétro"
       },
       {
         "rank": 9,
         "name": "Adèle",
         "value": 2225,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom rétro d'origine germanique"
       },
       {
         "rank": 10,
         "name": "Alice",
         "value": 2130,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un prénom d'héroïne de conte"
       }
     ]
   },
@@ -1304,7 +1434,8 @@
         "value": 3.07,
         "aliases": [
           "FB"
-        ]
+        ],
+        "hint": "Un réseau social historique"
       },
       {
         "rank": 2,
@@ -1313,7 +1444,8 @@
         "aliases": [
           "Insta",
           "IG"
-        ]
+        ],
+        "hint": "Une app de photos"
       },
       {
         "rank": 2,
@@ -1322,7 +1454,8 @@
         "aliases": [
           "Whatsapp",
           "WA"
-        ]
+        ],
+        "hint": "Une messagerie instantanée"
       },
       {
         "rank": 4,
@@ -1331,7 +1464,8 @@
         "aliases": [
           "Youtube",
           "YT"
-        ]
+        ],
+        "hint": "Une plateforme de vidéos"
       },
       {
         "rank": 5,
@@ -1340,7 +1474,8 @@
         "aliases": [
           "Tiktok",
           "Tik Tok"
-        ]
+        ],
+        "hint": "Une app de vidéos courtes"
       },
       {
         "rank": 6,
@@ -1349,7 +1484,8 @@
         "aliases": [
           "Weixin",
           "Wechat"
-        ]
+        ],
+        "hint": "Une super-app chinoise"
       },
       {
         "rank": 7,
@@ -1357,13 +1493,15 @@
         "value": 1.01,
         "aliases": [
           "Facebook Messenger"
-        ]
+        ],
+        "hint": "Une messagerie liée à un réseau social"
       },
       {
         "rank": 8,
         "name": "Telegram",
         "value": 1,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une messagerie d'origine russe"
       },
       {
         "rank": 9,
@@ -1371,7 +1509,8 @@
         "value": 0.9,
         "aliases": [
           "Snap"
-        ]
+        ],
+        "hint": "Une app de messages éphémères"
       },
       {
         "rank": 10,
@@ -1379,7 +1518,8 @@
         "value": 0.77,
         "aliases": [
           "TikTok Chine"
-        ]
+        ],
+        "hint": "La version chinoise d'une app de vidéos courtes"
       }
     ]
   },
@@ -1404,7 +1544,8 @@
         "value": 86.6,
         "aliases": [
           "google.com"
-        ]
+        ],
+        "hint": "Un moteur de recherche"
       },
       {
         "rank": 2,
@@ -1413,7 +1554,8 @@
         "aliases": [
           "youtube.com",
           "Youtube"
-        ]
+        ],
+        "hint": "Une plateforme de vidéos"
       },
       {
         "rank": 3,
@@ -1421,7 +1563,8 @@
         "value": 11.5,
         "aliases": [
           "facebook.com"
-        ]
+        ],
+        "hint": "Un réseau social historique"
       },
       {
         "rank": 4,
@@ -1430,7 +1573,8 @@
         "aliases": [
           "instagram.com",
           "Insta"
-        ]
+        ],
+        "hint": "Un réseau de photos"
       },
       {
         "rank": 5,
@@ -1440,7 +1584,8 @@
           "chatgpt.com",
           "OpenAI",
           "Chat GPT"
-        ]
+        ],
+        "hint": "Un assistant IA"
       },
       {
         "rank": 6,
@@ -1450,7 +1595,8 @@
           "x.com",
           "Twitter",
           "twitter.com"
-        ]
+        ],
+        "hint": "Un réseau de messages courts"
       },
       {
         "rank": 7,
@@ -1458,7 +1604,8 @@
         "value": 4.2,
         "aliases": [
           "reddit.com"
-        ]
+        ],
+        "hint": "Un forum communautaire"
       },
       {
         "rank": 8,
@@ -1467,7 +1614,8 @@
         "aliases": [
           "bing.com",
           "Microsoft Bing"
-        ]
+        ],
+        "hint": "Un autre moteur de recherche"
       },
       {
         "rank": 8,
@@ -1476,7 +1624,8 @@
         "aliases": [
           "tiktok.com",
           "Tiktok"
-        ]
+        ],
+        "hint": "Une app de vidéos courtes"
       },
       {
         "rank": 10,
@@ -1485,7 +1634,8 @@
         "aliases": [
           "whatsapp.com",
           "Whatsapp"
-        ]
+        ],
+        "hint": "Une messagerie instantanée"
       }
     ]
   },
@@ -1511,7 +1661,8 @@
         "aliases": [
           "Chat GPT",
           "OpenAI"
-        ]
+        ],
+        "hint": "Un assistant IA"
       },
       {
         "rank": 2,
@@ -1520,7 +1671,8 @@
         "aliases": [
           "Tiktok",
           "Tik Tok"
-        ]
+        ],
+        "hint": "Une app de vidéos courtes"
       },
       {
         "rank": 3,
@@ -1529,7 +1681,8 @@
         "aliases": [
           "Insta",
           "IG"
-        ]
+        ],
+        "hint": "Une app de photos"
       },
       {
         "rank": 4,
@@ -1537,7 +1690,8 @@
         "value": 481,
         "aliases": [
           "FB"
-        ]
+        ],
+        "hint": "Un réseau social historique"
       },
       {
         "rank": 5,
@@ -1545,7 +1699,8 @@
         "value": 475,
         "aliases": [
           "Gemini"
-        ]
+        ],
+        "hint": "Un autre assistant IA"
       },
       {
         "rank": 6,
@@ -1553,13 +1708,15 @@
         "value": 463,
         "aliases": [
           "Whatsapp"
-        ]
+        ],
+        "hint": "Une messagerie instantanée"
       },
       {
         "rank": 7,
         "name": "Temu",
         "value": 438,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une app de shopping à bas prix"
       },
       {
         "rank": 8,
@@ -1567,7 +1724,8 @@
         "value": 383,
         "aliases": [
           "Capcut"
-        ]
+        ],
+        "hint": "Un éditeur vidéo mobile"
       },
       {
         "rank": 9,
@@ -1575,13 +1733,15 @@
         "value": 363,
         "aliases": [
           "Block Blast"
-        ]
+        ],
+        "hint": "Un jeu de puzzle mobile"
       },
       {
         "rank": 10,
         "name": "Telegram",
         "value": 332,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une messagerie d'origine russe"
       }
     ]
   },
@@ -1608,7 +1768,8 @@
           "USA",
           "Etats-Unis",
           "Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
@@ -1618,31 +1779,36 @@
           "Grande-Bretagne",
           "Angleterre",
           "UK"
-        ]
+        ],
+        "hint": "Une île d'Europe de l'Ouest"
       },
       {
         "rank": 3,
         "name": "Allemagne",
         "value": 116,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 4,
         "name": "France",
         "value": 78,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 5,
         "name": "Suède",
         "value": 34,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays scandinave"
       },
       {
         "rank": 6,
         "name": "Japon",
         "value": 33,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un archipel d'Asie de l'Est"
       },
       {
         "rank": 7,
@@ -1651,25 +1817,29 @@
         "aliases": [
           "URSS",
           "Union soviétique"
-        ]
+        ],
+        "hint": "Un pays à cheval sur deux continents"
       },
       {
         "rank": 8,
         "name": "Canada",
         "value": 29,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un autre pays d'Amérique du Nord"
       },
       {
         "rank": 9,
         "name": "Suisse",
         "value": 27,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays alpin"
       },
       {
         "rank": 10,
         "name": "Autriche",
         "value": 25,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un autre pays alpin"
       }
     ]
   },
@@ -1696,25 +1866,29 @@
           "USA",
           "Etats-Unis",
           "Amérique"
-        ]
+        ],
+        "hint": "Un pays d'Amérique du Nord"
       },
       {
         "rank": 2,
         "name": "France",
         "value": 22,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe de l'Ouest"
       },
       {
         "rank": 3,
         "name": "Italie",
         "value": 20.2,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe du Sud"
       },
       {
         "rank": 4,
         "name": "Allemagne",
         "value": 17.8,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Europe centrale"
       },
       {
         "rank": 5,
@@ -1724,37 +1898,43 @@
           "Grande-Bretagne",
           "Angleterre",
           "UK"
-        ]
+        ],
+        "hint": "Une île d'Europe de l'Ouest"
       },
       {
         "rank": 6,
         "name": "Espagne",
         "value": 9.4,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays de la péninsule Ibérique"
       },
       {
         "rank": 7,
         "name": "Russie",
         "value": 8,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays à cheval sur deux continents"
       },
       {
         "rank": 8,
         "name": "Argentine",
         "value": 7.5,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique du Sud"
       },
       {
         "rank": 9,
         "name": "Portugal",
         "value": 5.6,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un autre pays de la péninsule Ibérique"
       },
       {
         "rank": 10,
         "name": "Australie",
         "value": 5.3,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Océanie"
       }
     ]
   },
@@ -1777,7 +1957,8 @@
         "rank": 1,
         "name": "Brésil",
         "value": 63,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique du Sud"
       },
       {
         "rank": 2,
@@ -1786,19 +1967,22 @@
         "aliases": [
           "Viêt Nam",
           "Viet Nam"
-        ]
+        ],
+        "hint": "Un pays d'Asie du Sud-Est"
       },
       {
         "rank": 3,
         "name": "Colombie",
         "value": 12.5,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un autre pays d'Amérique du Sud"
       },
       {
         "rank": 4,
         "name": "Indonésie",
         "value": 12.4,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un archipel d'Asie du Sud-Est"
       },
       {
         "rank": 5,
@@ -1806,25 +1990,29 @@
         "value": 11.6,
         "aliases": [
           "Ethiopie"
-        ]
+        ],
+        "hint": "Un pays de la Corne de l'Afrique"
       },
       {
         "rank": 6,
         "name": "Ouganda",
         "value": 7.1,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Afrique de l'Est"
       },
       {
         "rank": 7,
         "name": "Inde",
         "value": 6.4,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Asie du Sud"
       },
       {
         "rank": 8,
         "name": "Honduras",
         "value": 5.5,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique centrale"
       },
       {
         "rank": 9,
@@ -1832,13 +2020,15 @@
         "value": 4.8,
         "aliases": [
           "Perou"
-        ]
+        ],
+        "hint": "Un pays andin"
       },
       {
         "rank": 10,
         "name": "Mexique",
         "value": 4.1,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un pays d'Amérique du Nord"
       }
     ]
   }

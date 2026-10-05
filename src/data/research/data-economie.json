@@ -20,13 +20,15 @@
         "value": 5649,
         "aliases": [
           "NVIDIA"
-        ]
+        ],
+        "hint": "Un fabricant de puces américain"
       },
       {
         "rank": 2,
         "name": "Apple",
         "value": 4869,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un géant américain de la tech grand public"
       },
       {
         "rank": 3,
@@ -34,19 +36,22 @@
         "value": 4162,
         "aliases": [
           "Google"
-        ]
+        ],
+        "hint": "Un géant américain de l'internet"
       },
       {
         "rank": 4,
         "name": "Microsoft",
         "value": 3842,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un éditeur de logiciels américain"
       },
       {
         "rank": 5,
         "name": "Amazon",
         "value": 2712,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un géant américain du e-commerce"
       },
       {
         "rank": 6,
@@ -55,7 +60,8 @@
         "aliases": [
           "Taiwan Semiconductor",
           "Taiwan Semiconductor Manufacturing Company"
-        ]
+        ],
+        "hint": "Un fondeur de puces asiatique"
       },
       {
         "rank": 7,
@@ -63,7 +69,8 @@
         "value": 2094,
         "aliases": [
           "Space X"
-        ]
+        ],
+        "hint": "Une entreprise spatiale non cotée"
       },
       {
         "rank": 8,
@@ -72,13 +79,15 @@
         "aliases": [
           "Facebook",
           "Meta Platforms"
-        ]
+        ],
+        "hint": "Un groupe américain des réseaux sociaux"
       },
       {
         "rank": 9,
         "name": "Broadcom",
         "value": 1695,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un groupe américain de semi-conducteurs"
       },
       {
         "rank": 10,
@@ -86,7 +95,8 @@
         "value": 1639,
         "aliases": [
           "Aramco"
-        ]
+        ],
+        "hint": "Un groupe pétrolier du Golfe"
       }
     ]
   },
@@ -111,7 +121,8 @@
         "value": 716.92,
         "aliases": [
           "Amazon.com"
-        ]
+        ],
+        "hint": "Un géant américain du e-commerce"
       },
       {
         "rank": 2,
@@ -119,7 +130,8 @@
         "value": 713.16,
         "aliases": [
           "Wal-Mart"
-        ]
+        ],
+        "hint": "Un distributeur américain"
       },
       {
         "rank": 3,
@@ -128,7 +140,8 @@
         "aliases": [
           "State Grid Corporation of China",
           "State Grid of China"
-        ]
+        ],
+        "hint": "Un électricien public asiatique"
       },
       {
         "rank": 4,
@@ -137,7 +150,8 @@
         "aliases": [
           "UnitedHealth",
           "United Health"
-        ]
+        ],
+        "hint": "Un assureur santé américain"
       },
       {
         "rank": 5,
@@ -145,19 +159,22 @@
         "value": 445.53,
         "aliases": [
           "Aramco"
-        ]
+        ],
+        "hint": "Un groupe pétrolier du Golfe"
       },
       {
         "rank": 6,
         "name": "Apple",
         "value": 416.16,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un géant américain de la tech"
       },
       {
         "rank": 7,
         "name": "McKesson",
         "value": 403.43,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un distributeur pharmaceutique américain"
       },
       {
         "rank": 8,
@@ -165,7 +182,8 @@
         "value": 402.84,
         "aliases": [
           "Google"
-        ]
+        ],
+        "hint": "Un géant américain de l'internet"
       },
       {
         "rank": 9,
@@ -173,7 +191,8 @@
         "value": 402.07,
         "aliases": [
           "CVS"
-        ]
+        ],
+        "hint": "Un groupe américain de la santé"
       },
       {
         "rank": 10,
@@ -182,7 +201,8 @@
         "aliases": [
           "CNPC",
           "PetroChina"
-        ]
+        ],
+        "hint": "Un groupe pétrolier public asiatique"
       }
     ]
   },
@@ -207,7 +227,8 @@
         "value": 182.34,
         "aliases": [
           "Total"
-        ]
+        ],
+        "hint": "Un groupe pétrolier"
       },
       {
         "rank": 2,
@@ -215,7 +236,8 @@
         "value": 141.64,
         "aliases": [
           "BNP"
-        ]
+        ],
+        "hint": "Une grande banque cotée"
       },
       {
         "rank": 3,
@@ -223,7 +245,8 @@
         "value": 127.75,
         "aliases": [
           "Électricité de France"
-        ]
+        ],
+        "hint": "Un électricien historique"
       },
       {
         "rank": 4,
@@ -231,7 +254,8 @@
         "value": 107.71,
         "aliases": [
           "AXA"
-        ]
+        ],
+        "hint": "Un assureur international"
       },
       {
         "rank": 5,
@@ -240,7 +264,8 @@
         "aliases": [
           "SocGen",
           "SG"
-        ]
+        ],
+        "hint": "Une banque de détail et d'investissement"
       },
       {
         "rank": 6,
@@ -248,7 +273,8 @@
         "value": 98.38,
         "aliases": [
           "Groupe Carrefour"
-        ]
+        ],
+        "hint": "Un distributeur alimentaire"
       },
       {
         "rank": 7,
@@ -259,13 +285,15 @@
           "Dior",
           "Louis Vuitton",
           "Moët Hennessy Louis Vuitton"
-        ]
+        ],
+        "hint": "Une holding du luxe"
       },
       {
         "rank": 8,
         "name": "Vinci",
         "value": 85.39,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un groupe de BTP et de concessions"
       },
       {
         "rank": 9,
@@ -274,7 +302,8 @@
         "aliases": [
           "Crédit Agricole SA",
           "CASA"
-        ]
+        ],
+        "hint": "Une banque mutualiste"
       },
       {
         "rank": 10,
@@ -282,7 +311,8 @@
         "value": 81.15,
         "aliases": [
           "GDF Suez"
-        ]
+        ],
+        "hint": "Un énergéticien gazier"
       }
     ]
   },
@@ -307,7 +337,8 @@
         "value": 839,
         "aliases": [
           "Musk"
-        ]
+        ],
+        "hint": "Un industriel de la tech et de l'espace"
       },
       {
         "rank": 2,
@@ -315,7 +346,8 @@
         "value": 257,
         "aliases": [
           "Page"
-        ]
+        ],
+        "hint": "Un cofondateur d'un géant de la recherche en ligne"
       },
       {
         "rank": 3,
@@ -323,7 +355,8 @@
         "value": 237,
         "aliases": [
           "Brin"
-        ]
+        ],
+        "hint": "Un cofondateur d'un géant de l'internet"
       },
       {
         "rank": 4,
@@ -331,7 +364,8 @@
         "value": 224,
         "aliases": [
           "Bezos"
-        ]
+        ],
+        "hint": "Un fondateur du e-commerce"
       },
       {
         "rank": 5,
@@ -339,7 +373,8 @@
         "value": 222,
         "aliases": [
           "Zuckerberg"
-        ]
+        ],
+        "hint": "Un fondateur des réseaux sociaux"
       },
       {
         "rank": 6,
@@ -347,7 +382,8 @@
         "value": 190,
         "aliases": [
           "Ellison"
-        ]
+        ],
+        "hint": "Un fondateur du logiciel d'entreprise"
       },
       {
         "rank": 7,
@@ -356,7 +392,8 @@
         "aliases": [
           "Arnault",
           "famille Arnault"
-        ]
+        ],
+        "hint": "Un magnat européen du luxe"
       },
       {
         "rank": 8,
@@ -364,7 +401,8 @@
         "value": 154,
         "aliases": [
           "Huang"
-        ]
+        ],
+        "hint": "Un patron des semi-conducteurs"
       },
       {
         "rank": 9,
@@ -372,7 +410,8 @@
         "value": 149,
         "aliases": [
           "Buffett"
-        ]
+        ],
+        "hint": "Un investisseur nonagénaire"
       },
       {
         "rank": 10,
@@ -380,7 +419,8 @@
         "value": 148,
         "aliases": [
           "Ortega"
-        ]
+        ],
+        "hint": "Un fondateur européen de la mode"
       }
     ]
   },
@@ -407,7 +447,8 @@
           "Arnault",
           "famille Arnault",
           "Bernard Arnault et sa famille"
-        ]
+        ],
+        "hint": "Un magnat du luxe"
       },
       {
         "rank": 2,
@@ -419,7 +460,8 @@
           "Dumas",
           "Puech",
           "Guerrand"
-        ]
+        ],
+        "hint": "Une famille du luxe"
       },
       {
         "rank": 3,
@@ -430,7 +472,8 @@
           "famille Wertheimer",
           "frères Wertheimer",
           "Chanel"
-        ]
+        ],
+        "hint": "Des frères héritiers d'une maison de mode"
       },
       {
         "rank": 4,
@@ -440,7 +483,8 @@
           "Bettencourt Meyers",
           "Bettencourt",
           "famille Bettencourt Meyers"
-        ]
+        ],
+        "hint": "Une héritière des cosmétiques"
       },
       {
         "rank": 5,
@@ -449,7 +493,8 @@
         "aliases": [
           "Saadé",
           "famille Saadé"
-        ]
+        ],
+        "hint": "Un patron du transport maritime"
       },
       {
         "rank": 6,
@@ -457,7 +502,8 @@
         "value": 30.1,
         "aliases": [
           "Niel"
-        ]
+        ],
+        "hint": "Un fondateur des télécoms"
       },
       {
         "rank": 7,
@@ -467,7 +513,8 @@
           "Dassault",
           "Laurent Dassault",
           "Marie-Hélène Habert-Dassault"
-        ]
+        ],
+        "hint": "Une famille de l'aéronautique"
       },
       {
         "rank": 8,
@@ -476,7 +523,8 @@
         "aliases": [
           "Mulliez",
           "famille Mulliez"
-        ]
+        ],
+        "hint": "Un fondateur de la grande distribution"
       },
       {
         "rank": 9,
@@ -485,7 +533,8 @@
         "aliases": [
           "Pinault",
           "famille Pinault"
-        ]
+        ],
+        "hint": "Un fondateur d'un groupe de luxe"
       },
       {
         "rank": 10,
@@ -494,7 +543,8 @@
         "aliases": [
           "Besnier",
           "famille Besnier"
-        ]
+        ],
+        "hint": "Un industriel du lait"
       }
     ]
   },
@@ -517,19 +567,22 @@
         "rank": 1,
         "name": "Apple",
         "value": 470.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque de tech grand public"
       },
       {
         "rank": 2,
         "name": "Microsoft",
         "value": 388.5,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un éditeur de logiciels"
       },
       {
         "rank": 3,
         "name": "Amazon",
         "value": 319.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque de commerce en ligne"
       },
       {
         "rank": 4,
@@ -537,7 +590,8 @@
         "value": 317.1,
         "aliases": [
           "Alphabet"
-        ]
+        ],
+        "hint": "Un moteur de recherche"
       },
       {
         "rank": 5,
@@ -545,13 +599,15 @@
         "value": 90.5,
         "aliases": [
           "Samsung Electronics"
-        ]
+        ],
+        "hint": "Un conglomérat électronique asiatique"
       },
       {
         "rank": 6,
         "name": "Toyota",
         "value": 74.2,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un constructeur auto asiatique"
       },
       {
         "rank": 7,
@@ -560,7 +616,8 @@
         "aliases": [
           "Coca Cola",
           "Coke"
-        ]
+        ],
+        "hint": "Une marque de boissons"
       },
       {
         "rank": 8,
@@ -568,7 +625,8 @@
         "value": 57.3,
         "aliases": [
           "Insta"
-        ]
+        ],
+        "hint": "Un réseau social"
       },
       {
         "rank": 9,
@@ -577,7 +635,8 @@
         "aliases": [
           "McDonalds",
           "McDo"
-        ]
+        ],
+        "hint": "Une chaîne de restauration rapide"
       },
       {
         "rank": 10,
@@ -585,7 +644,8 @@
         "value": 50.1,
         "aliases": [
           "Mercedes"
-        ]
+        ],
+        "hint": "Un constructeur auto allemand"
       }
     ]
   },
@@ -612,7 +672,8 @@
           "Groupe Toyota",
           "Toyota Motor",
           "Toyota Motor Corporation"
-        ]
+        ],
+        "hint": "Un groupe japonais"
       },
       {
         "rank": 2,
@@ -622,7 +683,8 @@
           "Groupe Volkswagen",
           "VW",
           "Volkswagen Group"
-        ]
+        ],
+        "hint": "Un groupe allemand"
       },
       {
         "rank": 3,
@@ -633,7 +695,8 @@
           "Kia",
           "Hyundai Motor Group",
           "Hyundai Kia"
-        ]
+        ],
+        "hint": "Un groupe coréen"
       },
       {
         "rank": 4,
@@ -641,7 +704,8 @@
         "value": 6.18,
         "aliases": [
           "GM"
-        ]
+        ],
+        "hint": "Un groupe américain aux nombreuses marques"
       },
       {
         "rank": 5,
@@ -652,7 +716,8 @@
           "Peugeot",
           "Fiat Chrysler",
           "FCA"
-        ]
+        ],
+        "hint": "Un groupe transatlantique multimarques"
       },
       {
         "rank": 6,
@@ -660,7 +725,8 @@
         "value": 4.6,
         "aliases": [
           "Build Your Dreams"
-        ]
+        ],
+        "hint": "Un constructeur chinois d'électriques"
       },
       {
         "rank": 7,
@@ -669,7 +735,8 @@
         "aliases": [
           "SAIC Motor",
           "MG"
-        ]
+        ],
+        "hint": "Un groupe public chinois"
       },
       {
         "rank": 8,
@@ -678,7 +745,8 @@
         "aliases": [
           "Ford Motor",
           "Ford Motor Company"
-        ]
+        ],
+        "hint": "Un constructeur américain centenaire"
       },
       {
         "rank": 9,
@@ -688,13 +756,15 @@
           "Groupe Geely",
           "Geely Holding",
           "Volvo"
-        ]
+        ],
+        "hint": "Un groupe privé chinois"
       },
       {
         "rank": 10,
         "name": "Honda",
         "value": 3.52,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un groupe japonais autos et motos"
       }
     ]
   },
@@ -717,19 +787,22 @@
         "rank": 1,
         "name": "Renault",
         "value": 285531,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque française"
       },
       {
         "rank": 2,
         "name": "Peugeot",
         "value": 221001,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque française d'un groupe multinational"
       },
       {
         "rank": 3,
         "name": "Dacia",
         "value": 139305,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque d'Europe de l'Est"
       },
       {
         "rank": 4,
@@ -737,7 +810,8 @@
         "value": 115576,
         "aliases": [
           "Citroen"
-        ]
+        ],
+        "hint": "Une marque française populaire"
       },
       {
         "rank": 5,
@@ -745,19 +819,22 @@
         "value": 110960,
         "aliases": [
           "VW"
-        ]
+        ],
+        "hint": "Une marque allemande généraliste"
       },
       {
         "rank": 6,
         "name": "Toyota",
         "value": 110071,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque japonaise"
       },
       {
         "rank": 7,
         "name": "BMW",
         "value": 60904,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque allemande premium"
       },
       {
         "rank": 8,
@@ -765,19 +842,22 @@
         "value": 50660,
         "aliases": [
           "Skoda"
-        ]
+        ],
+        "hint": "Une marque d'Europe centrale"
       },
       {
         "rank": 9,
         "name": "Audi",
         "value": 48756,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque allemande premium d'un grand groupe"
       },
       {
         "rank": 10,
         "name": "Hyundai",
         "value": 45621,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque coréenne"
       }
     ]
   },
@@ -802,7 +882,8 @@
         "value": 100101,
         "aliases": [
           "Clio"
-        ]
+        ],
+        "hint": "Une citadine française née dans les années 90"
       },
       {
         "rank": 2,
@@ -810,7 +891,8 @@
         "value": 73092,
         "aliases": [
           "208"
-        ]
+        ],
+        "hint": "Une citadine française lancée dans les années 2010"
       },
       {
         "rank": 3,
@@ -818,7 +900,8 @@
         "value": 64399,
         "aliases": [
           "Sandero"
-        ]
+        ],
+        "hint": "Une citadine à bas prix"
       },
       {
         "rank": 4,
@@ -826,7 +909,8 @@
         "value": 54634,
         "aliases": [
           "2008"
-        ]
+        ],
+        "hint": "Un SUV urbain français"
       },
       {
         "rank": 5,
@@ -835,7 +919,8 @@
         "aliases": [
           "C3",
           "Citroen C3"
-        ]
+        ],
+        "hint": "Une citadine française lancée dans les années 2000"
       },
       {
         "rank": 6,
@@ -843,7 +928,8 @@
         "value": 38603,
         "aliases": [
           "3008"
-        ]
+        ],
+        "hint": "Un SUV compact français"
       },
       {
         "rank": 7,
@@ -853,7 +939,8 @@
           "Renault 5",
           "R5",
           "R5 E-Tech"
-        ]
+        ],
+        "hint": "Une citadine électrique française"
       },
       {
         "rank": 8,
@@ -861,7 +948,8 @@
         "value": 36912,
         "aliases": [
           "Captur"
-        ]
+        ],
+        "hint": "Un petit SUV français"
       },
       {
         "rank": 9,
@@ -869,7 +957,8 @@
         "value": 36687,
         "aliases": [
           "Duster"
-        ]
+        ],
+        "hint": "Un SUV à bas prix"
       },
       {
         "rank": 10,
@@ -877,7 +966,8 @@
         "value": 33437,
         "aliases": [
           "Yaris"
-        ]
+        ],
+        "hint": "Une citadine japonaise"
       }
     ]
   },
@@ -902,7 +992,8 @@
         "value": 100,
         "aliases": [
           "Harvard"
-        ]
+        ],
+        "hint": "Une université privée de Nouvelle-Angleterre"
       },
       {
         "rank": 2,
@@ -910,7 +1001,8 @@
         "value": 80.2,
         "aliases": [
           "Stanford"
-        ]
+        ],
+        "hint": "Une université privée de la côte Ouest"
       },
       {
         "rank": 3,
@@ -918,7 +1010,8 @@
         "value": 74.1,
         "aliases": [
           "MIT"
-        ]
+        ],
+        "hint": "Un institut technologique de la côte Est"
       },
       {
         "rank": 4,
@@ -926,7 +1019,8 @@
         "value": 70.5,
         "aliases": [
           "Cambridge"
-        ]
+        ],
+        "hint": "Une université britannique"
       },
       {
         "rank": 5,
@@ -935,7 +1029,8 @@
         "aliases": [
           "Berkeley",
           "UC Berkeley"
-        ]
+        ],
+        "hint": "Une université publique de la côte Ouest"
       },
       {
         "rank": 6,
@@ -943,7 +1038,8 @@
         "value": 63.1,
         "aliases": [
           "Princeton"
-        ]
+        ],
+        "hint": "Une université privée de la côte Est"
       },
       {
         "rank": 7,
@@ -951,7 +1047,8 @@
         "value": 62.1,
         "aliases": [
           "Oxford"
-        ]
+        ],
+        "hint": "Une université anglaise"
       },
       {
         "rank": 8,
@@ -959,7 +1056,8 @@
         "value": 58,
         "aliases": [
           "Columbia"
-        ]
+        ],
+        "hint": "Une université d'une métropole de la côte Est"
       },
       {
         "rank": 9,
@@ -968,7 +1066,8 @@
         "aliases": [
           "Chicago",
           "UChicago"
-        ]
+        ],
+        "hint": "Une université privée du Midwest"
       },
       {
         "rank": 10,
@@ -976,7 +1075,8 @@
         "value": 56.8,
         "aliases": [
           "Caltech"
-        ]
+        ],
+        "hint": "Un institut technologique de la côte Ouest"
       }
     ]
   },
@@ -1002,7 +1102,8 @@
         "aliases": [
           "Ronaldo",
           "CR7"
-        ]
+        ],
+        "hint": "Un footballeur du sud de l'Europe"
       },
       {
         "rank": 2,
@@ -1013,7 +1114,8 @@
           "Álvarez",
           "Saul Alvarez",
           "Saúl Álvarez"
-        ]
+        ],
+        "hint": "Un boxeur latino-américain"
       },
       {
         "rank": 3,
@@ -1021,7 +1123,8 @@
         "value": 140,
         "aliases": [
           "Messi"
-        ]
+        ],
+        "hint": "Un footballeur sud-américain"
       },
       {
         "rank": 4,
@@ -1030,7 +1133,8 @@
         "aliases": [
           "LeBron",
           "James"
-        ]
+        ],
+        "hint": "Un basketteur américain vétéran"
       },
       {
         "rank": 5,
@@ -1038,7 +1142,8 @@
         "value": 128,
         "aliases": [
           "Ohtani"
-        ]
+        ],
+        "hint": "Un joueur de baseball asiatique"
       },
       {
         "rank": 6,
@@ -1047,7 +1152,8 @@
         "aliases": [
           "Curry",
           "Steph Curry"
-        ]
+        ],
+        "hint": "Un meneur de basket américain"
       },
       {
         "rank": 7,
@@ -1055,7 +1161,8 @@
         "value": 107,
         "aliases": [
           "Rahm"
-        ]
+        ],
+        "hint": "Un golfeur européen"
       },
       {
         "rank": 8,
@@ -1063,7 +1170,8 @@
         "value": 104,
         "aliases": [
           "Benzema"
-        ]
+        ],
+        "hint": "Un footballeur d'Europe de l'Ouest"
       },
       {
         "rank": 8,
@@ -1072,7 +1180,8 @@
         "aliases": [
           "Durant",
           "KD"
-        ]
+        ],
+        "hint": "Un ailier de basket américain"
       },
       {
         "rank": 10,
@@ -1080,7 +1189,8 @@
         "value": 100,
         "aliases": [
           "Hamilton"
-        ]
+        ],
+        "hint": "Un pilote automobile européen"
       }
     ]
   }

@@ -24,8 +24,11 @@ export const CATEGORY_LABEL: Record<Category, string> = Object.fromEntries(
 export interface TopItem {
   rank: number;
   name: string;
-  value: number;
+  /** null pour un classement sans chiffre publié (ordre seulement). */
+  value: number | null;
   aliases?: string[];
+  /** Indice très vague affiché à la demande. */
+  hint?: string;
   note?: string;
   /** Autres noms à égalité (même valeur) non listés : acceptés comme bonnes réponses. */
   ties?: string[];

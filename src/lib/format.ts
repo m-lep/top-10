@@ -1,6 +1,7 @@
 const cache = new Map<number, Intl.NumberFormat>();
 
-export function formatValue(value: number, precision: number): string {
+export function formatValue(value: number | null, precision: number): string {
+  if (value === null) return "";
   let nf = cache.get(precision);
   if (!nf) {
     nf = new Intl.NumberFormat("fr-FR", {

@@ -1,52 +1,48 @@
 @import "tailwindcss";
 
 :root {
-  --paper: #f5f3ec;
-  --paper-2: #ece9df;
-  --ink: #15140f;
-  --ink-2: #3b3a33;
-  --muted: #7a776c;
-  --line: #d9d4c5;
-  --line-2: #c7c1ae;
-  --accent: #c8401c;
-  --accent-ink: #9f3015;
-  --ok: #1f6b3a;
+  --bg: #f4f4f5;
+  --card: #ffffff;
+  --ink: #09090b;
+  --ink-2: #3f3f46;
+  --muted: #71717a;
+  --line: #e4e4e7;
+  --line-2: #d4d4d8;
+  --ok: #16a34a;
+  --bad: #dc2626;
   color-scheme: light;
 }
 
 @theme inline {
-  --color-paper: var(--paper);
-  --color-paper-2: var(--paper-2);
+  --color-bg: var(--bg);
+  --color-card: var(--card);
   --color-ink: var(--ink);
   --color-ink-2: var(--ink-2);
   --color-muted: var(--muted);
   --color-line: var(--line);
   --color-line-2: var(--line-2);
-  --color-accent: var(--accent);
-  --color-accent-ink: var(--accent-ink);
   --color-ok: var(--ok);
+  --color-bad: var(--bad);
   --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
   --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", Menlo, monospace;
-  --font-serif: var(--font-instrument), "Iowan Old Style", Georgia, serif;
 }
 
 html {
-  background: var(--paper);
+  background: var(--bg);
   -webkit-text-size-adjust: 100%;
 }
 
 body {
-  background: var(--paper);
+  background: var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
-  font-feature-settings: "ss01", "cv11";
   -webkit-font-smoothing: antialiased;
 }
 
-.serif {
-  font-family: var(--font-serif);
-  font-weight: 400;
-  letter-spacing: -0.01em;
+.display {
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 1;
 }
 
 .num {
@@ -57,14 +53,9 @@ body {
 
 /* Hidden answer placeholder */
 .slot {
-  background-image: repeating-linear-gradient(
-    to right,
-    var(--line-2) 0 6px,
-    transparent 6px 11px
-  );
-  background-size: 100% 1px;
-  background-repeat: no-repeat;
-  background-position: 0 100%;
+  height: 10px;
+  border-radius: 999px;
+  background: var(--line);
 }
 
 @keyframes shake {
@@ -79,10 +70,10 @@ body {
   from { opacity: 0; transform: translateY(4px); }
   to { opacity: 1; transform: none; }
 }
-.reveal { animation: reveal 0.35s ease-out both; }
+.reveal { animation: reveal 0.3s ease-out both; }
 
 @keyframes flash {
-  0% { background-color: color-mix(in srgb, var(--accent) 14%, transparent); }
+  0% { background-color: color-mix(in srgb, var(--ok) 12%, transparent); }
   100% { background-color: transparent; }
 }
 .flash { animation: flash 1.2s ease-out both; }

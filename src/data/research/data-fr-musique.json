@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "titres-plus-ecoutes-france-2025",
+    "title": "Les titres les plus écoutés en France en 2025",
+    "measure": "Streams en France (audio + vidéo) en 2025",
+    "category": "culture",
+    "unit": "M de streams",
+    "precision": 1,
+    "year": "2025",
+    "source": {
+      "name": "SNEP, top singles 2025 (via Purecharts / Charts in France, 30 déc. 2025)",
+      "url": "https://www.chartsinfrance.net/actualite/news-134827.html"
+    },
+    "confidence": "high",
+    "notes": "Classement officiel SNEP des titres les plus streamés en France sur l'année 2025, publié fin décembre 2025. Un même artiste occupe tout le podium.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Ciel",
+        "value": 159.1,
+        "aliases": [
+          "Gims"
+        ],
+        "hint": "Un single d'un artiste très présent dans ce top"
+      },
+      {
+        "rank": 2,
+        "name": "Ninao",
+        "value": 133.7,
+        "aliases": [
+          "Gims"
+        ],
+        "hint": "Un titre au nom mystérieux du même artiste"
+      },
+      {
+        "rank": 3,
+        "name": "Parisienne",
+        "value": 109,
+        "aliases": [
+          "Gims",
+          "La Mano 1.9",
+          "Gims feat. La Mano 1.9"
+        ],
+        "hint": "Un duo avec un jeune rappeur"
+      },
+      {
+        "rank": 4,
+        "name": "Feel Good",
+        "value": 105.9,
+        "aliases": [
+          "Charlotte Cardin"
+        ],
+        "hint": "Une chanteuse québécoise"
+      },
+      {
+        "rank": 5,
+        "name": "Soleil Bleu",
+        "value": 105.1,
+        "aliases": [
+          "Bleu Soleil",
+          "Luiza",
+          "Bleu Soleil & Luiza"
+        ],
+        "hint": "Un duo variété révélé sur les réseaux"
+      },
+      {
+        "rank": 6,
+        "name": "Sois pas timide",
+        "value": 103.6,
+        "aliases": [
+          "Gims"
+        ],
+        "hint": "Un titre qui encourage à oser"
+      },
+      {
+        "rank": 7,
+        "name": "Mood",
+        "value": 97.9,
+        "aliases": [
+          "Keblack",
+          "KeBlack"
+        ],
+        "hint": "Un chanteur afro-pop d'Île-de-France"
+      },
+      {
+        "rank": 8,
+        "name": "APT.",
+        "value": 96.5,
+        "aliases": [
+          "APT",
+          "Rosé",
+          "Bruno Mars",
+          "Rosé & Bruno Mars"
+        ],
+        "hint": "Un duo K-pop et pop américaine"
+      },
+      {
+        "rank": 9,
+        "name": "Cartier Santos",
+        "value": 95.5,
+        "aliases": [
+          "SDM"
+        ],
+        "hint": "Un rappeur des Hauts-de-Seine"
+      },
+      {
+        "rank": 10,
+        "name": "KYKY2BONDY",
+        "value": 95.3,
+        "aliases": [
+          "Kyky2bondy",
+          "Hamza"
+        ],
+        "hint": "Un rappeur belge au titre codé"
+      }
+    ]
+  },
+  {
+    "id": "albums-plus-vendus-france-2025",
+    "title": "Les albums les plus vendus en France en 2025",
+    "measure": "Équivalents-ventes en France en 2025 (physique + téléchargement + streaming)",
+    "category": "culture",
+    "unit": "équivalents-ventes",
+    "precision": 0,
+    "year": "2025",
+    "source": {
+      "name": "SNEP, top albums 2025 (via Purecharts / Charts in France, 29 déc. 2025)",
+      "url": "https://www.chartsinfrance.net/actualite/news-134789.html"
+    },
+    "confidence": "high",
+    "notes": "Classement officiel SNEP de l'année 2025 en équivalents-ventes (ventes physiques, téléchargements et streaming convertis). Le n°1 est une réédition. Chiffres arrondis à la centaine par la source.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Le Nord se souvient : l'Odyssée",
+        "value": 574700,
+        "aliases": [
+          "Le Nord se souvient",
+          "L'Odyssée",
+          "Gims"
+        ],
+        "hint": "La réédition d'un album très rentable"
+      },
+      {
+        "rank": 2,
+        "name": "D&P à vie",
+        "value": 329400,
+        "aliases": [
+          "D&P a vie",
+          "DP à vie",
+          "Jul"
+        ],
+        "hint": "Un rappeur du Sud"
+      },
+      {
+        "rank": 3,
+        "name": "Diamant noir",
+        "value": 259300,
+        "aliases": [
+          "Werenoi"
+        ],
+        "hint": "Un album sombre d'un rappeur disparu"
+      },
+      {
+        "rank": 4,
+        "name": "Mega BBL",
+        "value": 246200,
+        "aliases": [
+          "Theodora",
+          "Théodora"
+        ],
+        "hint": "La seule femme du classement"
+      },
+      {
+        "rank": 5,
+        "name": "Pyramide 2",
+        "value": 219500,
+        "aliases": [
+          "Pyramide",
+          "Werenoi"
+        ],
+        "hint": "La suite d'un album du même rappeur"
+      },
+      {
+        "rank": 6,
+        "name": "Focus",
+        "value": 207100,
+        "aliases": [
+          "Keblack",
+          "KeBlack"
+        ],
+        "hint": "Un album d'afro-pop"
+      },
+      {
+        "rank": 7,
+        "name": "Beyah",
+        "value": 197300,
+        "aliases": [
+          "BĒYĀH",
+          "Damso"
+        ],
+        "hint": "Un rappeur belge"
+      },
+      {
+        "rank": 8,
+        "name": "Nés pour briller",
+        "value": 193700,
+        "aliases": [
+          "Nes pour briller",
+          "L2B"
+        ],
+        "hint": "Un groupe révélation de rap"
+      },
+      {
+        "rank": 9,
+        "name": "BDLM Vol. 1",
+        "value": 182600,
+        "aliases": [
+          "BDLM",
+          "BDLM volume 1",
+          "Tiakola"
+        ],
+        "hint": "Un album de rap mélodique"
+      },
+      {
+        "rank": 10,
+        "name": "TP sur TP",
+        "value": 172500,
+        "aliases": [
+          "Jul"
+        ],
+        "hint": "Un album sorti en décembre"
+      }
+    ]
+  },
+  {
+    "id": "chansons-francophones-spotify-tous-temps",
+    "title": "Les chansons francophones les plus écoutées sur Spotify",
+    "measure": "Streams Spotify cumulés dans le monde (tous temps)",
+    "category": "culture",
+    "unit": "M de streams",
+    "precision": 1,
+    "year": "2026",
+    "source": {
+      "name": "Kworb (données Spotify), relevé du 5 octobre 2026",
+      "url": "https://kworb.net/spotify/songs.html"
+    },
+    "confidence": "high",
+    "notes": "Compteurs Spotify monde relevés le 5 octobre 2026 sur Kworb (page des titres les plus streamés et pages artistes). Ne sont retenus que les titres chantés en français par des artistes francophones : le remix techno allemand de « Vois sur ton chemin » (BENNETT, 722 M) et le duo bilingue « Fever » (Dua Lipa & Angèle, 473 M) sont écartés.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Je te laisserai des mots",
+        "value": 1442.8,
+        "aliases": [
+          "Patrick Watson"
+        ],
+        "hint": "Un pianiste québécois révélé par TikTok"
+      },
+      {
+        "rank": 2,
+        "name": "Alors on danse",
+        "value": 1030.3,
+        "aliases": [
+          "Stromae"
+        ],
+        "hint": "Un tube électro belge"
+      },
+      {
+        "rank": 3,
+        "name": "Dernière danse",
+        "value": 800,
+        "aliases": [
+          "Derniere danse",
+          "Indila"
+        ],
+        "hint": "Une chanteuse mystérieuse de la décennie passée"
+      },
+      {
+        "rank": 4,
+        "name": "Papaoutai",
+        "value": 714.7,
+        "aliases": [
+          "Stromae"
+        ],
+        "hint": "Un autre tube du même Belge"
+      },
+      {
+        "rank": 5,
+        "name": "Copines",
+        "value": 673.4,
+        "aliases": [
+          "Aya Nakamura"
+        ],
+        "hint": "Une chanteuse pop urbaine"
+      },
+      {
+        "rank": 6,
+        "name": "Est-ce que tu m'aimes ?",
+        "value": 596.9,
+        "aliases": [
+          "Est-ce que tu m'aimes",
+          "Gims",
+          "Maître Gims"
+        ],
+        "hint": "Une chanson d'amour d'un rappeur devenu pop"
+      },
+      {
+        "rank": 7,
+        "name": "Ma meilleure ennemie",
+        "value": 586.5,
+        "aliases": [
+          "Ma Meilleure Ennemie",
+          "Stromae",
+          "Pomme",
+          "Stromae & Pomme"
+        ],
+        "hint": "Un titre tiré d'une série animée"
+      },
+      {
+        "rank": 8,
+        "name": "Djadja",
+        "value": 581.2,
+        "aliases": [
+          "Aya Nakamura"
+        ],
+        "hint": "Un tube féminin d'été"
+      },
+      {
+        "rank": 9,
+        "name": "Love Story",
+        "value": 487.1,
+        "aliases": [
+          "Indila"
+        ],
+        "hint": "Une romance chantée par une voix mystérieuse"
+      },
+      {
+        "rank": 10,
+        "name": "Tous les mêmes",
+        "value": 411.2,
+        "aliases": [
+          "Tous les memes",
+          "Stromae"
+        ],
+        "hint": "Un Belge qui tacle la gent masculine"
+      }
+    ]
+  },
+  {
+    "id": "youtubeurs-francais-plus-suivis",
+    "title": "Les youtubeurs français les plus suivis",
+    "measure": "Abonnés YouTube",
+    "category": "france",
+    "unit": "M d'abonnés",
+    "precision": 1,
+    "year": "2026",
+    "source": {
+      "name": "Compteurs d'abonnés des chaînes YouTube, relevé du 5 octobre 2026",
+      "url": "https://www.youtube.com/@TiboInShape/about"
+    },
+    "confidence": "high",
+    "notes": "Compteurs affichés par YouTube le 5 octobre 2026 (arrondis par la plateforme). Seuls les youtubeurs sont retenus : les chaînes d'animation (Zig & Sharko, Oggy, Grizzy, Mayamystic), de musique (Lofi Girl) et d'artistes musicaux (Gims, Soolking, Aya Nakamura) sont écartées.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Tibo InShape",
+        "value": 26.9,
+        "aliases": [
+          "Tibo Inshape",
+          "Thibaud Delapart"
+        ],
+        "hint": "Un youtubeur sportif"
+      },
+      {
+        "rank": 2,
+        "name": "Squeezie",
+        "value": 20.2,
+        "aliases": [
+          "Lucas Hauchard"
+        ],
+        "hint": "Un vidéaste gaming et divertissement"
+      },
+      {
+        "rank": 3,
+        "name": "Cyprien",
+        "value": 14.5,
+        "aliases": [
+          "Cyprien Iov",
+          "Monsieur Dream"
+        ],
+        "hint": "Un humoriste pionnier de la plateforme"
+      },
+      {
+        "rank": 4,
+        "name": "Norman",
+        "value": 11.2,
+        "aliases": [
+          "Norman Thavaud",
+          "Norman fait des vidéos"
+        ],
+        "hint": "Un autre humoriste des débuts"
+      },
+      {
+        "rank": 5,
+        "name": "Michou",
+        "value": 11,
+        "aliases": [
+          "Miguel Mattioli"
+        ],
+        "hint": "Un jeune vidéaste gaming"
+      },
+      {
+        "rank": 5,
+        "name": "Furious Jumper",
+        "value": 11,
+        "aliases": [
+          "FuriousJumper"
+        ],
+        "hint": "Un youtubeur Minecraft"
+      },
+      {
+        "rank": 7,
+        "name": "Tuvok12",
+        "value": 10,
+        "aliases": [
+          "Tuvok"
+        ],
+        "hint": "Un vidéaste humour et défis"
+      },
+      {
+        "rank": 8,
+        "name": "Lama Fâché",
+        "value": 9.9,
+        "aliases": [
+          "Lama Fache",
+          "Lama Faché"
+        ],
+        "hint": "Une chaîne de faits insolites"
+      },
+      {
+        "rank": 9,
+        "name": "Amixem",
+        "value": 9.6,
+        "aliases": [
+          "Maxime Chabroud"
+        ],
+        "hint": "Un youtubeur divertissement et défis"
+      },
+      {
+        "rank": 10,
+        "name": "Inoxtag",
+        "value": 9.5,
+        "aliases": [
+          "Inox",
+          "Inès Benazzouz"
+        ],
+        "hint": "Un vidéaste aventurier"
+      }
+    ]
+  },
+  {
+    "id": "streamers-twitch-francais-plus-suivis",
+    "title": "Les streamers Twitch français les plus suivis",
+    "measure": "Followers Twitch",
+    "category": "france",
+    "unit": "M d'abonnés",
+    "precision": 2,
+    "year": "2026",
+    "source": {
+      "name": "TwitchTracker (relevé du 23 septembre 2026, via Gaming Campus)",
+      "url": "https://gamingcampus.fr/boite-a-outils/les-principaux-streamers-francais.html"
+    },
+    "confidence": "medium",
+    "notes": "Nombre de followers (gratuits) des chaînes francophones selon TwitchTracker au 23 septembre 2026. Un follower n'est pas un spectateur régulier : certaines chaînes du haut du classement diffusent peu. Kamet0 (2,13 M) et RebeuDeter (2,12 M) suivent juste derrière.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Squeezie",
+        "value": 5.88,
+        "aliases": [
+          "Lucas Hauchard",
+          "xSqueeZie"
+        ],
+        "hint": "Un youtubeur devenu streamer événementiel"
+      },
+      {
+        "rank": 2,
+        "name": "Gotaga",
+        "value": 4.67,
+        "aliases": [
+          "Corentin Houssein"
+        ],
+        "hint": "Un streamer esport historique"
+      },
+      {
+        "rank": 3,
+        "name": "Aminematue",
+        "value": 3.48,
+        "aliases": [
+          "Amine",
+          "AmineMaTue"
+        ],
+        "hint": "Un streamer humour et jeux vidéo"
+      },
+      {
+        "rank": 4,
+        "name": "Anyme023",
+        "value": 2.69,
+        "aliases": [
+          "Anyme"
+        ],
+        "hint": "Un streamer de jeux vidéo"
+      },
+      {
+        "rank": 5,
+        "name": "IkariuTV",
+        "value": 2.56,
+        "aliases": [
+          "Ikariu"
+        ],
+        "hint": "Un streamer Fortnite"
+      },
+      {
+        "rank": 6,
+        "name": "Locklear",
+        "value": 2.41,
+        "aliases": [
+          "Thomas Locklear"
+        ],
+        "hint": "Un streamer de la scène Fortnite"
+      },
+      {
+        "rank": 7,
+        "name": "Michou",
+        "value": 2.36,
+        "aliases": [
+          "Miguel Mattioli"
+        ],
+        "hint": "Un jeune youtubeur aussi présent en live"
+      },
+      {
+        "rank": 8,
+        "name": "SolaryFortnite",
+        "value": 2.21,
+        "aliases": [
+          "Solary",
+          "Solary Fortnite"
+        ],
+        "hint": "Une chaîne d'équipe esport"
+      },
+      {
+        "rank": 9,
+        "name": "Nasgulfn",
+        "value": 2.2,
+        "aliases": [
+          "Nasgul"
+        ],
+        "hint": "Un streamer de jeux de tir"
+      },
+      {
+        "rank": 10,
+        "name": "LeBouseuh",
+        "value": 2.14,
+        "aliases": [
+          "Le Bouseuh",
+          "Bouseuh"
+        ],
+        "hint": "Un streamer-youtubeur gaming"
+      }
+    ]
+  },
+  {
+    "id": "tiktokeurs-francais-plus-suivis",
+    "title": "Les créateurs français les plus suivis sur TikTok",
+    "measure": "Abonnés TikTok",
+    "category": "france",
+    "unit": "M d'abonnés",
+    "precision": 1,
+    "year": "2026",
+    "source": {
+      "name": "Compteurs d'abonnés des comptes TikTok, relevé du 5 octobre 2026",
+      "url": "https://www.tiktok.com/@nicocaponecomedy"
+    },
+    "confidence": "high",
+    "notes": "Compteurs affichés par TikTok le 5 octobre 2026. Seuls les créateurs français sont retenus : les comptes de marques et de clubs (PSG, 51 M) sont exclus, ainsi que le pianiste vietnamien installé en France Van Toan (19,1 M).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Nicocapone",
+        "value": 29.6,
+        "aliases": [
+          "Nicocapone Comedy",
+          "nicocaponecomedy",
+          "Nicolas Scuderi"
+        ],
+        "hint": "Un duo humour en couple"
+      },
+      {
+        "rank": 2,
+        "name": "Akamz",
+        "value": 24.6,
+        "aliases": [
+          "Akamztwenty20",
+          "Akams"
+        ],
+        "hint": "Un danseur énergique"
+      },
+      {
+        "rank": 3,
+        "name": "Latiktokeuse869",
+        "value": 24.3,
+        "aliases": [
+          "La Tiktokeuse 869",
+          "latiktokeuse"
+        ],
+        "hint": "Une créatrice lifestyle"
+      },
+      {
+        "rank": 4,
+        "name": "Tibo InShape",
+        "value": 19.2,
+        "aliases": [
+          "Tibo Inshape",
+          "Thibaud Delapart"
+        ],
+        "hint": "Un influenceur sportif"
+      },
+      {
+        "rank": 5,
+        "name": "Léa Elui",
+        "value": 18.1,
+        "aliases": [
+          "Lea Elui",
+          "leaelui"
+        ],
+        "hint": "Une danseuse révélée très jeune"
+      },
+      {
+        "rank": 6,
+        "name": "Tony Czech",
+        "value": 17.9,
+        "aliases": [
+          "tonyczh",
+          "Tonyczh"
+        ],
+        "hint": "Un créateur lip-sync parisien"
+      },
+      {
+        "rank": 7,
+        "name": "Déborah Yowa",
+        "value": 17.7,
+        "aliases": [
+          "Deborah Yowa",
+          "deborahyowa"
+        ],
+        "hint": "Une danseuse d'Île-de-France"
+      },
+      {
+        "rank": 8,
+        "name": "Berywam",
+        "value": 16.9,
+        "aliases": [
+          "Berywam Beatbox",
+          "berywambeatbox"
+        ],
+        "hint": "Un groupe de beatbox"
+      },
+      {
+        "rank": 9,
+        "name": "Mati Fa",
+        "value": 15.2,
+        "aliases": [
+          "Matifa",
+          "mati_fa",
+          "Baby Matifa",
+          "Mati Family"
+        ],
+        "hint": "Une famille et sa fillette comique"
+      },
+      {
+        "rank": 10,
+        "name": "Tuvok12",
+        "value": 14.8,
+        "aliases": [
+          "Tuvok"
+        ],
+        "hint": "Un humoriste et ses défis"
+      }
+    ]
+  },
+  {
+    "id": "francais-plus-suivis-instagram",
+    "title": "Les personnalités françaises les plus suivies sur Instagram",
+    "measure": "Abonnés Instagram",
+    "category": "france",
+    "unit": "M d'abonnés",
+    "precision": 0,
+    "year": "2026",
+    "source": {
+      "name": "Compteurs d'abonnés des comptes Instagram, relevé du 5 octobre 2026",
+      "url": "https://www.instagram.com/k.mbappe/"
+    },
+    "confidence": "high",
+    "notes": "Compteurs affichés par Instagram le 5 octobre 2026, arrondis au million par la plateforme. Personnalités uniquement : les comptes de clubs et de marques (PSG, Chanel) sont exclus. Deux joueurs sont à égalité.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Kylian Mbappé",
+        "value": 137,
+        "aliases": [
+          "Mbappé",
+          "Mbappe",
+          "Kylian Mbappe"
+        ],
+        "hint": "Un footballeur star"
+      },
+      {
+        "rank": 2,
+        "name": "Karim Benzema",
+        "value": 74,
+        "aliases": [
+          "Benzema",
+          "KB9"
+        ],
+        "hint": "Un attaquant parti au Golfe"
+      },
+      {
+        "rank": 3,
+        "name": "Paul Pogba",
+        "value": 63,
+        "aliases": [
+          "Pogba"
+        ],
+        "hint": "Un milieu champion du monde"
+      },
+      {
+        "rank": 4,
+        "name": "Zinédine Zidane",
+        "value": 44,
+        "aliases": [
+          "Zidane",
+          "Zinedine Zidane",
+          "Zizou"
+        ],
+        "hint": "Une légende devenue entraîneur"
+      },
+      {
+        "rank": 5,
+        "name": "Antoine Griezmann",
+        "value": 39,
+        "aliases": [
+          "Griezmann",
+          "Grizou"
+        ],
+        "hint": "Un attaquant champion du monde"
+      },
+      {
+        "rank": 6,
+        "name": "Ousmane Dembélé",
+        "value": 22,
+        "aliases": [
+          "Dembélé",
+          "Dembele",
+          "Ousmane Dembele"
+        ],
+        "hint": "Un ailier parisien"
+      },
+      {
+        "rank": 6,
+        "name": "Raphaël Varane",
+        "value": 22,
+        "aliases": [
+          "Varane",
+          "Raphael Varane"
+        ],
+        "hint": "Un défenseur retraité"
+      },
+      {
+        "rank": 8,
+        "name": "Tibo InShape",
+        "value": 17,
+        "aliases": [
+          "Tibo Inshape",
+          "Thibaud Delapart"
+        ],
+        "hint": "Un influenceur sportif"
+      },
+      {
+        "rank": 9,
+        "name": "N'Golo Kanté",
+        "value": 16,
+        "aliases": [
+          "Kanté",
+          "Kante",
+          "N'Golo Kante"
+        ],
+        "hint": "Un milieu discret"
+      },
+      {
+        "rank": 10,
+        "name": "Eduardo Camavinga",
+        "value": 15,
+        "aliases": [
+          "Camavinga"
+        ],
+        "hint": "Un jeune milieu"
+      }
+    ]
+  },
+  {
+    "id": "festivals-musique-plus-frequentes-france",
+    "title": "Les festivals de musique les plus fréquentés en France",
+    "measure": "Festivaliers cumulés sur la dernière édition (2026, ou 2025 si l'édition 2026 n'a pas eu lieu)",
+    "category": "france",
+    "unit": "festivaliers",
+    "precision": 0,
+    "year": "2026",
+    "source": {
+      "name": "Bilans des organisateurs relayés par la presse (ICI/France Bleu, franceinfo, RCF, Radio Metal, Hands Up Electro)",
+      "url": "https://www.ici.fr/infos/culture-loisirs/solidays-258-000-festivaliers-en-trois-jours-5165622"
+    },
+    "confidence": "medium",
+    "notes": "Fréquentation cumulée annoncée par les organisateurs pour la dernière édition : 2026 pour la plupart, 2025 pour Solidays (édition 2026 annulée à cause de la canicule) et Lollapalooza Paris (pause en 2026), 2025 aussi pour les Francofolies (chiffre habituel). Les durées diffèrent : 3 jours (Solidays, Lollapalooza, Main Square, Eurockéennes), 4 jours (Vieilles Charrues, Hellfest, Cabaret Vert), 5 jours (Rock en Seine, Beauregard, Francofolies). Les festivals gratuits ou urbains (Fête de l'Huma, Interceltique, Printemps de Bourges) ne sont pas comparés ici.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Vieilles Charrues",
+        "value": 280000,
+        "aliases": [
+          "Les Vieilles Charrues",
+          "Festival des Vieilles Charrues"
+        ],
+        "hint": "Un festival breton"
+      },
+      {
+        "rank": 1,
+        "name": "Hellfest",
+        "value": 280000,
+        "aliases": [
+          "Hellfest Open Air"
+        ],
+        "hint": "Un festival de métal"
+      },
+      {
+        "rank": 3,
+        "name": "Solidays",
+        "value": 258842,
+        "aliases": [
+          "Solidays Paris"
+        ],
+        "hint": "Un festival caritatif parisien"
+      },
+      {
+        "rank": 4,
+        "name": "Rock en Seine",
+        "value": 175000,
+        "aliases": [
+          "Rock-en-Seine"
+        ],
+        "hint": "Un rendez-vous de fin d'été près de la capitale"
+      },
+      {
+        "rank": 5,
+        "name": "Lollapalooza Paris",
+        "value": 160000,
+        "aliases": [
+          "Lollapalooza",
+          "Lolla Paris"
+        ],
+        "hint": "Une franchise américaine en Île-de-France"
+      },
+      {
+        "rank": 5,
+        "name": "Beauregard",
+        "value": 160000,
+        "aliases": [
+          "Festival Beauregard"
+        ],
+        "hint": "Un festival normand"
+      },
+      {
+        "rank": 7,
+        "name": "Francofolies de La Rochelle",
+        "value": 150000,
+        "aliases": [
+          "Francofolies",
+          "Les Francofolies",
+          "Francos"
+        ],
+        "hint": "Un festival de chanson francophone"
+      },
+      {
+        "rank": 8,
+        "name": "Main Square",
+        "value": 126000,
+        "aliases": [
+          "Main Square Festival",
+          "Main Square Arras"
+        ],
+        "hint": "Un festival dans une citadelle du Nord"
+      },
+      {
+        "rank": 9,
+        "name": "Eurockéennes de Belfort",
+        "value": 125000,
+        "aliases": [
+          "Eurockéennes",
+          "Eurocks",
+          "Les Eurockéennes"
+        ],
+        "hint": "Un festival de l'Est"
+      },
+      {
+        "rank": 10,
+        "name": "Cabaret Vert",
+        "value": 106000,
+        "aliases": [
+          "Le Cabaret Vert"
+        ],
+        "hint": "Un festival écoresponsable des Ardennes"
+      }
+    ]
+  },
+  {
+    "id": "artistes-francophones-spotify-tous-temps",
+    "title": "Les artistes francophones les plus écoutés sur Spotify",
+    "measure": "Streams Spotify cumulés dans le monde (tous temps, tous titres)",
+    "category": "culture",
+    "unit": "Md de streams",
+    "precision": 2,
+    "year": "2026",
+    "source": {
+      "name": "Kworb (données Spotify), pages artistes, relevé du 5 octobre 2026",
+      "url": "https://kworb.net/spotify/artists.html"
+    },
+    "confidence": "high",
+    "notes": "Total des streams Spotify monde de tous les titres de l'artiste, relevé le 5 octobre 2026 sur Kworb. Artistes chantant en français uniquement : les DJ français aux titres en anglais (David Guetta, DJ Snake, Daft Punk, Kungs) ne sont pas comptés.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Jul",
+        "value": 14.67,
+        "aliases": [
+          "JuL"
+        ],
+        "hint": "Un rappeur du Sud"
+      },
+      {
+        "rank": 2,
+        "name": "Ninho",
+        "value": 11.71,
+        "aliases": [
+          "William Nzobazola"
+        ],
+        "hint": "Un rappeur de banlieue parisienne"
+      },
+      {
+        "rank": 3,
+        "name": "Gims",
+        "value": 8.84,
+        "aliases": [
+          "GIMS",
+          "Maître Gims",
+          "Gandhi Djuna"
+        ],
+        "hint": "Un artiste passé du rap à la pop"
+      },
+      {
+        "rank": 4,
+        "name": "Damso",
+        "value": 6.76,
+        "aliases": [
+          "William Kalubi"
+        ],
+        "hint": "Un rappeur belge"
+      },
+      {
+        "rank": 5,
+        "name": "PNL",
+        "value": 5.78,
+        "aliases": [
+          "Peace N' Lovés",
+          "Ademo et N.O.S"
+        ],
+        "hint": "Un duo de rap mystérieux"
+      },
+      {
+        "rank": 6,
+        "name": "Stromae",
+        "value": 5.25,
+        "aliases": [
+          "Paul Van Haver"
+        ],
+        "hint": "Un chanteur électro belge"
+      },
+      {
+        "rank": 7,
+        "name": "Aya Nakamura",
+        "value": 5.13,
+        "aliases": [
+          "Aya Danioko"
+        ],
+        "hint": "Une chanteuse pop urbaine"
+      },
+      {
+        "rank": 8,
+        "name": "Niska",
+        "value": 4.96,
+        "aliases": [
+          "Stanislas Dinga Pinto"
+        ],
+        "hint": "Un rappeur de l'Essonne"
+      },
+      {
+        "rank": 9,
+        "name": "PLK",
+        "value": 4.75,
+        "aliases": [
+          "Mathieu Pruski"
+        ],
+        "hint": "Un rappeur passé par un collectif parisien"
+      },
+      {
+        "rank": 10,
+        "name": "Booba",
+        "value": 4.73,
+        "aliases": [
+          "B2O",
+          "Élie Yaffa"
+        ],
+        "hint": "Un vétéran du rap français"
+      }
+    ]
+  }
+]

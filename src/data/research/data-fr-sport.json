@@ -1,0 +1,931 @@
+[
+  {
+    "id": "ballon-dor-joueurs-les-plus-titres",
+    "title": "Les joueurs les plus titrés au Ballon d'Or",
+    "measure": "Nombre de Ballons d'or remportés",
+    "category": "sport",
+    "unit": "Ballons d'or",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Wikipédia – Ballon d'Or (palmarès par joueur)",
+      "url": "https://en.wikipedia.org/wiki/Ballon_d%27Or"
+    },
+    "confidence": "high",
+    "notes": "Palmarès arrêté à l'édition 2025 (Ousmane Dembélé). La cérémonie 2026 n'a lieu que le 26 octobre 2026 à Londres : elle n'est pas comptée. Beaucoup d'égalités : trois joueurs à 3 trophées, cinq joueurs à 2. Attention, deux « Ronaldo » figurent dans la liste : le Portugais (CR7) et le Brésilien (R9).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Lionel Messi",
+        "value": 8,
+        "aliases": [
+          "Messi",
+          "Leo Messi"
+        ],
+        "hint": "Un attaquant sud-américain encore en activité",
+        "ties": []
+      },
+      {
+        "rank": 2,
+        "name": "Cristiano Ronaldo",
+        "value": 5,
+        "aliases": [
+          "CR7",
+          "Cristiano",
+          "Ronaldo (Portugal)"
+        ],
+        "hint": "Un buteur passé par l'Angleterre et l'Espagne",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Johan Cruyff",
+        "value": 3,
+        "aliases": [
+          "Cruyff",
+          "Cruijff"
+        ],
+        "hint": "Un meneur de jeu des années 1970",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Michel Platini",
+        "value": 3,
+        "aliases": [
+          "Platini"
+        ],
+        "hint": "Un milieu des années 1980 devenu dirigeant",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Marco van Basten",
+        "value": 3,
+        "aliases": [
+          "Van Basten",
+          "Marco Van Basten"
+        ],
+        "hint": "Un avant-centre des années 1980",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Alfredo Di Stéfano",
+        "value": 2,
+        "aliases": [
+          "Di Stéfano",
+          "Di Stefano",
+          "Alfredo Di Stefano"
+        ],
+        "hint": "Une légende des années 1950 d'un club espagnol",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Franz Beckenbauer",
+        "value": 2,
+        "aliases": [
+          "Beckenbauer",
+          "Le Kaiser"
+        ],
+        "hint": "Un défenseur des années 1970",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Kevin Keegan",
+        "value": 2,
+        "aliases": [
+          "Keegan"
+        ],
+        "hint": "Un Anglais parti jouer en Allemagne",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Karl-Heinz Rummenigge",
+        "value": 2,
+        "aliases": [
+          "Rummenigge",
+          "Karl Heinz Rummenigge"
+        ],
+        "hint": "Un buteur du début des années 1980 devenu dirigeant",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Ronaldo Nazário",
+        "value": 2,
+        "aliases": [
+          "Ronaldo",
+          "R9",
+          "Ronaldo Nazario",
+          "Il Fenomeno",
+          "Ronaldo (Brésil)"
+        ],
+        "hint": "Un avant-centre sud-américain des années 2000",
+        "ties": []
+      }
+    ]
+  },
+  {
+    "id": "clubs-les-plus-titres-ligue-1",
+    "title": "Les clubs les plus titrés en Ligue 1",
+    "measure": "Titres de champion de France",
+    "category": "sport",
+    "unit": "titres",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Wikipédia – Liste des champions de France de football",
+      "url": "https://en.wikipedia.org/wiki/List_of_French_football_champions"
+    },
+    "confidence": "high",
+    "notes": "Palmarès arrêté à la saison 2025-26 (titre du PSG). Le titre 1993 de l'OM, retiré après l'affaire VA-OM, n'est pas compté (9 titres officiels). Lille et Nice sont à égalité en fin de liste ; aucun autre club n'est à ce niveau (Sochaux et Sète suivent avec 2).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Paris Saint-Germain",
+        "value": 14,
+        "aliases": [
+          "PSG",
+          "Paris",
+          "Paris SG",
+          "Paris Saint Germain"
+        ],
+        "hint": "Un club fondé seulement en 1970",
+        "ties": []
+      },
+      {
+        "rank": 2,
+        "name": "AS Saint-Étienne",
+        "value": 10,
+        "aliases": [
+          "Saint-Étienne",
+          "Saint-Etienne",
+          "ASSE",
+          "Sainté",
+          "Les Verts"
+        ],
+        "hint": "Un club roi des années 1960 et 1970",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Olympique de Marseille",
+        "value": 9,
+        "aliases": [
+          "OM",
+          "Marseille"
+        ],
+        "hint": "Un club du Sud",
+        "ties": []
+      },
+      {
+        "rank": 4,
+        "name": "AS Monaco",
+        "value": 8,
+        "aliases": [
+          "Monaco",
+          "ASM"
+        ],
+        "hint": "Un club de la Côte d'Azur",
+        "ties": []
+      },
+      {
+        "rank": 4,
+        "name": "FC Nantes",
+        "value": 8,
+        "aliases": [
+          "Nantes",
+          "FCN",
+          "Les Canaris"
+        ],
+        "hint": "Un club de l'Ouest",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Olympique Lyonnais",
+        "value": 7,
+        "aliases": [
+          "OL",
+          "Lyon"
+        ],
+        "hint": "Un club dominateur des années 2000",
+        "ties": []
+      },
+      {
+        "rank": 7,
+        "name": "Girondins de Bordeaux",
+        "value": 6,
+        "aliases": [
+          "Bordeaux",
+          "Girondins",
+          "FCGB"
+        ],
+        "hint": "Un club du Sud-Ouest tombé très bas récemment",
+        "ties": []
+      },
+      {
+        "rank": 7,
+        "name": "Stade de Reims",
+        "value": 6,
+        "aliases": [
+          "Reims"
+        ],
+        "hint": "Un club de l'Est, roi des années 1950",
+        "ties": []
+      },
+      {
+        "rank": 9,
+        "name": "LOSC Lille",
+        "value": 4,
+        "aliases": [
+          "Lille",
+          "LOSC"
+        ],
+        "hint": "Un club du Nord",
+        "ties": []
+      },
+      {
+        "rank": 9,
+        "name": "OGC Nice",
+        "value": 4,
+        "aliases": [
+          "Nice",
+          "OGCN",
+          "Les Aiglons"
+        ],
+        "hint": "Un club de la Côte d'Azur des années 1950",
+        "ties": []
+      }
+    ]
+  },
+  {
+    "id": "joueurs-les-plus-capes-equipe-de-france",
+    "title": "Les joueurs les plus capés de l'équipe de France",
+    "measure": "Sélections en équipe de France (hommes)",
+    "category": "sport",
+    "unit": "sélections",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Wikipédia – List of France international footballers",
+      "url": "https://en.wikipedia.org/wiki/List_of_France_international_footballers"
+    },
+    "confidence": "medium",
+    "notes": "Chiffres arrêtés au 26 septembre 2026 (après Turquie – France). Seul Kylian Mbappé est encore en activité : son total bouge à chaque rassemblement des Bleus (la fiche FFF affiche un chiffre légèrement différent). Giroud et Griezmann sont à égalité, tout comme Mbappé et Vieira.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Hugo Lloris",
+        "value": 145,
+        "aliases": [
+          "Lloris"
+        ],
+        "hint": "Un gardien de but",
+        "ties": []
+      },
+      {
+        "rank": 2,
+        "name": "Lilian Thuram",
+        "value": 142,
+        "aliases": [
+          "Thuram",
+          "Lilian Thuram"
+        ],
+        "hint": "Un défenseur champion du monde 1998",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Olivier Giroud",
+        "value": 137,
+        "aliases": [
+          "Giroud"
+        ],
+        "hint": "Un grand avant-centre redoutable de la tête",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Antoine Griezmann",
+        "value": 137,
+        "aliases": [
+          "Griezmann",
+          "Grizou"
+        ],
+        "hint": "Un attaquant passé par l'Espagne",
+        "ties": []
+      },
+      {
+        "rank": 5,
+        "name": "Thierry Henry",
+        "value": 123,
+        "aliases": [
+          "Henry",
+          "Titi"
+        ],
+        "hint": "Un attaquant devenu consultant télé",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Marcel Desailly",
+        "value": 116,
+        "aliases": [
+          "Desailly"
+        ],
+        "hint": "Un défenseur passé par l'Italie et l'Angleterre",
+        "ties": []
+      },
+      {
+        "rank": 7,
+        "name": "Zinédine Zidane",
+        "value": 108,
+        "aliases": [
+          "Zidane",
+          "Zizou",
+          "Zinedine Zidane"
+        ],
+        "hint": "Un milieu offensif des années 1990-2000",
+        "ties": []
+      },
+      {
+        "rank": 8,
+        "name": "Kylian Mbappé",
+        "value": 107,
+        "aliases": [
+          "Mbappé",
+          "Mbappe",
+          "Kylian"
+        ],
+        "hint": "Un attaquant encore en activité",
+        "ties": []
+      },
+      {
+        "rank": 8,
+        "name": "Patrick Vieira",
+        "value": 107,
+        "aliases": [
+          "Vieira"
+        ],
+        "hint": "Un milieu défensif devenu entraîneur",
+        "ties": []
+      },
+      {
+        "rank": 10,
+        "name": "Didier Deschamps",
+        "value": 103,
+        "aliases": [
+          "Deschamps",
+          "DD"
+        ],
+        "hint": "Un capitaine de 1998 devenu sélectionneur",
+        "ties": []
+      }
+    ]
+  },
+  {
+    "id": "transferts-les-plus-chers-histoire-football",
+    "title": "Les transferts les plus chers de l'histoire du football",
+    "measure": "Indemnité de transfert (montant de base, hors bonus)",
+    "category": "sport",
+    "unit": "M €",
+    "precision": 1,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Wikipédia – List of most expensive association football transfers",
+      "url": "https://en.wikipedia.org/wiki/List_of_most_expensive_association_football_transfers"
+    },
+    "confidence": "medium",
+    "notes": "Montants de base hors bonus, tels que listés par Wikipédia (les transferts réglés en livres sont convertis en euros au taux de l'époque, d'où des décimales). Le mercato d'été 2026 a bouleversé le classement. Enzo Fernández apparaît deux fois : son transfert de 2026 (Chelsea → Manchester City) et celui de 2023 (Benfica → Chelsea). Diomande et Barcola sont à égalité. Enzo Fernández figure deux fois : son transfert de Benfica à Chelsea (2023) et celui de Chelsea à Manchester City (2026).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Neymar",
+        "value": 222,
+        "aliases": [
+          "Neymar Jr",
+          "Neymar da Silva"
+        ],
+        "hint": "Un ailier sud-américain",
+        "ties": [],
+        "note": "FC Barcelone → PSG, 2017"
+      },
+      {
+        "rank": 2,
+        "name": "Kylian Mbappé",
+        "value": 180,
+        "aliases": [
+          "Mbappé",
+          "Mbappe",
+          "Kylian"
+        ],
+        "hint": "Un transfert entre deux clubs français",
+        "ties": [],
+        "note": "AS Monaco → PSG, 2017 (prêt puis achat 2018)"
+      },
+      {
+        "rank": 3,
+        "name": "Enzo Fernández (2026)",
+        "value": 145.8,
+        "aliases": [
+          "Enzo Fernandez",
+          "Fernández",
+          "Fernandez",
+          "Enzo",
+          "Enzo Fernández"
+        ],
+        "hint": "Un milieu sud-américain vendu entre clubs anglais",
+        "ties": [],
+        "note": "Chelsea → Manchester City, 2026"
+      },
+      {
+        "rank": 4,
+        "name": "Alexander Isak",
+        "value": 144.5,
+        "aliases": [
+          "Isak"
+        ],
+        "hint": "Un attaquant scandinave",
+        "ties": [],
+        "note": "Newcastle United → Liverpool, 2025"
+      },
+      {
+        "rank": 5,
+        "name": "Morgan Rogers",
+        "value": 137.3,
+        "aliases": [
+          "Rogers"
+        ],
+        "hint": "Un milieu offensif anglais parti à Londres",
+        "ties": [],
+        "note": "Aston Villa → Chelsea, 2026"
+      },
+      {
+        "rank": 6,
+        "name": "Elliot Anderson",
+        "value": 135.5,
+        "aliases": [
+          "Anderson",
+          "Elliott Anderson"
+        ],
+        "hint": "Un milieu anglais parti à Manchester",
+        "ties": [],
+        "note": "Nottingham Forest → Manchester City, 2026"
+      },
+      {
+        "rank": 7,
+        "name": "João Félix",
+        "value": 126,
+        "aliases": [
+          "Joao Felix",
+          "Félix",
+          "Felix"
+        ],
+        "hint": "Un jeune Portugais parti en Espagne",
+        "ties": [],
+        "note": "Benfica → Atlético Madrid, 2019"
+      },
+      {
+        "rank": 8,
+        "name": "Yan Diomande",
+        "value": 125,
+        "aliases": [
+          "Diomande",
+          "Diomandé"
+        ],
+        "hint": "Un ailier africain parti en Espagne",
+        "ties": [],
+        "note": "RB Leipzig → Real Madrid, 2026"
+      },
+      {
+        "rank": 8,
+        "name": "Bradley Barcola",
+        "value": 125,
+        "aliases": [
+          "Barcola"
+        ],
+        "hint": "Un ailier français parti en Angleterre",
+        "ties": [],
+        "note": "PSG → Liverpool, 2026"
+      },
+      {
+        "rank": 10,
+        "name": "Enzo Fernández (2023)",
+        "value": 121,
+        "aliases": [
+          "Enzo Fernandez",
+          "Fernández",
+          "Fernandez",
+          "Enzo",
+          "Enzo Fernández"
+        ],
+        "hint": "Un milieu sud-américain acheté au Portugal",
+        "ties": [],
+        "note": "Benfica → Chelsea, 2023"
+      }
+    ]
+  },
+  {
+    "id": "footballeurs-les-plus-suivis-instagram",
+    "title": "Les footballeurs les plus suivis sur Instagram",
+    "measure": "Abonnés Instagram",
+    "category": "sport",
+    "unit": "M d'abonnés",
+    "precision": 1,
+    "year": "oct. 2026",
+    "source": {
+      "name": "SportsMonkie – Most Followed Footballers on Instagram (2026)",
+      "url": "https://sportsmonkie.com/most-followed-footballers-on-instagram/"
+    },
+    "confidence": "medium",
+    "notes": "Instantané du 10 août 2026 ; les compteurs bougent chaque jour (début octobre 2026, Wikipédia donne déjà 679 M pour Ronaldo, 517 M pour Messi, 241 M pour Neymar et 136 M pour Mbappé). Paul Pogba (environ 65 M) talonne la dernière place. Joueurs retraités inclus.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Cristiano Ronaldo",
+        "value": 670,
+        "aliases": [
+          "Ronaldo",
+          "CR7",
+          "Cristiano"
+        ],
+        "hint": "Un attaquant encore en activité en Asie",
+        "ties": []
+      },
+      {
+        "rank": 2,
+        "name": "Lionel Messi",
+        "value": 511,
+        "aliases": [
+          "Messi",
+          "Leo Messi"
+        ],
+        "hint": "Un attaquant sud-américain parti en Amérique du Nord",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Neymar",
+        "value": 234,
+        "aliases": [
+          "Neymar Jr"
+        ],
+        "hint": "Un ailier revenu dans son pays natal",
+        "ties": []
+      },
+      {
+        "rank": 4,
+        "name": "Kylian Mbappé",
+        "value": 130,
+        "aliases": [
+          "Mbappé",
+          "Mbappe",
+          "Kylian"
+        ],
+        "hint": "Un attaquant français encore en activité",
+        "ties": []
+      },
+      {
+        "rank": 5,
+        "name": "David Beckham",
+        "value": 88.6,
+        "aliases": [
+          "Beckham"
+        ],
+        "hint": "Un ancien milieu anglais devenu homme d'affaires",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Ronaldinho",
+        "value": 78,
+        "aliases": [
+          "Ronaldinho Gaúcho",
+          "Ronaldinho Gaucho"
+        ],
+        "hint": "Un ancien magicien sud-américain des années 2000",
+        "ties": []
+      },
+      {
+        "rank": 7,
+        "name": "Karim Benzema",
+        "value": 75,
+        "aliases": [
+          "Benzema",
+          "KB9"
+        ],
+        "hint": "Un avant-centre français parti au Moyen-Orient",
+        "ties": []
+      },
+      {
+        "rank": 8,
+        "name": "Marcelo",
+        "value": 68.5,
+        "aliases": [
+          "Marcelo Vieira"
+        ],
+        "hint": "Un ancien latéral gauche sud-américain",
+        "ties": []
+      },
+      {
+        "rank": 9,
+        "name": "Sergio Ramos",
+        "value": 67.5,
+        "aliases": [
+          "Ramos"
+        ],
+        "hint": "Un défenseur central à la carrière très longue",
+        "ties": []
+      },
+      {
+        "rank": 10,
+        "name": "Mohamed Salah",
+        "value": 66,
+        "aliases": [
+          "Salah",
+          "Mo Salah"
+        ],
+        "hint": "Un ailier africain en Angleterre",
+        "ties": []
+      }
+    ]
+  },
+  {
+    "id": "affluence-moyenne-ligue-1-2025-26",
+    "title": "Les clubs de Ligue 1 avec la plus forte affluence moyenne",
+    "measure": "Affluence moyenne à domicile, saison 2025-26 complète",
+    "category": "sport",
+    "unit": "spectateurs",
+    "precision": 0,
+    "year": "oct. 2026",
+    "source": {
+      "name": "Sport Business Club (données LFP) – Records d'affluence en Ligue 1 et Ligue 2 2025-26",
+      "url": "https://www.sportbusiness.club/football-ligue1-ligue2-nouveaux-records-affluence-stades-2025-2026/"
+    },
+    "confidence": "medium",
+    "notes": "Saison 2025-26 complète (34 journées, bilan LFP publié le 26 mai 2026) : la saison 2026-27 est trop jeune pour un classement. Moyenne de la Ligue 1 : 27 588 spectateurs par match. Lens, Lorient et Brest comptent parmi les stades les mieux remplis en pourcentage, mais pas en nombre. Monaco ferme la marche (8 120).",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Olympique de Marseille",
+        "value": 62612,
+        "aliases": [
+          "OM",
+          "Marseille"
+        ],
+        "hint": "Un club du Sud",
+        "ties": []
+      },
+      {
+        "rank": 2,
+        "name": "Olympique Lyonnais",
+        "value": 49848,
+        "aliases": [
+          "OL",
+          "Lyon"
+        ],
+        "hint": "Un club au stade construit dans les années 2010",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Paris Saint-Germain",
+        "value": 47848,
+        "aliases": [
+          "PSG",
+          "Paris",
+          "Paris SG",
+          "Paris Saint Germain"
+        ],
+        "hint": "Un club de la capitale",
+        "ties": []
+      },
+      {
+        "rank": 4,
+        "name": "LOSC Lille",
+        "value": 43116,
+        "aliases": [
+          "Lille",
+          "LOSC"
+        ],
+        "hint": "Un club du Nord",
+        "ties": []
+      },
+      {
+        "rank": 5,
+        "name": "RC Lens",
+        "value": 37569,
+        "aliases": [
+          "Lens",
+          "RCL",
+          "Les Sang et Or"
+        ],
+        "hint": "Un club du Nord au public réputé bouillant",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "RC Strasbourg",
+        "value": 28202,
+        "aliases": [
+          "Strasbourg",
+          "Racing",
+          "RCSA"
+        ],
+        "hint": "Un club de l'Est",
+        "ties": []
+      },
+      {
+        "rank": 7,
+        "name": "Stade Rennais",
+        "value": 27764,
+        "aliases": [
+          "Rennes",
+          "SRFC"
+        ],
+        "hint": "Un club breton",
+        "ties": []
+      },
+      {
+        "rank": 8,
+        "name": "FC Nantes",
+        "value": 27478,
+        "aliases": [
+          "Nantes",
+          "FCN",
+          "Les Canaris"
+        ],
+        "hint": "Un club de l'Ouest",
+        "ties": []
+      },
+      {
+        "rank": 9,
+        "name": "Toulouse FC",
+        "value": 24593,
+        "aliases": [
+          "Toulouse",
+          "TFC",
+          "Téfécé"
+        ],
+        "hint": "Un club du Sud-Ouest",
+        "ties": []
+      },
+      {
+        "rank": 10,
+        "name": "OGC Nice",
+        "value": 22078,
+        "aliases": [
+          "Nice",
+          "OGCN",
+          "Les Aiglons"
+        ],
+        "hint": "Un club de la Côte d'Azur",
+        "ties": []
+      }
+    ]
+  },
+  {
+    "id": "clubs-les-plus-suivis-instagram-monde",
+    "title": "Les clubs de football les plus suivis sur Instagram",
+    "measure": "Abonnés Instagram du compte officiel",
+    "category": "sport",
+    "unit": "M d'abonnés",
+    "precision": 1,
+    "year": "oct. 2026",
+    "source": {
+      "name": "GiveMeSport – 25 Most Followed Clubs in World Football (2026), complété par Wikipédia et HypeAuditor",
+      "url": "https://www.givemesport.com/football-clubs-most-social-media-followers/"
+    },
+    "confidence": "medium",
+    "notes": "Instantané composite 2026 : Real Madrid et Barcelone d'après Wikipédia (3 octobre 2026), PSG, Manchester United et Manchester City d'après HypeAuditor (juin, août et février 2026), les autres d'après GiveMeSport (août 2026). PSG et Manchester United sont au coude-à-coude et se dépassent régulièrement. Les comptes des grands clubs sud-américains (Flamengo ≈ 25 M) et saoudiens restent loin derrière.",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Real Madrid",
+        "value": 181,
+        "aliases": [
+          "Real",
+          "Madrid",
+          "Real Madrid CF"
+        ],
+        "hint": "Un club espagnol",
+        "ties": []
+      },
+      {
+        "rank": 2,
+        "name": "FC Barcelone",
+        "value": 148,
+        "aliases": [
+          "Barcelone",
+          "Barça",
+          "Barca",
+          "FC Barcelona",
+          "Barcelona"
+        ],
+        "hint": "Un club espagnol à la formation réputée",
+        "ties": []
+      },
+      {
+        "rank": 3,
+        "name": "Paris Saint-Germain",
+        "value": 66.4,
+        "aliases": [
+          "PSG",
+          "Paris",
+          "Paris SG",
+          "Paris Saint Germain"
+        ],
+        "hint": "Un club français",
+        "ties": []
+      },
+      {
+        "rank": 4,
+        "name": "Manchester United",
+        "value": 66,
+        "aliases": [
+          "Man United",
+          "Man Utd",
+          "United",
+          "MU"
+        ],
+        "hint": "Un club anglais du Nord",
+        "ties": []
+      },
+      {
+        "rank": 5,
+        "name": "Juventus",
+        "value": 58.8,
+        "aliases": [
+          "Juve",
+          "Juventus Turin",
+          "La Juve"
+        ],
+        "hint": "Un club italien",
+        "ties": []
+      },
+      {
+        "rank": 6,
+        "name": "Manchester City",
+        "value": 56.4,
+        "aliases": [
+          "Man City",
+          "City",
+          "MCFC"
+        ],
+        "hint": "Un club anglais du Nord",
+        "ties": []
+      },
+      {
+        "rank": 7,
+        "name": "Liverpool",
+        "value": 48.4,
+        "aliases": [
+          "Liverpool FC",
+          "LFC",
+          "Les Reds"
+        ],
+        "hint": "Un club anglais du Nord-Ouest",
+        "ties": []
+      },
+      {
+        "rank": 8,
+        "name": "Bayern Munich",
+        "value": 44.5,
+        "aliases": [
+          "Bayern",
+          "Bayern München",
+          "FC Bayern"
+        ],
+        "hint": "Un club allemand",
+        "ties": []
+      },
+      {
+        "rank": 9,
+        "name": "Chelsea",
+        "value": 44.1,
+        "aliases": [
+          "Chelsea FC",
+          "Les Blues"
+        ],
+        "hint": "Un club londonien",
+        "ties": []
+      },
+      {
+        "rank": 10,
+        "name": "Arsenal",
+        "value": 31.5,
+        "aliases": [
+          "Arsenal FC",
+          "Les Gunners"
+        ],
+        "hint": "Un club londonien",
+        "ties": []
+      }
+    ]
+  }
+]

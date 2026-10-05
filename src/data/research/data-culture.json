@@ -22,7 +22,8 @@
           "Avengers: Endgame",
           "Endgame",
           "Avengers 4"
-        ]
+        ],
+        "hint": "Un film de super-héros des années 2010"
       },
       {
         "rank": 2,
@@ -30,7 +31,8 @@
         "value": 2.92,
         "aliases": [
           "Avatar 1"
-        ]
+        ],
+        "hint": "Une épopée de science-fiction des années 2000"
       },
       {
         "rank": 3,
@@ -40,7 +42,8 @@
           "Spider-Man: Brand New Day",
           "Brand New Day",
           "Spider-Man 4"
-        ]
+        ],
+        "hint": "Un film de super-héros des années 2020"
       },
       {
         "rank": 4,
@@ -50,7 +53,8 @@
           "Avatar: The Way of Water",
           "Avatar 2",
           "La Voie de l'eau"
-        ]
+        ],
+        "hint": "Une suite de science-fiction des années 2020"
       },
       {
         "rank": 5,
@@ -60,13 +64,15 @@
           "Nezha 2",
           "Ne Zha II",
           "Nezha"
-        ]
+        ],
+        "hint": "Un film d'animation chinois"
       },
       {
         "rank": 6,
         "name": "Titanic",
         "value": 2.26,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une romance historique des années 1990"
       },
       {
         "rank": 7,
@@ -77,7 +83,8 @@
           "Le Réveil de la Force",
           "Star Wars 7",
           "The Force Awakens"
-        ]
+        ],
+        "hint": "Une saga spatiale relancée dans les années 2010"
       },
       {
         "rank": 8,
@@ -87,7 +94,8 @@
           "Avengers: Infinity War",
           "Infinity War",
           "Avengers 3"
-        ]
+        ],
+        "hint": "Un film de super-héros en équipe des années 2010"
       },
       {
         "rank": 9,
@@ -96,7 +104,8 @@
         "aliases": [
           "Spider-Man: No Way Home",
           "No Way Home"
-        ]
+        ],
+        "hint": "Un film de super-héros du début des années 2020"
       },
       {
         "rank": 10,
@@ -105,7 +114,8 @@
         "aliases": [
           "Zootopia 2",
           "Zootropolis 2"
-        ]
+        ],
+        "hint": "Une suite d'animation américaine"
       }
     ]
   },
@@ -128,7 +138,8 @@
         "rank": 1,
         "name": "Titanic",
         "value": 22.32,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une romance américaine des années 1990"
       },
       {
         "rank": 2,
@@ -137,13 +148,15 @@
         "aliases": [
           "Les Ch'tis",
           "Ch'tis"
-        ]
+        ],
+        "hint": "Une comédie française des années 2000"
       },
       {
         "rank": 3,
         "name": "Intouchables",
         "value": 19.53,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une comédie dramatique française des années 2010"
       },
       {
         "rank": 4,
@@ -152,7 +165,8 @@
         "aliases": [
           "Blanche-Neige",
           "Snow White and the Seven Dwarfs"
-        ]
+        ],
+        "hint": "Un dessin animé américain d'avant-guerre"
       },
       {
         "rank": 5,
@@ -160,7 +174,8 @@
         "value": 17.34,
         "aliases": [
           "Grande Vadrouille"
-        ]
+        ],
+        "hint": "Une comédie française des années 1960"
       },
       {
         "rank": 6,
@@ -168,7 +183,8 @@
         "value": 16.73,
         "aliases": [
           "Gone with the Wind"
-        ]
+        ],
+        "hint": "Un drame hollywoodien des années 1930"
       },
       {
         "rank": 7,
@@ -176,7 +192,8 @@
         "value": 15.35,
         "aliases": [
           "Avatar 1"
-        ]
+        ],
+        "hint": "Une science-fiction américaine des années 2000"
       },
       {
         "rank": 8,
@@ -185,7 +202,8 @@
         "aliases": [
           "Mission Cléopâtre",
           "Astérix Mission Cléopâtre"
-        ]
+        ],
+        "hint": "Une comédie française adaptée d'une BD"
       },
       {
         "rank": 9,
@@ -194,7 +212,8 @@
         "aliases": [
           "Once Upon a Time in the West",
           "C'era una volta il West"
-        ]
+        ],
+        "hint": "Un western des années 1960"
       },
       {
         "rank": 10,
@@ -203,7 +222,8 @@
         "aliases": [
           "The Jungle Book",
           "Livre de la jungle"
-        ]
+        ],
+        "hint": "Un dessin animé américain des années 1960"
       }
     ]
   },
@@ -230,7 +250,8 @@
           "The Weeknd",
           "Weeknd",
           "Blinding Lights The Weeknd"
-        ]
+        ],
+        "hint": "Un tube synthpop de la fin des années 2010"
       },
       {
         "rank": 2,
@@ -239,7 +260,8 @@
         "aliases": [
           "Ed Sheeran",
           "Shape of You Ed Sheeran"
-        ]
+        ],
+        "hint": "Une pop britannique des années 2010"
       },
       {
         "rank": 3,
@@ -249,7 +271,8 @@
           "The Neighbourhood",
           "Neighbourhood",
           "Sweater Weather The Neighbourhood"
-        ]
+        ],
+        "hint": "Un morceau indie des années 2010"
       },
       {
         "rank": 4,
@@ -260,7 +283,8 @@
           "Weeknd",
           "Daft Punk",
           "Starboy The Weeknd"
-        ]
+        ],
+        "hint": "Un titre R&B avec un duo électro"
       },
       {
         "rank": 5,
@@ -269,7 +293,8 @@
         "aliases": [
           "Harry Styles",
           "As It Was Harry Styles"
-        ]
+        ],
+        "hint": "Un tube pop de 2022"
       },
       {
         "rank": 6,
@@ -280,7 +305,8 @@
           "One Dance Drake",
           "Wizkid",
           "Kyla"
-        ]
+        ],
+        "hint": "Un titre afrobeats-rap des années 2010"
       },
       {
         "rank": 7,
@@ -291,7 +317,8 @@
           "Swae Lee",
           "Sunflower Post Malone",
           "Spider-Man: Into the Spider-Verse"
-        ]
+        ],
+        "hint": "Une chanson tirée d'un film d'animation"
       },
       {
         "rank": 8,
@@ -300,7 +327,8 @@
         "aliases": [
           "Lewis Capaldi",
           "Someone You Loved Lewis Capaldi"
-        ]
+        ],
+        "hint": "Une ballade écossaise au piano"
       },
       {
         "rank": 9,
@@ -309,7 +337,8 @@
         "aliases": [
           "Ed Sheeran",
           "Perfect Ed Sheeran"
-        ]
+        ],
+        "hint": "Une ballade romantique britannique"
       },
       {
         "rank": 10,
@@ -321,7 +350,8 @@
           "Justin Bieber",
           "Stay Justin Bieber",
           "Stay The Kid Laroi"
-        ]
+        ],
+        "hint": "Un duo pop-punk des années 2020"
       }
     ]
   },
@@ -346,7 +376,8 @@
         "value": 21,
         "aliases": [
           "Benito Antonio Martínez Ocasio"
-        ]
+        ],
+        "hint": "Un rappeur latino"
       },
       {
         "rank": 2,
@@ -354,7 +385,8 @@
         "value": 20.59,
         "aliases": [
           "Taylor"
-        ]
+        ],
+        "hint": "Une chanteuse pop américaine"
       },
       {
         "rank": 3,
@@ -363,13 +395,15 @@
         "aliases": [
           "Weeknd",
           "Abel Tesfaye"
-        ]
+        ],
+        "hint": "Un chanteur R&B canadien"
       },
       {
         "rank": 4,
         "name": "Drake",
         "value": 12.64,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un rappeur canadien"
       },
       {
         "rank": 5,
@@ -377,7 +411,8 @@
         "value": 10.68,
         "aliases": [
           "Billie"
-        ]
+        ],
+        "hint": "Une jeune chanteuse pop américaine"
       },
       {
         "rank": 6,
@@ -385,7 +420,8 @@
         "value": 9.86,
         "aliases": [
           "Ariana"
-        ]
+        ],
+        "hint": "Une ex-star de série pour ados"
       },
       {
         "rank": 7,
@@ -393,25 +429,29 @@
         "value": 9.45,
         "aliases": [
           "Kendrick"
-        ]
+        ],
+        "hint": "Un rappeur de la côte Ouest"
       },
       {
         "rank": 8,
         "name": "Bruno Mars",
         "value": 9.27,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un chanteur funk-pop américain"
       },
       {
         "rank": 9,
         "name": "Fuerza Regida",
         "value": 9.02,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un groupe de musique régionale mexicaine"
       },
       {
         "rank": 10,
         "name": "Arijit Singh",
         "value": 8.97,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un chanteur de Bollywood"
       }
     ]
   },
@@ -437,7 +477,8 @@
         "aliases": [
           "Baby Shark",
           "Pinkfong"
-        ]
+        ],
+        "hint": "Une comptine pour enfants"
       },
       {
         "rank": 2,
@@ -446,7 +487,8 @@
         "aliases": [
           "Cocomelon",
           "The Wheels on the Bus"
-        ]
+        ],
+        "hint": "Une chanson pour enfants traditionnelle"
       },
       {
         "rank": 3,
@@ -456,7 +498,8 @@
           "Luis Fonsi",
           "Daddy Yankee",
           "Despacito Luis Fonsi"
-        ]
+        ],
+        "hint": "Un tube latino des années 2010"
       },
       {
         "rank": 4,
@@ -465,7 +508,8 @@
         "aliases": [
           "Cocomelon",
           "Cocomelon Bath Song"
-        ]
+        ],
+        "hint": "Une comptine du quotidien pour tout-petits"
       },
       {
         "rank": 5,
@@ -474,7 +518,8 @@
         "aliases": [
           "LooLoo Kids",
           "Johnny Johnny Yes Papa"
-        ]
+        ],
+        "hint": "Une comptine pour tout-petits en anglais"
       },
       {
         "rank": 6,
@@ -483,7 +528,8 @@
         "aliases": [
           "ChuChu TV",
           "Phonics Song"
-        ]
+        ],
+        "hint": "Une comptine pour apprendre l'alphabet"
       },
       {
         "rank": 7,
@@ -494,7 +540,8 @@
           "Charlie Puth",
           "Fast and Furious 7",
           "See You Again Wiz Khalifa"
-        ]
+        ],
+        "hint": "Une chanson tirée d'un film d'action"
       },
       {
         "rank": 8,
@@ -503,7 +550,8 @@
         "aliases": [
           "Ed Sheeran",
           "Shape of You Ed Sheeran"
-        ]
+        ],
+        "hint": "Une pop britannique des années 2010"
       },
       {
         "rank": 9,
@@ -512,7 +560,8 @@
         "aliases": [
           "Crazy Frog",
           "Crazy Frog Axel F"
-        ]
+        ],
+        "hint": "Une reprise électro d'un thème de cinéma"
       },
       {
         "rank": 10,
@@ -522,7 +571,8 @@
           "Psy",
           "PSY Gangnam Style",
           "Oppa Gangnam Style"
-        ]
+        ],
+        "hint": "Un tube K-pop des années 2010"
       }
     ]
   },
@@ -548,7 +598,8 @@
         "aliases": [
           "Mr Beast",
           "Jimmy Donaldson"
-        ]
+        ],
+        "hint": "Un youtubeur américain de défis"
       },
       {
         "rank": 2,
@@ -557,7 +608,8 @@
         "aliases": [
           "T Series",
           "TSeries"
-        ]
+        ],
+        "hint": "Un label musical indien"
       },
       {
         "rank": 3,
@@ -566,7 +618,8 @@
         "aliases": [
           "Cocomelon - Nursery Rhymes",
           "CoComelon"
-        ]
+        ],
+        "hint": "Une chaîne de comptines pour enfants"
       },
       {
         "rank": 4,
@@ -575,7 +628,8 @@
         "aliases": [
           "Sony Entertainment Television India",
           "Sony SET India"
-        ]
+        ],
+        "hint": "Une chaîne de télévision indienne"
       },
       {
         "rank": 5,
@@ -584,7 +638,8 @@
         "aliases": [
           "Vlad et Niki",
           "Vlad & Niki"
-        ]
+        ],
+        "hint": "Deux frères enfants stars"
       },
       {
         "rank": 6,
@@ -592,7 +647,8 @@
         "value": 147,
         "aliases": [
           "Stokes"
-        ]
+        ],
+        "hint": "Deux jumeaux américains"
       },
       {
         "rank": 7,
@@ -601,7 +657,8 @@
         "aliases": [
           "Diana",
           "Kids Diana"
-        ]
+        ],
+        "hint": "Une petite fille star"
       },
       {
         "rank": 8,
@@ -611,7 +668,8 @@
           "김프로KIMPRO",
           "Kim Pro",
           "Kimpro"
-        ]
+        ],
+        "hint": "Une chaîne de vidéos courtes asiatiques"
       },
       {
         "rank": 9,
@@ -619,7 +677,8 @@
         "value": 133,
         "aliases": [
           "Nastya"
-        ]
+        ],
+        "hint": "Une enfant star d'origine russe"
       },
       {
         "rank": 10,
@@ -627,7 +686,8 @@
         "value": 123,
         "aliases": [
           "Zee Music"
-        ]
+        ],
+        "hint": "Un label de Bollywood"
       }
     ]
   },
@@ -654,7 +714,8 @@
           "Ronaldo",
           "CR7",
           "cristiano"
-        ]
+        ],
+        "hint": "Un footballeur européen"
       },
       {
         "rank": 2,
@@ -664,7 +725,8 @@
           "Messi",
           "Leo Messi",
           "leomessi"
-        ]
+        ],
+        "hint": "Un footballeur sud-américain"
       },
       {
         "rank": 3,
@@ -672,7 +734,8 @@
         "value": 403,
         "aliases": [
           "Selena"
-        ]
+        ],
+        "hint": "Une chanteuse et actrice américaine"
       },
       {
         "rank": 4,
@@ -681,7 +744,8 @@
         "aliases": [
           "The Rock",
           "therock"
-        ]
+        ],
+        "hint": "Un acteur et ancien catcheur"
       },
       {
         "rank": 5,
@@ -689,7 +753,8 @@
         "value": 380,
         "aliases": [
           "Kylie"
-        ]
+        ],
+        "hint": "Une star de téléréalité devenue entrepreneure"
       },
       {
         "rank": 6,
@@ -697,7 +762,8 @@
         "value": 362,
         "aliases": [
           "Ariana"
-        ]
+        ],
+        "hint": "Une chanteuse pop américaine"
       },
       {
         "rank": 7,
@@ -705,7 +771,8 @@
         "value": 343,
         "aliases": [
           "Kim K"
-        ]
+        ],
+        "hint": "Une star de téléréalité"
       },
       {
         "rank": 8,
@@ -713,7 +780,8 @@
         "value": 299,
         "aliases": [
           "Beyonce Knowles"
-        ]
+        ],
+        "hint": "Une diva de la musique américaine"
       },
       {
         "rank": 9,
@@ -722,13 +790,15 @@
         "aliases": [
           "Khloé",
           "Khloe"
-        ]
+        ],
+        "hint": "Une star de téléréalité, sœur d'une autre"
       },
       {
         "rank": 10,
         "name": "Nike",
         "value": 291,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une marque de sport"
       }
     ]
   },
@@ -753,13 +823,15 @@
         "value": 520,
         "aliases": [
           "Tetris (toutes versions)"
-        ]
+        ],
+        "hint": "Un puzzle game des années 1980"
       },
       {
         "rank": 2,
         "name": "Minecraft",
         "value": 425,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un bac à sable"
       },
       {
         "rank": 3,
@@ -769,7 +841,8 @@
           "GTA V",
           "GTA 5",
           "GTA"
-        ]
+        ],
+        "hint": "Un monde ouvert criminel"
       },
       {
         "rank": 4,
@@ -779,13 +852,15 @@
           "RDR2",
           "Red Dead 2",
           "Red Dead Redemption II"
-        ]
+        ],
+        "hint": "Un western en monde ouvert"
       },
       {
         "rank": 5,
         "name": "Wii Sports",
         "value": 82.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un jeu de sport sur console familiale"
       },
       {
         "rank": 6,
@@ -794,7 +869,8 @@
         "aliases": [
           "Mario Kart 8",
           "Mario Kart"
-        ]
+        ],
+        "hint": "Un jeu de course sur console"
       },
       {
         "rank": 7,
@@ -804,13 +880,15 @@
           "PUBG",
           "PlayerUnknown's Battlegrounds",
           "Battlegrounds"
-        ]
+        ],
+        "hint": "Un battle royale"
       },
       {
         "rank": 8,
         "name": "Terraria",
         "value": 70,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un bac à sable en 2D"
       },
       {
         "rank": 9,
@@ -820,7 +898,8 @@
           "Skyrim",
           "Elder Scrolls V",
           "The Elder Scrolls 5"
-        ]
+        ],
+        "hint": "Un RPG fantastique des années 2010"
       },
       {
         "rank": 10,
@@ -830,7 +909,8 @@
           "The Witcher 3",
           "Witcher 3",
           "The Witcher"
-        ]
+        ],
+        "hint": "Un RPG adapté de romans polonais"
       }
     ]
   },
@@ -857,7 +937,8 @@
           "Squid Game",
           "Squid Game saison 1",
           "Squid Game 1"
-        ]
+        ],
+        "hint": "Une série coréenne"
       },
       {
         "rank": 2,
@@ -868,7 +949,8 @@
           "Mercredi",
           "Wednesday saison 1",
           "Mercredi saison 1"
-        ]
+        ],
+        "hint": "Une série gothique pour ados"
       },
       {
         "rank": 3,
@@ -877,7 +959,8 @@
         "aliases": [
           "Squid Game 2",
           "Squid Game saison 2"
-        ]
+        ],
+        "hint": "La suite d'une série coréenne"
       },
       {
         "rank": 4,
@@ -886,7 +969,8 @@
         "aliases": [
           "Squid Game 3",
           "Squid Game saison 3"
-        ]
+        ],
+        "hint": "La fin d'une série coréenne"
       },
       {
         "rank": 5,
@@ -894,7 +978,8 @@
         "value": 142.6,
         "aliases": [
           "Adolescence (mini-série)"
-        ]
+        ],
+        "hint": "Un drame britannique en plans-séquences"
       },
       {
         "rank": 6,
@@ -904,7 +989,8 @@
           "Stranger Things",
           "Stranger Things 4",
           "Stranger Things saison 4"
-        ]
+        ],
+        "hint": "Une série fantastique années 1980"
       },
       {
         "rank": 7,
@@ -913,7 +999,8 @@
         "aliases": [
           "Stranger Things 5",
           "Stranger Things saison 5"
-        ]
+        ],
+        "hint": "La fin d'une série fantastique américaine"
       },
       {
         "rank": 8,
@@ -922,7 +1009,8 @@
         "aliases": [
           "I Will Find You (Harlan Coben)",
           "Harlan Coben"
-        ]
+        ],
+        "hint": "Un thriller américain adapté d'un roman"
       },
       {
         "rank": 9,
@@ -933,7 +1021,8 @@
           "Wednesday 2",
           "Mercredi saison 2",
           "Mercredi 2"
-        ]
+        ],
+        "hint": "La suite d'une série gothique pour ados"
       },
       {
         "rank": 10,
@@ -945,7 +1034,8 @@
           "Monster: The Jeffrey Dahmer Story",
           "Monstre",
           "Jeffrey Dahmer"
-        ]
+        ],
+        "hint": "Une série true crime américaine"
       }
     ]
   },
@@ -972,13 +1062,15 @@
           "K-Pop Demon Hunters",
           "KPop Demon Hunter",
           "Demon Hunters"
-        ]
+        ],
+        "hint": "Un film d'animation musical"
       },
       {
         "rank": 2,
         "name": "Red Notice",
         "value": 230.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une comédie d'action avec un casting de stars"
       },
       {
         "rank": 3,
@@ -986,7 +1078,8 @@
         "value": 172.1,
         "aliases": [
           "Carry On"
-        ]
+        ],
+        "hint": "Un thriller de Noël"
       },
       {
         "rank": 4,
@@ -995,7 +1088,8 @@
         "aliases": [
           "Don't Look Up",
           "Déni cosmique"
-        ]
+        ],
+        "hint": "Une satire de fin du monde"
       },
       {
         "rank": 5,
@@ -1004,25 +1098,29 @@
         "aliases": [
           "The Adam Project",
           "Adam Project"
-        ]
+        ],
+        "hint": "Une aventure de science-fiction familiale"
       },
       {
         "rank": 6,
         "name": "Bird Box",
         "value": 157.4,
-        "aliases": []
+        "aliases": [],
+        "hint": "Un film d'horreur post-apocalyptique"
       },
       {
         "rank": 7,
         "name": "Back in Action",
         "value": 147.2,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une comédie d'espionnage des années 2020"
       },
       {
         "rank": 8,
         "name": "Swapped",
         "value": 144.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une comédie américaine des années 2020"
       },
       {
         "rank": 9,
@@ -1030,13 +1128,15 @@
         "value": 143.4,
         "aliases": [
           "Leave the World Behind"
-        ]
+        ],
+        "hint": "Un thriller apocalyptique des années 2020"
       },
       {
         "rank": 10,
         "name": "War Machine",
         "value": 139.9,
-        "aliases": []
+        "aliases": [],
+        "hint": "Une satire militaire avec une star hollywoodienne"
       }
     ]
   },
@@ -1062,7 +1162,8 @@
         "aliases": [
           "Louvre",
           "Le Louvre"
-        ]
+        ],
+        "hint": "Un musée parisien"
       },
       {
         "rank": 2,
@@ -1072,7 +1173,8 @@
           "Vatican",
           "Vatican Museums",
           "Musée du Vatican"
-        ]
+        ],
+        "hint": "Un musée dans un micro-État"
       },
       {
         "rank": 3,
@@ -1082,7 +1184,8 @@
           "National Museum of Korea",
           "Musée national de Séoul",
           "Séoul"
-        ]
+        ],
+        "hint": "Un musée d'Asie de l'Est"
       },
       {
         "rank": 4,
@@ -1091,7 +1194,8 @@
         "aliases": [
           "Musée britannique",
           "British"
-        ]
+        ],
+        "hint": "Un musée londonien d'antiquités"
       },
       {
         "rank": 5,
@@ -1102,7 +1206,8 @@
           "The Met",
           "Metropolitan",
           "MET New York"
-        ]
+        ],
+        "hint": "Un musée new-yorkais"
       },
       {
         "rank": 6,
@@ -1112,7 +1217,8 @@
           "State Russian Museum",
           "Musée d'État russe",
           "Musée russe de Saint-Pétersbourg"
-        ]
+        ],
+        "hint": "Un musée d'Europe de l'Est"
       },
       {
         "rank": 7,
@@ -1122,7 +1228,8 @@
           "Museo Nacional de Antropología",
           "Musée d'anthropologie de Mexico",
           "Mexico"
-        ]
+        ],
+        "hint": "Un musée d'Amérique latine"
       },
       {
         "rank": 8,
@@ -1130,7 +1237,8 @@
         "value": 4.51,
         "aliases": [
           "Tate"
-        ]
+        ],
+        "hint": "Un musée londonien d'art contemporain"
       },
       {
         "rank": 9,
@@ -1140,7 +1248,8 @@
           "Musée de Shanghai",
           "Shanghai Museum",
           "Shanghai"
-        ]
+        ],
+        "hint": "Un musée chinois"
       },
       {
         "rank": 10,
@@ -1150,7 +1259,8 @@
           "National Gallery of Art",
           "NGA Washington",
           "National Gallery Washington"
-        ]
+        ],
+        "hint": "Un musée de la capitale américaine"
       }
     ]
   },
@@ -1179,7 +1289,8 @@
           "ouverture JO Paris",
           "Paris 2024",
           "JO Paris 2024"
-        ]
+        ],
+        "hint": "Une cérémonie olympique"
       },
       {
         "rank": 2,
@@ -1191,7 +1302,8 @@
           "Argentine-France",
           "finale 2022",
           "finale Coupe du monde 2022"
-        ]
+        ],
+        "hint": "Une finale de football des années 2020"
       },
       {
         "rank": 3,
@@ -1201,7 +1313,8 @@
           "Portugal-France 2006",
           "France-Portugal 2006",
           "demi-finale 2006"
-        ]
+        ],
+        "hint": "Une demi-finale de football des années 2000"
       },
       {
         "rank": 4,
@@ -1213,7 +1326,8 @@
           "finale 2006",
           "finale Coupe du monde 2006",
           "coup de boule Zidane"
-        ]
+        ],
+        "hint": "Une finale de football des années 2000"
       },
       {
         "rank": 5,
@@ -1223,7 +1337,8 @@
           "France-Italie 2000",
           "Euro 2000",
           "finale Euro 2000"
-        ]
+        ],
+        "hint": "Une finale continentale du début du siècle"
       },
       {
         "rank": 6,
@@ -1234,7 +1349,8 @@
           "France-Portugal 2016",
           "finale Euro 2016",
           "Euro 2016"
-        ]
+        ],
+        "hint": "Une finale continentale à domicile"
       },
       {
         "rank": 7,
@@ -1244,7 +1360,8 @@
           "France-Maroc",
           "France Maroc 2022",
           "demi-finale 2022"
-        ]
+        ],
+        "hint": "Une demi-finale de football des années 2020"
       },
       {
         "rank": 8,
@@ -1255,7 +1372,8 @@
           "France Brésil 1998",
           "finale 1998",
           "finale Coupe du monde 1998"
-        ]
+        ],
+        "hint": "Une finale de football des années 1990"
       },
       {
         "rank": 9,
@@ -1266,7 +1384,8 @@
           "France Espagne 2026",
           "demi-finale 2026",
           "Coupe du monde 2026"
-        ]
+        ],
+        "hint": "Une demi-finale de football très récente"
       },
       {
         "rank": 10,
@@ -1276,7 +1395,8 @@
           "Espagne-France 2006",
           "France-Espagne 2006",
           "huitième 2006"
-        ]
+        ],
+        "hint": "Un huitième de finale des années 2000"
       }
     ]
   },
@@ -1304,7 +1424,8 @@
           "Super Bowl 59",
           "Super Bowl LIX",
           "Eagles-Chiefs 2025"
-        ]
+        ],
+        "hint": "Une finale NFL très récente"
       },
       {
         "rank": 2,
@@ -1314,7 +1435,8 @@
           "Super Bowl 2026",
           "Super Bowl 60",
           "Super Bowl LX"
-        ]
+        ],
+        "hint": "La finale NFL la plus récente"
       },
       {
         "rank": 3,
@@ -1325,7 +1447,8 @@
           "Super Bowl 58",
           "Super Bowl LVIII",
           "Chiefs-49ers 2024"
-        ]
+        ],
+        "hint": "Une finale NFL du milieu des années 2020"
       },
       {
         "rank": 4,
@@ -1335,7 +1458,8 @@
           "Super Bowl 2023",
           "Super Bowl 57",
           "Super Bowl LVII"
-        ]
+        ],
+        "hint": "Une finale NFL du début des années 2020"
       },
       {
         "rank": 5,
@@ -1345,7 +1469,8 @@
           "Super Bowl 2015",
           "Super Bowl 49",
           "Super Bowl XLIX"
-        ]
+        ],
+        "hint": "Une finale NFL du milieu des années 2010"
       },
       {
         "rank": 6,
@@ -1355,7 +1480,8 @@
           "Super Bowl 2014",
           "Super Bowl 48",
           "Super Bowl XLVIII"
-        ]
+        ],
+        "hint": "Une finale NFL d'il y a une douzaine d'années"
       },
       {
         "rank": 7,
@@ -1364,7 +1490,8 @@
         "aliases": [
           "Super Bowl 2016",
           "Super Bowl L"
-        ]
+        ],
+        "hint": "Une finale NFL d'il y a dix ans"
       },
       {
         "rank": 8,
@@ -1374,7 +1501,8 @@
           "Super Bowl 2017",
           "Super Bowl 51",
           "Super Bowl LI"
-        ]
+        ],
+        "hint": "Une finale NFL de la fin des années 2010"
       },
       {
         "rank": 9,
@@ -1384,7 +1512,8 @@
           "Super Bowl 2012",
           "Super Bowl 46",
           "Super Bowl XLVI"
-        ]
+        ],
+        "hint": "Une finale NFL du début des années 2010"
       },
       {
         "rank": 10,
@@ -1394,7 +1523,8 @@
           "Super Bowl 2011",
           "Super Bowl 45",
           "Super Bowl XLV"
-        ]
+        ],
+        "hint": "Une finale NFL d'il y a quinze ans"
       }
     ]
   }
